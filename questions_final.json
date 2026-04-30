@@ -1,0 +1,5375 @@
+[
+  {
+    "id": 1,
+    "category": "AERODINÁMICA",
+    "question": "CUANDO HABLAMOS DE LA RAMA DE LA FÍSICA, QUE ESTUDIA LAS REACCIONES DE UN CUERPO QUE SE SITÚA EN UNA CORRIENTE DE AIRE, O AIRE RELATIVO CON RESPECTO A SUS SUPERFICIES, NOS REFERIMOS A:",
+    "correct": "C",
+    "A": "EL PERFIL AERODINÁMICO",
+    "B": "EL DESPEGUE DE UNA AERONAVE",
+    "C": "LA AERODINÁMICA COMO CIENCIA",
+    "D": "NINGUNA DE LAS ANTERIORES."
+  },
+  {
+    "id": 2,
+    "category": "AERODINÁMICA",
+    "question": "UN PERFIL AERODINÁMICO, ES AQUEL:",
+    "correct": "B",
+    "A": "QUE POR SU FORMA PRODUCE CUATRO FUERZAS AERODINÁMICAS.",
+    "B": "QUE PRODUCE SUSTENTACIÓN O CUALQUIER OTRO EFECTO AERODINÁMICO.",
+    "C": "QUE PRODUCE POCA O NINGUNA RESISTENCIA.",
+    "D": "QUE REDUCE EL PESO DE LA AERONAVE."
+  },
+  {
+    "id": 3,
+    "category": "AERODINÁMICA",
+    "question": "LAS PARTES BÁSICAS DE UN PERFIL AERODINÁMICO, SON:",
+    "correct": "C",
+    "A": "BORDE DE ATAQUE - BORDE DE SALIDA - ALERONES - FLAPS - CUERDA.",
+    "B": "CUERDA - SLATS- SPOILERS - BORDE DE ATAQUE- BORDE DE SALIDA",
+    "C": "BORDE DE ATAQUE - BORDE DE SALIDA - INTRADÓS - EXTRADÓS- CUERDA",
+    "D": "LÍNEA MEDIA - CARA INFERIOR - PERFIL - BORDE DE SALIDA - BORDE DE ATAQUE."
+  },
+  {
+    "id": 4,
+    "category": "AERODINÁMICA",
+    "question": "CUANDO DECIMOS: \"LA CURVATURA ANTERIOR DE UN PERFIL AERODINÁMICO POR DONDE CHOCA EL VIENTO RELATIVO\", NOS REFERIMOS A:",
+    "correct": "A",
+    "A": "BORDE DE ATAQUE",
+    "B": "BORDE DE FUGA",
+    "C": "INTRADÓS",
+    "D": "EXTRADÓS"
+  },
+  {
+    "id": 5,
+    "category": "AERODINÁMICA",
+    "question": "EL SIGUIENTE ENUNCIADO \"LA DIFERENCIA DE PRESIÓN QUE OCURRE ENTRE EL INTRADÓS Y EL EXTRADÓS DE UN PERFIL AERODINÁMICO, CON RESPECTO A LA CORRIENTE DE AIRE DONDE ÉSTE SE DESPLACE\", NOS REFIERE A:",
+    "correct": "B",
+    "A": "TRAYECTORIA DE VUELO.",
+    "B": "SUSTENTACIÓN O TRACCIÓN.",
+    "C": "VUELO RECTO Y NIVELADO.",
+    "D": "VIENTO RELATIVO."
+  },
+  {
+    "id": 6,
+    "category": "AERODINÁMICA",
+    "question": "EL ÁNGULO FORMADO POR LA CUERDA DE UN PERFIL AERODINÁMICO EN MOVIMIENTO Y LA DIRECCIÓN DEL VIENTO RELATIVO, SE LLAMA:",
+    "correct": "B",
+    "A": "ÁNGULO DIEDRO",
+    "B": "ÁNGULO DE ATAQUE",
+    "C": "CUERDA DEL PERFIL.",
+    "D": "ÁNGULO DE INCIDENCIA."
+  },
+  {
+    "id": 7,
+    "category": "AERODINÁMICA",
+    "question": "LA FUERZA QUE SE OPONE A LA RESISTENCIA ES:",
+    "correct": "A",
+    "A": "LA TRACCIÓN O EMPUJE",
+    "B": "EL PESO",
+    "C": "LA SUSTENTACIÓN",
+    "D": "EL VIENTO RELATIVO."
+  },
+  {
+    "id": 8,
+    "category": "AERODINÁMICA",
+    "question": "LOS ALERONES, EL TIMÓN DE PROFUNDIDAD Y EL TIMÓN DE DIRECCIÓN; PODEMOS DECIR QUE SON EL COMPLEMENTO DE UN PERFIL AERODINÁMICO DE UN AVIÓN?",
+    "correct": "A",
+    "A": "CIERTO.",
+    "B": "FALSO.",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 9,
+    "category": "AERODINÁMICA",
+    "question": "EL MOVIMIENTO QUE SE PRODUCE SOBRE EL EJE LONGITUDINAL DEL AVIÓN, SE CONOCE CÓMO:",
+    "correct": "A",
+    "A": "ALABEO",
+    "B": "CABECEO",
+    "C": "GUIÑADA",
+    "D": "DERROTA."
+  },
+  {
+    "id": 10,
+    "category": "AERODINÁMICA",
+    "question": "PARA PRODUCIR CAMBIOS EN EL ÁNGULO DE ATAQUE DE UN AVIÓN EL PILOTO DEBE EFECTUAR CAMBIOS EN:",
+    "correct": "D",
+    "A": "LOS ALERONES",
+    "B": "EL TIMÓN DIRECCIONAL",
+    "C": "LOS FLAPS.",
+    "D": "LOS ELEVADORES."
+  },
+  {
+    "id": 11,
+    "category": "AERODINÁMICA",
+    "question": "EL MOVIMIENTO DE GUIÑADA ES PRODUCIDO POR:",
+    "correct": "B",
+    "A": "LOS ALERONES",
+    "B": "EL TIMÓN DIRECCIONAL",
+    "C": "LOS FLAPS",
+    "D": "LOS ELEVADORES"
+  },
+  {
+    "id": 12,
+    "category": "AERODINÁMICA",
+    "question": "LA PARTE DELANTERA DE UN PERFIL AERODINÁMICO QUE ENFRENTA AL VIENTO RELATIVO, SE CONOCE CÓMO:",
+    "correct": "B",
+    "A": "BORDE DE FUGA",
+    "B": "BORDE DE ATAQUE",
+    "C": "CUERDA",
+    "D": "CURVATURA."
+  },
+  {
+    "id": 13,
+    "category": "AERODINÁMICA",
+    "question": "LA PARTE INFERIOR DEL PERFIL AERODINÁMICO ( ALA), ES EL EXTRADÓS:",
+    "correct": "B",
+    "A": "CIERTO",
+    "B": "FALSO",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 14,
+    "category": "AERODINÁMICA",
+    "question": "LA DISTANCIA ENTRE LOS DOS EXTREMOS DEL ALA, SE CONOCE CÓMO:",
+    "correct": "D",
+    "A": "ALARGAMIENTO",
+    "B": "SUPERFICIE ALAR",
+    "C": "FLECHA",
+    "D": "ENVERGADURA"
+  },
+  {
+    "id": 15,
+    "category": "AERODINÁMICA",
+    "question": "UN ALA DE MAYOR SUPERFICIE, PRODUCIRÁ MAYOR:",
+    "correct": "D",
+    "A": "SUSTENTACIÓN",
+    "B": "RESISTENCIA",
+    "C": "VELOCIDAD",
+    "D": "A Y B SON CORRECTAS."
+  },
+  {
+    "id": 16,
+    "category": "AERODINÁMICA",
+    "question": "EL ÁNGULO FORMADO POR LA POSICIÓN DE LAS ALAS VISTAS DE FRENTE Y LA LÍNEA DEL HORIZONTE, SE DENOMINA :",
+    "correct": "A",
+    "A": "DIEDRO",
+    "B": "ATAQUE",
+    "C": "VIRAJE",
+    "D": "INCIDENCIA"
+  },
+  {
+    "id": 17,
+    "category": "AERODINÁMICA",
+    "question": "LOS DISPOSITIVOS QUE SE UTILIZAN PARA AUMENTAR LA SUSTENTACIÓN EN VUELOS A BAJA VELOCIDAD SON:",
+    "correct": "C",
+    "A": "LOS ELEVADORES",
+    "B": "LOS ALERONES",
+    "C": "LOS FLAPS",
+    "D": "LOS SPOILERS"
+  },
+  {
+    "id": 18,
+    "category": "AERODINÁMICA",
+    "question": "PARA PRODUCIR MAYOR SUSTENTACIÓN EN UN AVIÓN SIN CAMBIAR EL ÁNGULO DE ATAQUE SE REQUIERE:",
+    "correct": "B",
+    "A": "AUMENTAR EL PESO",
+    "B": "EXTENDER LOS FLAPS",
+    "C": "VIRAR EL AVIÓN",
+    "D": "AUMENTAR LA VELOCIDAD."
+  },
+  {
+    "id": 19,
+    "category": "AERODINÁMICA",
+    "question": "UN ÁNGULO DE ATAQUE EXCESIVO PRODUCIRÁ:",
+    "correct": "A",
+    "A": "PÉRDIDA DE SUSTENTACIÓN",
+    "B": "MAYOR ASCENSO",
+    "C": "MAYOR VELOCIDAD.",
+    "D": "MENOR RESISTENCIA"
+  },
+  {
+    "id": 20,
+    "category": "AERODINÁMICA",
+    "question": "EL TEOREMA DE BERNOULLI, DICE QUE: A MEDIDA QUE LA VELOCIDAD DE UN FLUIDO AUMENTA, LA PRESIÓN:",
+    "correct": "A",
+    "A": "DISMINUYE",
+    "B": "AUMENTA",
+    "C": "QUEDA IGUAL",
+    "D": "SE DISPERSA"
+  },
+  {
+    "id": 21,
+    "category": "AERODINÁMICA",
+    "question": "LA FUERZA QUE SE PRODUCE EN UN PERFIL AERODINÁMICO DEBIDO A LA DIFERENCIA DE PRESIÓN ENTRE LA PARTE INFERIOR Y LA SUPERIOR, SE CONOCE CÓMO:",
+    "correct": "C",
+    "A": "GRAVEDAD",
+    "B": "PESO",
+    "C": "SUSTENTACIÓN",
+    "D": "RESISTENCIA."
+  },
+  {
+    "id": 22,
+    "category": "AERODINÁMICA",
+    "question": "EL ÁNGULO FORMADO POR EL EJE LONGITUDINAL DEL AVIÓN Y LA CUERDA MEDIA DEL ALA, SE DENOMINA:",
+    "correct": "D",
+    "A": "ÁNGULO DE ATAQUE",
+    "B": "ÁNGULO DE VIRAJE",
+    "C": "ÁNGULO DIEDRO",
+    "D": "ÁNGULO DE INCIDENCIA."
+  },
+  {
+    "id": 23,
+    "category": "AERODINÁMICA",
+    "question": "EL FLUJO DEL AIRE QUE SE ENFRENTA A UN PERFIL AERODINÁMICO, Y QUE ES CONTRARIO A LA TRAYECTORIA DE ÉSTE, ES LLAMADO :",
+    "correct": "B",
+    "A": "VIENTO DE COLA",
+    "B": "VIENTO RELATIVO",
+    "C": "VIENTO ASCENDENTE",
+    "D": "VIENTO CORTANTE."
+  },
+  {
+    "id": 24,
+    "category": "AERODINÁMICA",
+    "question": "EL ÁNGULO FORMADO ENTRE LAS LÍNEAS DE VIENTO RELATIVO Y LA CUERDA MEDIA DEL ALA SE LLAMA:",
+    "correct": "A",
+    "A": "ÁNGULO DE ATAQUE.",
+    "B": "ÁNGULO DE VIRAJE",
+    "C": "ÁNGULO DIEDRO.",
+    "D": "ÁNGULO DE INCIDENCIA."
+  },
+  {
+    "id": 25,
+    "category": "AERODINÁMICA",
+    "question": "SÍ SE AUMENTA EL ÁNGULO DE ATAQUE:",
+    "correct": "B",
+    "A": "AUMENTA LA SUSTENTACIÓN Y LA VELOCIDAD.",
+    "B": "AUMENTA LA SUSTENTACIÓN Y DISMINUYE LA VELOCIDAD.",
+    "C": "DISMINUYE LA SUSTENTACIÓN Y AUMENTA LA VELOCIDAD.",
+    "D": "NO PASA NADA SI NO LE APLICAMOS POTENCIA AL MOTOR"
+  },
+  {
+    "id": 26,
+    "category": "AERODINÁMICA",
+    "question": "EL AUMENTO DEL ÁNGULO DE ATAQUE, INCREMENTA:",
+    "correct": "B",
+    "A": "LA RESISTENCIA PARÁSITA",
+    "B": "LA RESISTENCIA INDUCIDA.",
+    "C": "LA VELOCIDAD.",
+    "D": "EL PESO"
+  },
+  {
+    "id": 27,
+    "category": "AERODINÁMICA",
+    "question": "EL PUNTO DEL ALA DONDE SE CONSIDERA APLICADA TODAS LAS FUERZAS DE SUSTENTACIÓN EN UNA AERONAVE, SE DENOMINA:",
+    "correct": "A",
+    "A": "CENTRO DE PRESIÓN.",
+    "B": "CENTRO DE GRAVEDAD.",
+    "C": "CENTRO DE SUSTENTACIÓN.",
+    "D": "CENTRO DE FUERZA."
+  },
+  {
+    "id": 28,
+    "category": "AERODINÁMICA",
+    "question": "LA FUERZA QUE SE OPONE A LA SUSTENTACIÓN DE UN AVIÓN EN VUELO ES:",
+    "correct": "D",
+    "A": "LA RESISTENCIA",
+    "B": "LA PRESIÓN",
+    "C": "EL EMPUJE",
+    "D": "EL PESO"
+  },
+  {
+    "id": 29,
+    "category": "AERODINÁMICA",
+    "question": "A MAYOR VELOCIDAD:",
+    "correct": "C",
+    "A": "MENOR RESISTENCIA",
+    "B": "MENOR EMPUJE",
+    "C": "MAYOR RESISTENCIA",
+    "D": "MENOR SUSTENTACIÓN."
+  },
+  {
+    "id": 30,
+    "category": "AERODINÁMICA",
+    "question": "SI EL PILOTO GIRA EL CONTROL DE MANDO HACIA LA DERECHA:",
+    "correct": "A",
+    "A": "EL ALERÓN DERECHO SUBE Y EL IZQUIERDO BAJA",
+    "B": "EL ALERÓN DERECHO BAJA Y EL IZQUIERDO SUBE",
+    "C": "SE MUEVE EL TIMÓN DIRECCIONAL",
+    "D": "NO PASA NADA."
+  },
+  {
+    "id": 31,
+    "category": "AERODINÁMICA",
+    "question": "DURANTE UN VUELO RECTO Y NIVELADO, LAS FUERZAS AERODINÁMICAS QUE ACTÚAN SOBRE EL AVIÓN PERMANECEN:",
+    "correct": "B",
+    "A": "EN DESEQUILIBRIO.",
+    "B": "CONSTANTES Y EN EQUILIBRIO.",
+    "C": "CONSTANTES Y EN DESEQUILIBRIO.",
+    "D": "SE GENERAN RESISTENCIAS ÚTILES."
+  },
+  {
+    "id": 32,
+    "category": "AERODINÁMICA",
+    "question": "LA CIENCIA QUE ESTUDIA LAS LEYES QUE RIGEN EL MOVIMIENTO DEL AIRE Y LAS REACCIONES QUE SE ORIGINAN SOBRE UN CUERPO SÓLIDO EN MOVIMIENTO RELATIVO RESPECTO A ÉSTE, SE DENOMINA:",
+    "correct": "D",
+    "A": "METEOROLOGÍA.",
+    "B": "FÍSICA.",
+    "C": "METAFÍSICA.",
+    "D": "AERODINÁMICA."
+  },
+  {
+    "id": 33,
+    "category": "AERODINÁMICA",
+    "question": "LAS FUERZAS QUE ACTÚAN EN UN AVIÓN EN VUELO RECTO Y NIVELADO SON:",
+    "correct": "D",
+    "A": "SUSTENTACIÓN, PESO, TRACCIÓN Y FUERZA CENTRÍFUGA.",
+    "B": "PESO, SUSTENTACIÓN Y FUERZA CENTRÍFUGA.",
+    "C": "TRACCIÓN, GRAVEDAD Y FUERZA CENTRÍFUGA.",
+    "D": "SUSTENTACIÓN, PESO, TRACCIÓN Y RESISTENCIA."
+  },
+  {
+    "id": 34,
+    "category": "AERODINÁMICA",
+    "question": "LOS ALERONES, SON SUPERFICIES DE CONTROL UBICADAS EN EL BORDE DE FUGA DE LAS ALAS Y TIENEN COMO FUNCIÓN:",
+    "correct": "A",
+    "A": "EL CONTROL LATERAL DEL AVIÓN.",
+    "B": "EL CONTROL DIRECCIONAL DEL AVIÓN.",
+    "C": "EL CONTROL LATERAL DEL AVIÓN ALREDEDOR DE SU EJE VERTICAL.",
+    "D": "FRENAR EL AVIÓN EN VUELO."
+  },
+  {
+    "id": 35,
+    "category": "AERODINÁMICA",
+    "question": "LOS CONTROLES DE VUELO PRIMARIOS, SON:",
+    "correct": "D",
+    "A": "TIMÓN DE DIRECCIÓN, FLAPS Y ELEVADORES.",
+    "B": "FLAPS, SLATS Y SPOILERS",
+    "C": "ALERONES, ELEVADORES Y TIMÓN DE PROFUNDIDAD.",
+    "D": "TIMÓN DE PROFUNDIDAD, TIMÓN DE DIRECCIÓN Y ALERONES."
+  },
+  {
+    "id": 36,
+    "category": "AERODINÁMICA",
+    "question": "LOS FLAPS, SON SUPERFICIES DE VUELO SECUNDARIAS Y SIRVEN PARA:",
+    "correct": "D",
+    "A": "AUMENTAR LA SUPERFICIE ALAR Y LA RESISTENCIA AL AVANCE.",
+    "B": "AUMENTAR LA RATA DE ASCENSO Y DESCENSO.",
+    "C": "OPERAR A BAJAS VELOCIDADES EN DESPEGUES Y ATERRIZAJES.",
+    "D": "A Y C SON CORRECTAS."
+  },
+  {
+    "id": 37,
+    "category": "AERODINÁMICA",
+    "question": "EL TIMÓN DE DIRECCIÓN, ACTÚA SOBRE EL EJE:",
+    "correct": "B",
+    "A": "LONGITUDINAL.",
+    "B": "VERTICAL.",
+    "C": "TRANSVERSAL O LATERAL.",
+    "D": "X / Y"
+  },
+  {
+    "id": 38,
+    "category": "AERODINÁMICA",
+    "question": "EL TIMÓN DE PROFUNDIDAD, ACTÚA SOBRE EL EJE:",
+    "correct": "C",
+    "A": "LONGITUDINAL.",
+    "B": "VERTICAL.",
+    "C": "TRANSVERSAL O LATERAL.",
+    "D": "X / Y"
+  },
+  {
+    "id": 39,
+    "category": "AERODINÁMICA",
+    "question": "LOS ALERONES ACTÚAN SOBRE EL EJE:",
+    "correct": "A",
+    "A": "LONGITUDINAL.",
+    "B": "VERTICAL.",
+    "C": "TRANSVERSAL O LATERAL.",
+    "D": "X / Y"
+  },
+  {
+    "id": 40,
+    "category": "AERODINÁMICA",
+    "question": "SUSTENTACIÓN, ES LA FUERZA HACIA ABAJO CREADA POR UN PERFIL AERODINÁMICO CUANDO SE DESPLAZA A TRAVÉS DEL AIRE:",
+    "correct": "B",
+    "A": "VERDADERO.",
+    "B": "FALSO.",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 41,
+    "category": "AERODINÁMICA",
+    "question": "LOS PERFILES AERODINÁMICOS DEL AVIÓN, SON:",
+    "correct": "B",
+    "A": "MOTOR, ALAS Y EMPENAJE.",
+    "B": "ALAS, HÉLICE Y EMPENAJE.",
+    "C": "ALAS Y EMPENAJE.",
+    "D": "TODAS LAS ANTERIORES."
+  },
+  {
+    "id": 42,
+    "category": "AERODINÁMICA",
+    "question": "EL AVIÓN POSEE TRES EJES DE ROTACIÓN ALREDEDOR DE LOS CUALES SE EFECTÚAN LOS MOVIMIENTOS, ÉSTOS SON:",
+    "correct": "A",
+    "A": "EJE VERTICAL, LATERAL Y LONGITUDINAL.",
+    "B": "EJE VERTICAL, TRANSVERSAL Y HORIZONTAL.",
+    "C": "EJE LATERAL, HORIZONTAL Y TRANSVERSAL.",
+    "D": "EJE LATERAL, LONGITUDINAL Y HORIZONTAL."
+  },
+  {
+    "id": 43,
+    "category": "AERODINÁMICA",
+    "question": "UN STALL SE PRODUCE POR:",
+    "correct": "B",
+    "A": "PÉRDIDA DE VELOCIDAD.",
+    "B": "PÉRDIDA ABRUPTA DE LA SUSTENTACIÓN.",
+    "C": "PÉRDIDA DEL ÁNGULO DE ATAQUE.",
+    "D": null
+  },
+  {
+    "id": 44,
+    "category": "AERODINÁMICA",
+    "question": "LA ACCIÓN DE LOS ALERONES MUEVE AL AVIÓN SOBRE SU EJE LONGITUDINAL:",
+    "correct": "A",
+    "A": "VERDADERO.",
+    "B": "FALSO.",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 45,
+    "category": "AERODINÁMICA",
+    "question": "CUALQUIER SUPERFICIE TAL COMO UN ALA DE AVIÓN, DISEÑADA PARA OBTENER UNA REACCIÓN, COMO LA SUSTENTACIÓN EN EL AIRE A TRAVÉS DEL CUAL SE DESPLAZA, SE LLAMA:",
+    "correct": "C",
+    "A": "SUPERFICIE ALAR.",
+    "B": "ENVERGADURA DE LAS ALAS.",
+    "C": "PERFIL AERODINÁMICO.",
+    "D": "ÁNGULO DE INCIDENCIA."
+  },
+  {
+    "id": 46,
+    "category": "AERODINÁMICA",
+    "question": "LOS DISPOSITIVOS QUE DESTRUYEN LA SUSTENTACIÓN ALAR DURANTE ATERRIZAJE SE LLAMAN:",
+    "correct": "B",
+    "A": "FLAPS.",
+    "B": "SPOILERS",
+    "C": "ALERONES.",
+    "D": "GENERADORES DE VÓRTICE."
+  },
+  {
+    "id": 47,
+    "category": "AERODINÁMICA",
+    "question": "LA FUERZA QUE SE PRODUCE EN UN PERFIL AERODINÁMICO, POR EJEMPLO: UNA HÉLICE EN MOVIMIENTO, DEBIDO A LA DIFERENCIA DE PRESIÓN ENTRE LAS CARAS FRONTAL Y POSTERIOR, SE CONOCE COMO:",
+    "correct": "C",
+    "A": "RESISTENCIA AL AVANCE",
+    "B": "FUERZA DE ROTACIÓN",
+    "C": "EMPUJE O TRACCIÓN",
+    "D": "FUERZA CENTRÍFUGA"
+  },
+  {
+    "id": 48,
+    "category": "AERODINÁMICA",
+    "question": "EN UNA AERONAVE EN VUELO, LA AERODINÁMICA RESPONSABLE DE PRODUCIR SUSTENTACIÓN, ES LA RELACIONADA CON:",
+    "correct": "C",
+    "A": "EL EMPENAJE",
+    "B": "LOS MOTORES",
+    "C": "LAS ALAS",
+    "D": "EL FUSELAJE"
+  },
+  {
+    "id": 49,
+    "category": "AERODINÁMICA",
+    "question": "EL RENDIMIENTO DE UNA AERONAVE ¿PUEDE VERSE AFECTADO POR LA ALTURA (ALTITUD)?",
+    "correct": "A",
+    "A": "CIERTO",
+    "B": "FALSO",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 50,
+    "category": "AERODINÁMICA",
+    "question": "DE LAS SIGUIENTES RESPUESTAS, LA SUSTENTACIÓN DE UNA AERONAVE ESTARÁ BASADA EN:",
+    "correct": "C",
+    "A": "UN ÁNGULO DE ATAQUE DIFERENTE",
+    "B": "EL PESO TOTAL DE LA AERONAVE",
+    "C": "EL DIFERENCIAL DE PRESIÓN EN LOS PLANOS",
+    "D": "LA POTENCIA DE LOS MOTORES"
+  },
+  {
+    "id": 51,
+    "category": "AERODINÁMICA",
+    "question": "EL PRINCIPIO DE LA SUSTENTACIÓN DE UN HELICÓPTERO, ¿ES DIFERENTE A LA DE UN AVIÓN?",
+    "correct": "B",
+    "A": "CIERTO",
+    "B": "FALSO",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 52,
+    "category": "AERODINÁMICA",
+    "question": "EL GRUPO MOTO-PROPULSOR, IMPULSA LAS AERONAVES HACIA ADELANTE CREANDO VIENTO RELATIVO EN LAS ALAS; ESTE VIENTO:",
+    "correct": "A",
+    "A": "SE DESPLAZA MÁS RÁPIDO POR LA PARTE SUPERIOR QUE EN LA INFERIOR DEL ALA",
+    "B": "SE DESPLAZA MÁS RÁPIDO POR LA PARTE INFERIOR QUE EN LA SUPERIOR DEL ALA",
+    "C": "SE DESPLAZA A IGUAL VELOCIDAD POR AMBAS CARAS DEL ALA",
+    "D": "NINGUNA RESPUESTA ES CORRECTA"
+  },
+  {
+    "id": 53,
+    "category": "AERODINÁMICA",
+    "question": "PERFILES FIJOS, HORIZONTAL Y VERTICAL O UNA COMBINACIÓN DE ELLOS, ADEMÁS DE SUS SUPERFICIES MÓVILES; ES LA DEFINICIÓN DE:",
+    "correct": "C",
+    "A": "SECCIÓN MOTOPROPULSORA",
+    "B": "SECCIÓN DEL FUSELAJE",
+    "C": "SECCIÓN DEL EMPENAJE",
+    "D": "SECCIÓN SUSTENTADORA"
+  },
+  {
+    "id": 54,
+    "category": "AERODINÁMICA",
+    "question": "EL ÁNGULO DE ATAQUE ¿PUEDE VARIARSE?",
+    "correct": "A",
+    "A": "CIERTO",
+    "B": "FALSO",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 55,
+    "category": "AERODINÁMICA",
+    "question": "LA VELOCIDAD ES :",
+    "correct": "B",
+    "A": "EL DESPLAZARSE DE UN SITIO A OTRO",
+    "B": "LA DISTANCIA RECORRIDA EN UNA UNIDAD DE TIEMPO",
+    "C": "AUMENTAR EL RECORRIDO EN UN TIEMPO DETERMINADO",
+    "D": "AUMENTAR LA VELOCIDAD"
+  },
+  {
+    "id": 56,
+    "category": "AERODINÁMICA",
+    "question": "EL TIMÓN DE DIRECCIÓN, MUEVE AL AVIÓN SOBRE EL EJE:",
+    "correct": "C",
+    "A": "LONGITUDINAL.",
+    "B": "TRANSVERSAL O LATERAL.",
+    "C": "VERTICAL.",
+    "D": "IMAGINARIO."
+  },
+  {
+    "id": 57,
+    "category": "AERODINÁMICA",
+    "question": "SUPERFICIE DE CONTROL PRIMARIA, UTILIZADA EN AVIONES PARA AUMENTAR O DISMINUIR EL ÁNGULO DE ATAQUE :",
+    "correct": "C",
+    "A": "FLAPS",
+    "B": "ALERONES",
+    "C": "TIMÓN DE PROFUNDIDAD",
+    "D": "TIMÓN VERTICAL"
+  },
+  {
+    "id": 58,
+    "category": "AERODINÁMICA",
+    "question": "AERODINÁMICAMENTE GENERALIZANDO, PODEMOS AFIRMAR QUÉ; LAS FUERZAS DE SUSTENTACIÓN Y PESO ACTÚAN DE FORMA :",
+    "correct": "C",
+    "A": "HORIZONTAL.",
+    "B": "LATERAL.",
+    "C": "VERTICAL.",
+    "D": "LONGITUDINAL."
+  },
+  {
+    "id": 59,
+    "category": "AERODINÁMICA",
+    "question": "AERODINÁMICAMENTE GENERALIZANDO, PODEMOS AFIRMAR QUÉ; LAS FUERZAS DE EMPUJE Y RESISTENCIA ACTÚAN DE FORMA :",
+    "correct": "D",
+    "A": "HORIZONTAL.",
+    "B": "LATERAL.",
+    "C": "VERTICAL.",
+    "D": "LONGITUDINAL."
+  },
+  {
+    "id": 60,
+    "category": "AERODINÁMICA",
+    "question": "AERODINÁMICAMENTE GENERALIZANDO, LAS FUERZAS DE SUSTENTACIÓN Y EMPUJE SON FAVORABLES Y POSITIVAS AL VUELO, MIENTRAS QUE LAS FUERZAS DE PESO Y RESISTENCIA, SERÁN DESFAVORABLES O NEGATIVAS.",
+    "correct": "A",
+    "A": "CIERTO.",
+    "B": "FALSO.",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 61,
+    "category": "AERODINÁMICA",
+    "question": "ES EL PUNTO LONGITUDINAL DE LA CUERDA AERODINÁMICA DE UN PERFIL EN MOVIMIENTO, DONDE SE CONSIDERA APLICADA LA FUERZA :",
+    "correct": "D",
+    "A": "CENTRO DE GRAVEDAD DE LA AERONAVE.",
+    "B": "CENTRO DE SUSTENTACIÓN DEL PERFIL.",
+    "C": "CENTRO DEL PERFIL AERODINÁMICO.",
+    "D": "CENTRO DE PRESIÓN DEL PERFIL."
+  },
+  {
+    "id": 62,
+    "category": "AERODINÁMICA",
+    "question": "LA ESTABILIDAD DIRECCIONAL DEL AVIÓN, ES PROPORCIONADA BÁSICAMENTE POR:",
+    "correct": "B",
+    "A": "EL ESTABILIZADOR FIJO HORIZONTAL.",
+    "B": "EL ESTABILIZADOR FIJO VERTICAL.",
+    "C": "EL EMPENAJE.",
+    "D": "EL ÁNGULO DIEDRO."
+  },
+  {
+    "id": 63,
+    "category": "AERODINÁMICA",
+    "question": "EL EFECTO DE LOS PERFILES AERODINÁMICOS DE UNA AERONAVE EN VUELO, DISMINUIRÁ SÍ :",
+    "correct": "C",
+    "A": "SE APAGAN LOS MOTORES.",
+    "B": "HAY LLUVIA.",
+    "C": "SE FORMA HIELO.",
+    "D": "SE VUELA ENTRE NIEBLA O NUBES."
+  },
+  {
+    "id": 64,
+    "category": "AERODINÁMICA",
+    "question": "SON LAS SUPERFICIES DE CONTROL PRIMARIAS DE UN AVIÓN :",
+    "correct": "A",
+    "A": "TIMÓN, ELEVADORES Y ALERONES.",
+    "B": "FLAPS, SLATS Y SPOILERS.",
+    "C": "ESTABILIZADORES, ALAS Y ELEVADORES.",
+    "D": "ALERONES, FLAPS Y TIMÓN."
+  },
+  {
+    "id": 65,
+    "category": "AERODINÁMICA",
+    "question": "PUEDEN SER LAS SUPERFICIES DE CONTROL SECUNDARIAS DE UN AVIÓN :",
+    "correct": "B",
+    "A": "TIMÓN, ELEVADORES Y ALERONES.",
+    "B": "FLAPS, SLAPS Y SPOILERS.",
+    "C": "ESTABILIZADORES, ALAS Y ELEVADORES.",
+    "D": "ALERONES, FLAPS Y TIMÓN."
+  },
+  {
+    "id": 66,
+    "category": "AERODINÁMICA",
+    "question": "DE LAS SIGUIENTES CONDICIONES, ¿CUÁL AFECTARÍA ADVERSAMENTE EL RENDIMIENTO DE LAS SUPERFICIES AERODINÁMICAS DE UNA AERONAVE?",
+    "correct": "B",
+    "A": "EL FRÍO.",
+    "B": "LA ALTITUD.",
+    "C": "EL CALOR.",
+    "D": "LA LATITUD."
+  },
+  {
+    "id": 67,
+    "category": "AERODINÁMICA",
+    "question": "LOS ELEVADORES O TIMONES DE PROFUNDIDAD DE UN AVIÓN, SE ENCUENTRAN UBICADOS EN :",
+    "correct": "C",
+    "A": "EL BORDE DE SALIDA DE LAS ALAS.",
+    "B": "EL BORDE DE ATAQUE DE LAS ALAS",
+    "C": "LA SUPERFICIE FIJA HORIZONTAL DE COLA",
+    "D": "LA SUPERFICIE FIJA VERTICAL DE COLA."
+  },
+  {
+    "id": 68,
+    "category": "AERODINÁMICA",
+    "question": "LA PARTE SUPERIOR DEL PERFIL AERODINÁMICO ( ALA ), ES EL EXTRADÓS:",
+    "correct": "A",
+    "A": "CIERTO.",
+    "B": "FALSO.",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 69,
+    "category": "AERODINÁMICA",
+    "question": "LOS DISPOSITIVOS HIPERSUSTENTADORES, BÁSICAMENTE PERMITEN AL PILOTO CONTROLAR EL AVIÓN:",
+    "correct": "C",
+    "A": "VOLANDO A MAYOR VELOCIDAD.",
+    "B": "EN ASCENSOS MAS RÁPIDOS.",
+    "C": "VOLANDO A MENOR VELOCIDAD.",
+    "D": "EN ATERRIZAJES MAS RÁPIDOS."
+  },
+  {
+    "id": 70,
+    "category": "AERODINÁMICA",
+    "question": "LA SUPERFICIE O CARA DE UN PERFIL AERODINÁMICO EN MOVIMIENTO A TRAVÉS DEL AIRE, DONDE SE UBICA EL CENTRO DE PRESIÓN; ES DENOMINADA :",
+    "correct": "B",
+    "A": "EXTRADÓS.",
+    "B": "INTRADÓS.",
+    "C": "ALA.",
+    "D": "FLAPS."
+  },
+  {
+    "id": 71,
+    "category": "AERODINÁMICA",
+    "question": "LOS ESTABILIZADORES , FUNCIONAN BAJO LOS MISMOS PRINCIPIOS AERODINÁMICOS QUE :",
+    "correct": "A",
+    "A": "LAS ALAS Y LA HÉLICE.",
+    "B": "EL TIMÓN Y LOS ELEVADORES.",
+    "C": "LOS ALERONES Y LOS FLAPS.",
+    "D": "TODOS TIENEN EL MISMO PRINCIPIO AERODINÁMICO."
+  },
+  {
+    "id": 72,
+    "category": "AERODINÁMICA",
+    "question": "DE LOS ELEVADORES Y LOS COMPENSADORES, PODEMOS DECIR QUE SON EL COMPLEMENTO; O QUE COMPLETAN EL RESPECTIVO PERFIL AERODINÁMICO DE UN AVIÓN?",
+    "correct": "A",
+    "A": "CIERTO.",
+    "B": "FALSO.",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 73,
+    "category": "AERODINÁMICA",
+    "question": "SE DENOMINAN SUPERFICIES PRIMARIAS DE UNA AERONAVE A:",
+    "correct": "C",
+    "A": "LAS SUPERFICIES PRINCIPALES.",
+    "B": "LAS SUPERFICIES DE DIRECCIÓN.",
+    "C": "LAS SUPERFICIES DE CONTROL.",
+    "D": "LAS SUPERFICIES AERODINÁMICAS DE LAS ALAS Y LA COLA."
+  },
+  {
+    "id": 74,
+    "category": "AERODINÁMICA",
+    "question": "SI SE PRESIONA EL PEDAL IZQUIERDO, EL TIMÓN Y LA NARIZ DEL AVIÓN SE MOVERÁN:",
+    "correct": "B",
+    "A": "HACIA EL LADO DERECHO EL TIMÓN, Y HACIA EL LADO IZQUIERDO LA NARIZ.",
+    "B": "HACIA EL LADO IZQUIERDO EL TIMÓN, Y HACIA EL LADO IZQUIERDO LA NARIZ.",
+    "C": "HACIA EL LADO IZQUIERDO EL TIMÓN, Y HACIA EL LADO DERECHO LA NARIZ.",
+    "D": "HACIA EL LADO DERECHO EL TIMÓN, Y HACIA EL LADO DERECHO LA NARIZ."
+  },
+  {
+    "id": 75,
+    "category": "AERODINÁMICA",
+    "question": "SÍ SE PRESIONA EL PEDAL DERECHO, LA COLA Y LA NARIZ DEL AVIÓN SE MOVERÁN:",
+    "correct": "D",
+    "A": "LA COLA HACIA EL LADO DERECHO, Y LA NARIZ HACIA EL LADO DERECHO.",
+    "B": "LA COLA HACIA EL LADO IZQUIERDO, Y LA NARIZ HACIA EL LADO IZQUIERDO.",
+    "C": "LA COLA HACIA EL LADO DERECHO, Y LA NARIZ HACIA EL LADO IZQUIERDO.",
+    "D": "LA COLA HACIA EL LADO IZQUIERDO, Y LA NARIZ HACIA EL LADO DERECHO."
+  },
+  {
+    "id": 76,
+    "category": "AERODINÁMICA",
+    "question": "SE PUEDE AFIRMAR QUE UNA AERONAVE SE MANTIENE EN VUELO A TRAVÉS DEL AIRE, BÁSICAMENTE DEBIDO A LA TEORÍA DE:",
+    "correct": "C",
+    "A": "GIOVANNI BATTISTA VENTURI.",
+    "B": "BLAS PASCAL.",
+    "C": "DANIEL BERNOULLI.",
+    "D": "ISAAC NEWTON."
+  },
+  {
+    "id": 77,
+    "category": "AERODINÁMICA",
+    "question": "SI SE INCLINA HACIA ATRÁS LA COLUMNA DE MANDO DE UN AVIÓN, LA COLA, Y LA NARIZ DE LA AERONAVE SE MOVERÁN:",
+    "correct": "A",
+    "A": "COLA HACIA ABAJO, NARIZ HACIA ARRIBA.",
+    "B": "COLA HACIA ARRIBA, NARIZ, HACIA ARRIBA.",
+    "C": "COLA HACIA ARRIBA, NARIZ HACIA ABAJO.",
+    "D": "COLA HACIA ABAJO, NARIZ HACIA ABAJO."
+  },
+  {
+    "id": 78,
+    "category": "AERODINÁMICA",
+    "question": "DURANTE LA DEMOSTRACIÓN DE SEGURIDAD A PASAJEROS EN VIVO, LAS LUCES DE LA CABINA DEBEN ESTAR SIEMPRE EN:",
+    "correct": "C",
+    "A": "DIM.",
+    "B": "NIGHT.",
+    "C": "BRIGHT.",
+    "D": "LOW."
+  },
+  {
+    "id": 79,
+    "category": "AERODINÁMICA",
+    "question": "AL ENCONTRARSE UN OBJETO SOSPECHOSO A BORDO, SE DEBE:",
+    "correct": "C",
+    "A": "SACAR DEL LUGAR Y LLEVARLO AL BAÑO MAS CERCANO.",
+    "B": "SI SE SOSPECHA QUE ES UNA BOMBA, TRATAR DE DESACTIVARLA, CUIDADOSAMENTE.",
+    "C": "AVISAR AL CAPITÁN, AISLAR EL SECTOR Y SEGUIR INSTRUCCIONES.",
+    "D": "NINGUNA DE LAS ANTERIORES."
+  },
+  {
+    "id": 80,
+    "category": "AERODINÁMICA",
+    "question": "EL FUEGO ES UN PROCESO QUÍMICO EN EL QUE INTERVIENEN LOS SIGUIENTES ELEMENTOS:",
+    "correct": "D",
+    "A": "OXÍGENO, TEMPERATURA Y AIRE.",
+    "B": "TEMPERATURA, CALOR Y OXÍGENO.",
+    "C": "MATERIAL COMBURENTE, FUEGO Y GAS.",
+    "D": "MATERIAL COMBUSTIBLE, OXÍGENO Y CALOR."
+  },
+  {
+    "id": 81,
+    "category": "AERODINÁMICA",
+    "question": "EL PBE (PROTECTIVE BREATHING EQUIPMENT):",
+    "correct": "B",
+    "A": "TIENE UN BATERÍA QUE DURA 30 MINUTOS.",
+    "B": "ES UN EQUIPO DE PROTECCIÓN CONTRA HUMO Y GASES.",
+    "C": "SE PUEDE USAR EN UNA DESCOMPRESIÓN DE CABINA.",
+    "D": "ES UN EQUIPO DE PROTECCIÓN PARA PASAJEROS."
+  },
+  {
+    "id": 82,
+    "category": "AERODINÁMICA",
+    "question": "EL EXTINTOR DE AGUA SE USA:",
+    "correct": "B",
+    "A": "PARA CUALQUIER TIPO DE INCENDIO.",
+    "B": "SOLO PARA INCENDIOS TIPO \"A\".",
+    "C": "PARA INCENDIOS TIPO \"B\".",
+    "D": "PARA CUALQUIER TIPO DE INCENDIO."
+  },
+  {
+    "id": 83,
+    "category": "AERODINÁMICA",
+    "question": "SON CONSIDERADAS FASES CRÍTICAS DE UN VUELO:",
+    "correct": "D",
+    "A": "LOS DESCENSOS DE EMERGENCIAS.",
+    "B": "LOS DESPEGUES INTERRUMPIDOS (ABORTADOS).",
+    "C": "LAS TURBULENCIAS.",
+    "D": "LOS DESPEGUES Y ATERRIZAJES."
+  },
+  {
+    "id": 84,
+    "category": "AERODINÁMICA",
+    "question": "EL CONCEPTO CABINA LISTA, ES UN PROCEDIMIENTO ORIENTADO A:",
+    "correct": "C",
+    "A": "PREPARAR LA CABINA PARA UN ATERRIZAJE DE EMERGENCIA.",
+    "B": "ASEGURAR LA CABINA PARA UN ATERRIZAJE DE EMERGENCIA CON POSICIÓN DE IMPACTO.",
+    "C": "ASEGURAR RAZONABLEMENTE LA CABINA PARA ENFRENTAR UNA EMERGENCIA NO PREVISTA DURANTE UN DESPEGUE O ATERRIZAJE.",
+    "D": "PREPARAR LA CABINA PARA UN ATERRIZAJE EN UNA EMERGENCIA PREVISTA."
+  },
+  {
+    "id": 85,
+    "category": "AERODINÁMICA",
+    "question": "DEPENDIENDO DEL MATERIAL COMBUSTIBLE LOS INCENDIOS SE CLASIFICAN EN:",
+    "correct": "C",
+    "A": "A- LÍQUIDOS INFLAMABLES, B- SÓLIDOS ORGÁNICOS INFLAMABLES, C- ELÉCTRICOS, D- METALES.",
+    "B": "A- SÓLIDOS ORGÁNICOS INFLAMABLES, B- LÍQUIDOS INFLAMABLES, C- METALES, D- ELÉCTRICOS.",
+    "C": "A- SÓLIDOS ORGÁNICOS INFLAMABLES, B- LÍQUIDOS INFLAMABLES, C- ELÉCTRICOS, D- METALES.",
+    "D": "A- SÓLIDOS ORGÁNICOS INFLAMABLES, B- ELÉCTRICOS, C- LÍQUIDOS INFLAMABLES, D- METALES."
+  },
+  {
+    "id": 86,
+    "category": "AERODINÁMICA",
+    "question": "DURANTE EL CHEQUEO DEL EQUIPO DE EMERGENCIA, SE DEBE VERIFICAR:",
+    "correct": "D",
+    "A": "CANTIDAD Y UBICACIÓN.",
+    "B": "ACCESO, UBICACIÓN Y VIGENCIA.",
+    "C": "UBICACIÓN Y VIGENCIA.",
+    "D": "UBICACIÓN, CANTIDAD, VIGENCIA Y FÁCIL ACCESO."
+  },
+  {
+    "id": 87,
+    "category": "AERODINÁMICA",
+    "question": "LA PRECAUCIÓN QUE SE DEBE TENER ANTES DE SACAR UN BOTE SALVAVIDAS DEL AVIÓN ES:",
+    "correct": "C",
+    "A": "AMARRARLO AL SOPORTE DEL ASIENTO MÁS CERCANO A LA VENTANILLA DE EMERGENCIA.",
+    "B": "HALAR PARA INFLARLO Y VERIFICAR LOS TUBOS DE FLOTACIÓN.",
+    "C": "AMARRARLO A LA CUERDA DE O ANCLAJE DE LA CUERDA, DE LA VENTANILLA DE EMERGENCIA.",
+    "D": "AMARRARLO A LA MANILLA DE LA PUERTA MAS CERCANA."
+  },
+  {
+    "id": 88,
+    "category": "AERODINÁMICA",
+    "question": "LA DEMOSTRACIÓN DE SEGURIDAD A LOS PASAJEROS DEBEN INCLUIR LO SIGUIENTE:",
+    "correct": "A",
+    "A": "UBICACIÓN Y USO DEL CINTURÓN DE SEGURIDAD, MÁSCARA DE OXÍGENO, VÍAS DE EVACUACIÓN, TARJETA DE SEGURIDAD Y CHALECOS SALVAVIDAS.(SI REQUIERE).",
+    "B": "UBICACIÓN Y USO DEL SISTEMA DE SONIDO Y VIDEO DE LOS PASAJEROS.",
+    "C": "FORMA DE SALIR POR UN TOBOGÁN Y VENTANILLAS DE EMERGENCIAS.",
+    "D": "A Y C SON CORRECTAS."
+  },
+  {
+    "id": 89,
+    "category": "AERODINÁMICA",
+    "question": "EL EXTINTOR DE HALÓN SE USA:",
+    "correct": "B",
+    "A": "SÓLO EN LA CABINA DE PILOTOS.",
+    "B": "EN INCENDIOS ELÉCTRICOS.",
+    "C": "SOLAMENTE EN INCENDIOS TIPO \"A\".",
+    "D": "SÓLO EN INCENDIOS TIPO \"D\"."
+  },
+  {
+    "id": 90,
+    "category": "AERODINÁMICA",
+    "question": "EL AGUA DE MAR SE PUEDE BEBER SIN QUE PROVOQUE EFECTOS SECUNDARIOS DESPUÉS DE HABERLA POTABILIZADO:",
+    "correct": "A",
+    "A": "VERDADERO.",
+    "B": "FALSO.",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 91,
+    "category": "AERODINÁMICA",
+    "question": "LAS BENGALAS:",
+    "correct": "B",
+    "A": "SON ELEMENTOS UTILIZADOS PARA HACER FUEGO.",
+    "B": "SON ELEMENTOS DE LOCALIZACIÓN USADOS PARA HACER SEÑALES.",
+    "C": "SE USAN SOLO DE DÍA PARA HACER SEÑALES LUMINOSAS.",
+    "D": "SE PUEDEN USAR SOLO DE NOCHE."
+  },
+  {
+    "id": 92,
+    "category": "AERODINÁMICA",
+    "question": "LA PRIMERA ACCIÓN DE UN TRIPULANTE DE CABINA AL LLEGAR AL AVIÓN ES CHEQUEAR:",
+    "correct": "B",
+    "A": "SERVICIOS DE COMIDAS Y BEBIDAS.",
+    "B": "EQUIPOS DE EMERGENCIAS Y QUE NO HAYA ELEMENTOS EXTRAÑOS.",
+    "C": "SOLO EQUIPOS DE EMERGENCIAS DE LA CABINA.",
+    "D": "SOLO EL SISTEMA DE OXÍGENO DE EMERGENCIA."
+  },
+  {
+    "id": 93,
+    "category": "AERODINÁMICA",
+    "question": "LA VIGENCIA DE LAS TARJETAS DE INSPECCIÓN, DE LOS BOTES SALVA-VIDAS Y LOS TOBOGANES, ES DE:",
+    "correct": "A",
+    "A": "01 AÑO.",
+    "B": "03 AÑOS.",
+    "C": "04 AÑOS.",
+    "D": "02 AÑOS."
+  },
+  {
+    "id": 94,
+    "category": "AERODINÁMICA",
+    "question": "EN UNA EMERGENCIA ¿QUÉ SE ENTIENDE POR SUPERVIVENCIA?",
+    "correct": "A",
+    "A": "PERMANECER VIVO HASTA SER RESCATADO",
+    "B": "DISPONER EQUITATIVAMENTE EL KIT DE SUPERVIVENCIA",
+    "C": "APLICAR LAS NORMAS DE PRIMEROS AUXILIOS",
+    "D": "TODAS LAS RESPUESTAS ANTERIORES SON CORRECTAS"
+  },
+  {
+    "id": 95,
+    "category": "AERODINÁMICA",
+    "question": "SON SEÑALES QUE PUEDEN HACERSE PARA SER LOCALIZADOS:",
+    "correct": "D",
+    "A": "USO DE SEÑALES PIROTÉCNICAS (BENGALAS)",
+    "B": "FOGATAS DISPUESTAS EN FORMA DE TRIANGULO",
+    "C": "QUEMAR RAMAS VERDES PARA PRODUCIR HUMO BLANCO",
+    "D": "TODAS LAS RESPUESTAS ANTERIORES"
+  },
+  {
+    "id": 96,
+    "category": "AERODINÁMICA",
+    "question": "EN CASO DE UN AMARIZAJE, SE DEBE TRATAR DE:",
+    "correct": "C",
+    "A": "NADAR HACIA LA COSTA MAS CERCANA",
+    "B": "APARTARSE RÁPIDAMENTE DE LA AERONAVE",
+    "C": "PERMANECER JUNTOS",
+    "D": "TODAS LAS RESPUESTAS SON CORRECTAS"
+  },
+  {
+    "id": 97,
+    "category": "AERODINÁMICA",
+    "question": "ENTRE LOS TRÓPICOS, UNA FORMA FÁCIL DE ORIENTACIÓN DURANTE EL DÍA, Y CONOCIENDO LA POSICIÓN DEL SOL ES:",
+    "correct": "C",
+    "A": "MANO DERECHA AL SOL EN NACIENTE, NORTE A LA ESPALDA, SUR AL FRENTE, OESTE A LA IZQUIERDA.",
+    "B": "MANO IZQUIERDA AL SOL EN PONIENTE, NORTE A LA DERECHA SUR AL FRENTE ESTE A LA ESPALDA.",
+    "C": "MANO DERECHA AL SOL EN NACIENTE, SUR A LA ESPALDA, OESTE A LA IZQUIERDA, NORTE AL FRENTE",
+    "D": "MANO IZQUIERDA AL SOL EN NACIENTE, SUR A LA DERECHA, NORTE AL FRENTE, ESTE A LA ESPALDA."
+  },
+  {
+    "id": 98,
+    "category": "AERODINÁMICA",
+    "question": "EN CASO DE UN ATERRIZAJE O AMARIZAJE FORZOSO, LA DENOMINADA POSICIÓN DE IMPACTO NOS PROTEGE :",
+    "correct": "B",
+    "A": "LA CABEZA, LOS BRAZOS Y LA ESPALDA",
+    "B": "LA CERVIZ Y LA COLUMNA",
+    "C": "DE LAS FUERZAS DE ACELERACIÓN",
+    "D": "DE LAS FUERZAS DE DESACELERACIÓN"
+  },
+  {
+    "id": 99,
+    "category": "AERODINÁMICA",
+    "question": "DEPENDIENDO DEL MATERIAL COMBUSTIBLE, EN AVIACIÓN UN INCENDIO SUMAMENTE PELIGROSO, SERÁ:",
+    "correct": "C",
+    "A": "LOS ELÉCTRICOS",
+    "B": "LOS DE COMBUSTIBLES",
+    "C": "LOS DE METALES",
+    "D": "LOS DE SÓLIDOS ORGÁNICOS"
+  },
+  {
+    "id": 100,
+    "category": "AERODINÁMICA",
+    "question": "EN ALGUNAS AERONAVES, LAS CUERDAS DE ESCAPE:",
+    "correct": "C",
+    "A": "SE ENCUENTRAN EN UN COMPARTIMIENTO AL LADO DE CADA ASIENTO",
+    "B": "SE ENCUENTRAN ANCLADAS AL PISO",
+    "C": "SON PARTE INTEGRAL DE CADA VENTANILLA DE EMERGENCIA",
+    "D": "SE ENCUENTRA UNA EN CADA PUERTA"
+  },
+  {
+    "id": 101,
+    "category": "AERODINÁMICA",
+    "question": "EN CASO DE EXTRAVÍO EN SELVA, SEÑALES DE HUMO BLANCO PARA SER LOCALIZADOS, SE PODRÁN HACER QUEMANDO:",
+    "correct": "B",
+    "A": "ACEITE Y/O COMBUSTIBLE DEL AVIÓN",
+    "B": "RAMAS VERDES DE ÁRBOL",
+    "C": "PANELES Y ASIENTOS",
+    "D": "ALFOMBRAS"
+  },
+  {
+    "id": 102,
+    "category": "AERODINÁMICA",
+    "question": "EN CASOS EXTREMOS, EL AGUA DE MAR O LA ORINA ¿PODRÁN SUPLIR LA FALTA DE AGUA POTABLE?",
+    "correct": "B",
+    "A": "CIERTO",
+    "B": "FALSO",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 103,
+    "category": "AERODINÁMICA",
+    "question": "SON CUATRO PRINCIPIOS BÁSICOS PARA LA SUPERVIVENCIA :",
+    "correct": "D",
+    "A": "PROTECCIÓN, LOCALIZACIÓN, AGUA, ALIMENTACIÓN",
+    "B": "ORGANIZACIÓN, ALIMENTACIÓN, PROTECCIÓN, ALIMENTACIÓN",
+    "C": "DISCIPLINA, RESISTENCIA, LOCALIZACIÓN, PROTECCIÓN",
+    "D": "PROTECCIÓN, LOCALIZACIÓN, DISCIPLINA, ALIMENTACIÓN"
+  },
+  {
+    "id": 104,
+    "category": "AERODINÁMICA",
+    "question": "EN CASO DE ACCIDENTE, \"PARA FACILITAR LA LOCALIZACIÓN EL, O LOS SOBREVIVIENTES DEBEN PERMANECER TAN CERCA DE LA AERONAVE COMO LES SEA POSIBLE\"",
+    "correct": "A",
+    "A": "CIERTO",
+    "B": "FALSO",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 105,
+    "category": "AERODINÁMICA",
+    "question": "DURANTE LAS FASES CRÍTICAS DE VUELO, LA TRIPULACIÓN DEBE TENER UNA CLARA CONCIENCIA DE SU CONDICIÓN, SITUACIÓN Y POSIBLE ACTUACIÓN. ÉSTE CONCEPTO FORMA PARTE DEL PROCEDIMIENTO DE :",
+    "correct": "B",
+    "A": "REVISIÓN SILENCIOSA.",
+    "B": "CABINA LIBRE.",
+    "C": "CABINA ESTÉRIL.",
+    "D": "BRIEFING."
+  },
+  {
+    "id": 106,
+    "category": "AERODINÁMICA",
+    "question": "DURANTE LAS FASES CRÍTICAS DE VUELO, LA TRIPULACIÓN DE CABINA DEBE PERMANECER EN SUS PUESTOS DE TRABAJO CON LOS CINTURONES Y ARNESES ASEGURADOS, EXCEPTO :",
+    "correct": "C",
+    "A": "PARA PRESTAR AYUDA A UN PASAJERO.",
+    "B": "PARA ATENDER EL LLAMADO DE ALGUNO DE LOS PILOTOS DE LA AERONAVE",
+    "C": "PARA REALIZAR LAS TAREAS RELACIONADAS CON LA SEGURIDAD DE LA AERONAVE Y SUS OCUPANTES.",
+    "D": "PARA EFECTUAR LAS TAREAS DESCRITAS EN SU LICENCIA Y HABILITACIÓN."
+  },
+  {
+    "id": 107,
+    "category": "AERODINÁMICA",
+    "question": "LAS EMPRESAS DE TRANSPORTE AÉREO EN VENEZUELA, SERÁN CAPACES DE DEMOSTRAR QUE EFECTÚAN UNA EVACUACIÓN RÁPIDA Y SEGURA DE SUS AERONAVES CON CAPACIDAD DE 45 PASAJEROS O MÁS; EN :",
+    "correct": "B",
+    "A": "UN TIEMPO MENOR O IGUAL A SESENTA (60) SEGUNDOS, INCLUIDA LA TRIPULACIÓN.",
+    "B": "UN TIEMPO IGUAL O MENOR A NOVENTA (90) SEGUNDOS, INCLUIDA LA TRIPULACIÓN",
+    "C": "UN TIEMPO MÁXIMO DE DOS (02) MINUTOS, INCLUIDA LA TRIPULACIÓN.",
+    "D": "UN TIEMPO MÁXIMO DE NOVENTA (90) SEGUNDOS, SOLAMENTE DE LOS PASAJEROS SIN INCLUIR LA TRIPULACIÓN."
+  },
+  {
+    "id": 108,
+    "category": "AERODINÁMICA",
+    "question": "MOVIMIENTO AUTOCINÉTICO NOCTURNO, ES UN FENÓMENO DE APRECIACIÓN VISUAL QUE CONSISTE EN:",
+    "correct": "B",
+    "A": "LA PERCEPCIÓN DE LA DISTANCIA A UN PUNTO REFERENCIAL, CON RESPECTO AL OBSERVADOR (PILOTO)",
+    "B": "VOLANDO HACIA UN FARO O LUZ SOBRE FONDO OSCURO, SE PRODUCE UN MOVIMIENTO DE DESPLAZAMIENTO DEL PUNTO DE ÁNGULOS",
+    "C": "ES EL ÁNGULO DE PARALAJE, PRODUCIDO POR LA POSICIÓN DEL OBSERVADOR, CON RESPECTO A UN PUNTO ALINEADO A LA TRAYECTORIA",
+    "D": "ES LA SENSACIÓN DE MOVIMIENTO RETRÓGRADO DEL PILOTO"
+  },
+  {
+    "id": 109,
+    "category": "AERODINÁMICA",
+    "question": "EL EFECTO DE \"BLACK OUT\" EN EL PILOTO, SE PRODUCE POR:",
+    "correct": "B",
+    "A": "PÉRDIDA O DESUBICACIÓN ESPACIAL, AL EFECTUAR UNA MANIOBRA",
+    "B": "PÉRDIDA TEMPORAL DE LA VISIÓN, DEBIDO A FALTA DE IRRIGACIÓN AL CEREBRO POR EFECTO DE ALTAS \"G\" POSITIVAS",
+    "C": "EFECTO DE ENCANDILAMIENTO EN UN VUELO NOCTURNO, AL CORTAR ILUMINACIÓN ALTA EN LA CABINA DE MANDO",
+    "D": "SENSACIÓN DE SUEÑO INTENSO, EN VUELOS NOCTURNOS PROLONGADOS"
+  },
+  {
+    "id": 110,
+    "category": "AERODINÁMICA",
+    "question": "EL DIÓXIDO DE CARBONO, ACTÚA COMO REGULADOR DE LA ACTIVIDAD RESPIRATORIA:",
+    "correct": "A",
+    "A": "CIERTO",
+    "B": "FALSO",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 111,
+    "category": "AERODINÁMICA",
+    "question": "EL ESTADO DE BUENA SALUD EN EL SER HUMANO, ES EL RESULTADO DEL BUEN FUNCIONAMIENTO DEL FACTOR BIOLÓGICO ÚNICAMENTE",
+    "correct": "B",
+    "A": "CIERTO",
+    "B": "FALSO",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 112,
+    "category": "AERODINÁMICA",
+    "question": "LA BARO-OTITIS, ES UN FENÓMENO RELACIONADO CON EL OÍDO MEDIO, DEBIDO A QUE LAS PRESIONES NO SE HAN IGUALADO",
+    "correct": "A",
+    "A": "CIERTO",
+    "B": "FALSO",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 113,
+    "category": "AERODINÁMICA",
+    "question": "EN EL CASO DE UN VUELO NOCTURNO, EL PILOTO, DEBIDO A LA ESCASA LUMINOSIDAD, UTILIZA LA LLAMADA VISIÓN PERIFÉRICA",
+    "correct": "A",
+    "A": "CIERTO",
+    "B": "FALSO",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 114,
+    "category": "AERODINÁMICA",
+    "question": "EN EL DESCENSO , LA TROMPA DE EUSTAQUIO, ES LA QUE SE ENCARGA DE IGUALAR LAS PRESIONES ENTRE EL OÍDO MEDIO Y EL EXTERNO",
+    "correct": "A",
+    "A": "CIERTO",
+    "B": "FALSO",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 115,
+    "category": "AERODINÁMICA",
+    "question": "EL SENTIDO DEL EQUILIBRIO DEL PILOTO, ESTÁ RELACIONADO DIRECTAMENTE CON: EL RUÍDO AMBIENTAL DE LA CABINA DE LA AERONAVE",
+    "correct": "B",
+    "A": "CIERTO",
+    "B": "FALSO",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 116,
+    "category": "AERODINÁMICA",
+    "question": "LA VISIÓN NOCTURNA, ES DE TIPO :",
+    "correct": "C",
+    "A": "CENTRAL",
+    "B": "A COLOR",
+    "C": "PERIFÉRICA",
+    "D": "TODAS LAS ANTERIORES"
+  },
+  {
+    "id": 117,
+    "category": "AERODINÁMICA",
+    "question": "LOS CANALES SEMI CIRCULARES, SON ÓRGANOS, QUE FUNCIONAN DANDO AL CEREBRO LA INFORMACIÓN ADECUADA, DE:",
+    "correct": "A",
+    "A": "SENTIDO DE GIRO DEL CUERPO",
+    "B": "CAMPO VISUAL",
+    "C": "AGUDEZA AUDITIVA",
+    "D": "CAMBIOS DE PRESIÓN"
+  },
+  {
+    "id": 118,
+    "category": "AERODINÁMICA",
+    "question": "EL STRESS EN AVIACIÓN, SUELE ESTAR ASOCIADO CON",
+    "correct": "C",
+    "A": "VELOCIDAD Y ALTURA",
+    "B": "TEMPERATURA Y ACTITUD DEL AVIÓN",
+    "C": "TRABAJO, PROBLEMAS FÍSICOS Y PROBLEMAS PERSONALES",
+    "D": "NINGUNA DE LAS ANTERIORES"
+  },
+  {
+    "id": 119,
+    "category": "AERODINÁMICA",
+    "question": "EL DISBARISMO ES UN FENÓMENO, EL CUAL ES PRODUCIDO POR:",
+    "correct": "B",
+    "A": "EXCESO DE OXÍGENO EN LA SANGRE",
+    "B": "DISMINUCIÓN O AUMENTO BRUSCO DE LA PRESIÓN ATMOSFÉRICA",
+    "C": "UNA LUZ BRILLANTE INTENSA",
+    "D": "DISMINUCIÓN GRADUAL DE LA PRESIÓN"
+  },
+  {
+    "id": 120,
+    "category": "AERODINÁMICA",
+    "question": "EL PILOTO DE UNA AERONAVE, EN CONDICIONES DE VUELO DIURNO DEBE USAR OXÍGENO ADICIONAL, A PARTIR DE:",
+    "correct": "A",
+    "A": "10.000 PIES DE ALTURA",
+    "B": "5.000 PIES DE ALTURA",
+    "C": "15.000 PIES DE ALTURA",
+    "D": "1000 PIES DE ALTURA"
+  },
+  {
+    "id": 121,
+    "category": "AERODINÁMICA",
+    "question": "LAS REGULACIONES INDICA QUE UN PILOTO QUE HA PRACTICADO SUBMARINISMO, O BUCEO AUTÓNOMO, NO DEBE VOLAR ANTES DE:",
+    "correct": "B",
+    "A": "UNA HORA",
+    "B": "24 HORAS",
+    "C": "UNA SEMANA",
+    "D": "UN MES"
+  },
+  {
+    "id": 122,
+    "category": "AERODINÁMICA",
+    "question": "HIPOXIA Y ANOXIA, SON TÉRMINOS:",
+    "correct": "B",
+    "A": "SINÓNIMOS",
+    "B": "DIFERENTES",
+    "C": "CONTRARIOS",
+    "D": "A Y C SON CORRECTAS"
+  },
+  {
+    "id": 123,
+    "category": "AERODINÁMICA",
+    "question": "¿QUÉ FACTOR O FACTORES, INFLUIRÁN PARA QUE UN SER HUMANO GOCE DE BUENA SALUD?",
+    "correct": "D",
+    "A": "EL FACTOR BIOLÓGICO",
+    "B": "EL FACTOR PSICOLÓGICO",
+    "C": "EL FACTOR SOCIAL",
+    "D": "TODOS LOS ANTERIORES"
+  },
+  {
+    "id": 124,
+    "category": "AERODINÁMICA",
+    "question": "LOS FACTORES QUE ACELERAN LA PRESENCIA DE LA HIPOXIA, SON:",
+    "correct": "C",
+    "A": "EL FRÍO",
+    "B": "LA OBESIDAD",
+    "C": "EL TABAQUISMO",
+    "D": "LAS DROGAS"
+  },
+  {
+    "id": 125,
+    "category": "AERODINÁMICA",
+    "question": "LAS ILUSIONES SENSORIALES, PUEDEN LLEVARNOS A UNA DESORIENTACIÓN ESPACIAL:",
+    "correct": "A",
+    "A": "CIERTO",
+    "B": "FALSO",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 126,
+    "category": "AERODINÁMICA",
+    "question": "¿CUÁL DE LOS SIGUIENTES SISTEMAS, ES IMPORTANTE PARA AYUDARNOS A MANTENER EL EQUILIBRIO Y LA ORIENTACIÓN?",
+    "correct": "B",
+    "A": "EL SISTEMA NERVIOSO",
+    "B": "EL SISTEMA VISUAL",
+    "C": "EL SISTEMA PROPIOCEPTIVO",
+    "D": "TODAS LAS ANTERIORES"
+  },
+  {
+    "id": 127,
+    "category": "AERODINÁMICA",
+    "question": "LA CONFIABILIDAD DEL SISTEMA VISUAL, ES MUY REDUCIDA POR DEBAJO DE LOS 20.000 PIES",
+    "correct": "B",
+    "A": "CIERTO",
+    "B": "FALSO",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 128,
+    "category": "AERODINÁMICA",
+    "question": "LOS PILOTOS DE AVIONES A HÉLICE, ESTÁN MÁS EXPUESTOS A SUFRIR DESORIENTACIÓN ESPACIAL.",
+    "correct": "B",
+    "A": "CIERTO",
+    "B": "FALSO",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 129,
+    "category": "AERODINÁMICA",
+    "question": "BENDS ES: UNA ENFERMEDAD PRODUCIDA POR DESCOMPRESIÓN, DEBIDA A LOS GASES LIBERADOS DE LÍQUIDOS DEL CUERPO",
+    "correct": "A",
+    "A": "CIERTO",
+    "B": "FALSO",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 130,
+    "category": "AERODINÁMICA",
+    "question": "LA REDUCCIÓN DE POSIBILIDADES DE HIPOXIA ,Y MANIFESTACIONES PRODUCIDAS POR GASES EN SOLUCIÓN, ES UNA VENTAJA DE LA PRESURIZACIÓN:",
+    "correct": "A",
+    "A": "CIERTO",
+    "B": "FALSO",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 131,
+    "category": "AERODINÁMICA",
+    "question": "HOMEOSTASIS, ES EL ESTADO DEL BUEN FUNCIONAMIENTO DE NUESTROS ÓRGANOS, Y SU RELACIÓN ENTRE ELLOS. ESTE ENUNCIADO CORRESPONDE A LA LEY DE:",
+    "correct": "B",
+    "A": "LEY DE BOYLE",
+    "B": "LEY DE DALTON",
+    "C": "LEY DE KEPLER",
+    "D": "LEY DE DARWIN"
+  },
+  {
+    "id": 132,
+    "category": "AERODINÁMICA",
+    "question": "INTENSIDAD Y FRECUENCIA, SON CARACTERÍSTICAS DEL RUIDO:",
+    "correct": "A",
+    "A": "CIERTO",
+    "B": "FALSO",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 133,
+    "category": "AERODINÁMICA",
+    "question": "LA POSIBILIDAD DE ESTAR HIPÓXICO POR INHALACIÓN DE MONÓXIDO DE CARBONO AUMENTA SI :",
+    "correct": "B",
+    "A": "LA HUMEDAD DISMINUYE",
+    "B": "LA ALTURA AUMENTA",
+    "C": "LA DEMANDA DE OXÍGENO AUMENTA",
+    "D": "TODAS SON VERDADERAS"
+  },
+  {
+    "id": 134,
+    "category": "AERODINÁMICA",
+    "question": "¿CUÁL DE LOS PÁRRAFOS ES VERDADERO, RELATIVO A LA PRESENCIA DE ALCOHOL EN EL CUERPO HUMANO?",
+    "correct": "C",
+    "A": "UNA PEQUEÑA CANTIDAD DE ALCOHOL, AUMENTA LA AGUDEZA DE LA VISIÓN",
+    "B": "EL AUMENTO DE ALTITUD, DISMINUYE LOS EFECTOS ADVERSOS DEL ALCOHOL",
+    "C": "EL JUICIO Y LA HABILIDAD DE TOMAR DECISIONES, PUEDE AFECTARSE ADVERSAMENTE AÚN CON UNA PEQUEÑA DOSIS DE ALCOHOL",
+    "D": "TODAS SON CORRECTAS"
+  },
+  {
+    "id": 135,
+    "category": "AERODINÁMICA",
+    "question": "¿CUÁLES SON LOS SÍNTOMAS DE HIPERVENTILACIÓN?",
+    "correct": "D",
+    "A": "PÉRDIDA DEL EQUILIBRIO",
+    "B": "DISMINUCIÓN DE LA RATA DE RESPIRACIÓN",
+    "C": "EUFORIA, SENSACIÓN DE ESTAR BIEN",
+    "D": "AUMENTAR DE LA RATA DE RESPIRACIÓN"
+  },
+  {
+    "id": 136,
+    "category": "AERODINÁMICA",
+    "question": "PARA SOBREPONERSE A LOS SÍNTOMAS DE HIPERVENTILACIÓN, EL PILOTO DEBE:",
+    "correct": "B",
+    "A": "TRAGAR O MASTICAR",
+    "B": "DISMINUIR LA RATA RESPIRATORIA",
+    "C": "AUMENTAR LA RATA RESPIRATORIA",
+    "D": "TODAS SON CORRECTAS"
+  },
+  {
+    "id": 137,
+    "category": "AERODINÁMICA",
+    "question": "¿QUÉ ES LO MÁS PROPENSO A SUCEDER, COMO RESULTADO DE LA HIPERVENTILACIÓN ?",
+    "correct": "C",
+    "A": "INSUFICIENCIA DE OXÍGENO",
+    "B": "EXCESO DE MONÓXIDO DE CARBONO",
+    "C": "INSUFICIENCIA DE DIÓXIDO DE CARBONO",
+    "D": "TODAS SON CORRECTAS"
+  },
+  {
+    "id": 138,
+    "category": "AERODINÁMICA",
+    "question": "PARA SOBREPONERSE A LA DESORIENTACIÓN ESPACIAL, EL PILOTO DEBE:",
+    "correct": "C",
+    "A": "CREER EN LAS SENSACIONES DE SUS SENTIDOS",
+    "B": "AUMENTAR LA RATA RESPIRATORIA",
+    "C": "CREER EN LA INDICACIÓN DE LOS INSTRUMENTOS DE LA AERONAVE",
+    "D": "NINGUNA SON CORRECTAS"
+  },
+  {
+    "id": 139,
+    "category": "AERODINÁMICA",
+    "question": "EL PRINCIPAL SÍNTOMA DE UNA BAROSINUSITIS, ES:",
+    "correct": "C",
+    "A": "DOLOR DE ESTÓMAGO",
+    "B": "DOLOR DENTAL",
+    "C": "DOLOR EN LA CARA",
+    "D": "DOLORES MUSCULARES"
+  },
+  {
+    "id": 140,
+    "category": "AERODINÁMICA",
+    "question": "EL TÉRMINO \"TIEMPO DE CONCIENCIA ÚTIL\", SE REFIERE AL MÁXIMO TIEMPO QUE TIENE EL PILOTO PARA TOMAR LAS MEDIDAS PARA SU SUPERVIVENCIA.",
+    "correct": "A",
+    "A": "CIERTO",
+    "B": "FALSO",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 141,
+    "category": "AERODINÁMICA",
+    "question": "LA VISIÓN, ÓRGANOS PROPIOCEPTIVOS, Y EL SENTIDO DEL EQUILIBRIO, CONSTITUYEN:",
+    "correct": "A",
+    "A": "FUENTES DE INFORMACIÓN PARA LA ORIENTACIÓN",
+    "B": "ENFERMEDADES DEL MOVIMIENTO",
+    "C": "ALTERACIONES DE LA ORIENTACIÓN CON LA VELOCIDAD",
+    "D": "EL PUNTO DE EQUILIBRIO DEL OÍDO MEDIO, Y BALANCE"
+  },
+  {
+    "id": 142,
+    "category": "AERODINÁMICA",
+    "question": "LA PÉRDIDA PARCIAL DE OXÍGENO EN LA SANGRE, SE CONOCE COMO:",
+    "correct": "B",
+    "A": "ANOXIA",
+    "B": "HIPOXIA",
+    "C": "LA VISIÓN DE TÚNEL (REDUCCIÓN DEL CAMPO VISUAL)",
+    "D": "BENS"
+  },
+  {
+    "id": 143,
+    "category": "AERODINÁMICA",
+    "question": "¿SEGÚN LA RAV 91. 11, CUÁL SERÍA EL TÉRMINO DE TIEMPO, QUE SE REQUIERE PARA VOLAR DESPUÉS DE HABER INGERIDO LICOR?",
+    "correct": "C",
+    "A": "1 HORA ANTES DEL VUELO",
+    "B": "6 HORAS ANTES DEL VUELO",
+    "C": "8 HORAS ANTES DEL VUELO",
+    "D": "24 HORAS DESPUÉS"
+  },
+  {
+    "id": 144,
+    "category": "AERODINÁMICA",
+    "question": "LOS CAMBIOS, PRODUCIDOS POR LAS VARIACIONES DE LA PRESIÓN BAROMÉTRICA EN LOS GASES DEL CUERPO, SE LLAMA:",
+    "correct": "B",
+    "A": "HIPERVENTILACIÓN",
+    "B": "DISBARISMO",
+    "C": "HIPOXIA",
+    "D": "ANOXIA"
+  },
+  {
+    "id": 145,
+    "category": "AERODINÁMICA",
+    "question": "SE DENOMINA ASFIXIA:",
+    "correct": "C",
+    "A": "A LA INADECUADA TEMPERATURA DEL CUERPO HUMANO",
+    "B": "A LA FALTA DE OXÍGENO EN EL CEREBRO",
+    "C": "AL PASO INADECUADO DE AIRE A LOS PULMONES",
+    "D": "TODAS SON CORRECTAS"
+  },
+  {
+    "id": 146,
+    "category": "AERODINÁMICA",
+    "question": "LAS CAUSAS DE ASFIXIA, PUEDEN SER:",
+    "correct": "A",
+    "A": "SOFOCACIÓN, INMERSIÓN, AHOGAMIENTO, OBSTRUCCIÓN MECÁNICA",
+    "B": "SOFOCACIÓN, BAJA TENSIÓN, AHOGAMIENTO, NERVIOSISMO",
+    "C": "OBSTRUCCIÓN MECÁNICA, ALTA CANTIDAD DE AZÚCAR EN LA SANGRE, AHOGAMIENTO",
+    "D": "NINGUNA SON CORRECTAS"
+  },
+  {
+    "id": 147,
+    "category": "AERODINÁMICA",
+    "question": "PUEDEN RESULTAR DAÑOS IRREVERSIBLES AL CEREBRO, SÌ UNA PERSONA DEJA DE RESPIRAR POR MÁS DE:",
+    "correct": "C",
+    "A": "DIEZ MINUTOS",
+    "B": "CINCO MINUTOS",
+    "C": "CUATRO MINUTOS",
+    "D": "TODAS SON CORRECTAS"
+  },
+  {
+    "id": 148,
+    "category": "AERODINÁMICA",
+    "question": "SON SÍNTOMAS DE SHOCK:",
+    "correct": "C",
+    "A": "EL DESMAYO",
+    "B": "LA PÉRDIDA E INCONSCIENCIA, Y DE SIGNOS VITALES",
+    "C": "MAREOS, PALIDEZ, FRIALDAD EN LA PIEL, DESCENSO DE LA PRESIÓN ARTERIAL",
+    "D": "TODAS LAS ANTERIORES"
+  },
+  {
+    "id": 149,
+    "category": "AERODINÁMICA",
+    "question": "SE ENTIENDE POR PARO CARDÍACO:",
+    "correct": "B",
+    "A": "DOLOR FUERTE EN EL PECHO",
+    "B": "DESAPARICIÓN DEL LATIDO DEL CORAZÓN",
+    "C": "LA MUERTE",
+    "D": "TODAS LAS ANTERIORES"
+  },
+  {
+    "id": 150,
+    "category": "AERODINÁMICA",
+    "question": "LAS LESIONES EN LAS QUE EL HUESO PIERDE SU CONTINUIDAD, SE DENOMINA:",
+    "correct": "B",
+    "A": "DISLOCACIÓN",
+    "B": "FRACTURA",
+    "C": "ESGUINCE",
+    "D": "EMBOLIA LIPOTRÓPICA"
+  },
+  {
+    "id": 151,
+    "category": "AERODINÁMICA",
+    "question": "EL OBJETIVO PRINCIPAL DE LOS PRIMEROS AUXILIOS EN CASO DE FRACTURA, ES:",
+    "correct": "C",
+    "A": "RESTABLECER EL HUESO A SU POSICIÓN ORIGINAL",
+    "B": "PARAR LA HEMORRAGIA",
+    "C": "MANTENER INMÓVILES LOS HUESOS ROTOS",
+    "D": "NINGUNA DE LAS ANTERIORES"
+  },
+  {
+    "id": 152,
+    "category": "AERODINÁMICA",
+    "question": "EL INTERCAMBIO GASEOSO EN EL PULMÓN, CONSISTE EN:",
+    "correct": "B",
+    "A": "EL PASO DE OXÍGENO DEL ALVÉOLO PULMONAR A LA SANGRE, Y DEL ANHÍDRIDO CARBÓNICO DE DE LA SANGRE AL ALVÉOLO, POR EFECTOS DE LA CONCENTRACIÓN",
+    "B": "EL PASO DEL ANHÍDRIDO CARBÓNICO DEL ALVÉOLO A LA SANGRE, Y DEL OXÍGENO DE LA SANGRE AL ALVÉOLO, POR EFECTO DE LA PRESIÓN",
+    "C": "EL OXÍGENO LIMITADO QUE LLEGA A LOS MÚSCULOS DEL CORAZÓN",
+    "D": "EL PASO DEL OXÍGENO ÚNICAMENTE"
+  },
+  {
+    "id": 153,
+    "category": "AERODINÁMICA",
+    "question": "¿CUÁL DE LAS SIGUIENTES SITUACIONES, PROBABLEMENTE GENERE HIPERVENTILACIÓN?",
+    "correct": "B",
+    "A": "EL EXCESIVO CONSUMO DE ALCOHOL",
+    "B": "UN CASO SE STRESS QUE PRODUZCA ANSIEDAD",
+    "C": "UNA RATA DE RESPIRACIÓN EXTREMADAMENTE BAJA, Y OXÍGENO INSUFICIENTE",
+    "D": "TODAS LAS ANTERIORES"
+  },
+  {
+    "id": 154,
+    "category": "AERODINÁMICA",
+    "question": "¿CUÁL ES EL SÍNTOMA COMÚN DE HIPERVENTILACIÓN?",
+    "correct": "C",
+    "A": "AUMENTO DE LA AGUDEZA VISUAL (MEJOR VISIÓN)",
+    "B": "DISMINUCIÓN DEL RITMO DE RESPIRACIÓN",
+    "C": "COSQUILLEO O PICAZÓN EN LAS MANOS, PIERNAS, Y EXTREMIDADES, SENSACIÓN DE MAREO",
+    "D": "TODAS LAS ANTERIORES"
+  },
+  {
+    "id": 155,
+    "category": "AERODINÁMICA",
+    "question": "¿CUÁL SERÍA UN SÍNTOMA DE ENVENENAMIENTO, POR MONÓXIDO DE CARBONO?",
+    "correct": "A",
+    "A": "SUEÑO",
+    "B": "DOLORES Y CALAMBRES EN LAS MANOS Y PIES",
+    "C": "RESPIRACIÓN BAJA Y RÁPIDA",
+    "D": "NINGUNA DE LAS ANTERIORES"
+  },
+  {
+    "id": 156,
+    "category": "AERODINÁMICA",
+    "question": "BRUMA O CALIMA, DARÁ LA SENSACIÓN QUE LA AERONAVE ESTÁ:",
+    "correct": "B",
+    "A": "MÁS CERCA DE LA PISTA DE LO QUE REALMENTE ESTÁ",
+    "B": "MÁS LEJOS DE LA PISTA DE LO QUE REALMENTE ESTÁ",
+    "C": "PERCEPCIÓN VISUAL PROPORCIONAL. ES IGUAL A LA DE AIRE CLARO",
+    "D": "LA APRECIACIÓN SERÁ, QUE REALIZA UNA APROXIMACIÓN BAJA"
+  },
+  {
+    "id": 157,
+    "category": "AERODINÁMICA",
+    "question": "¿CUÁL ES, LA MANERA MÁS EFICAZ PARA EL USO DE LOS OJOS EN VUELO NOCTURNO?",
+    "correct": "C",
+    "A": "MIRE ÚNICAMENTE LUCES DISTANTES Y DÉBILES (BAJAS)",
+    "B": "CONCÉNTRESE DIRECTAMENTE EN CADA OBJETIVO DURANTE UNOS SEGUNDOS",
+    "C": "RECORRA LA VISTA LENTAMENTE PARA PERMITIR VISIÓN PERIFÉRICA",
+    "D": "NINGUNA DE LAS ANTERIORES"
+  },
+  {
+    "id": 158,
+    "category": "AERODINÁMICA",
+    "question": "¿CUÁL AERONAVE QUE ESTÉ A LA VISTA, SERÍA LA DE MAYOR CUIDADO RESPECTO A UNA COLISIÓN?",
+    "correct": "A",
+    "A": "AQUELLA QUE ESTANDO ENFRENTE, NO TENGA MOVIMIENTO LATERAL NI VERTICAL ,Y ESTÉ AUMENTANDO DE TAMAÑO",
+    "B": "AQUELLA QUE ESTANDO EN FRENTE, Y SE ESTÉ DESPLAZANDO DE IZQUIERDA A DERECHA A ALTA VELOCIDAD.",
+    "C": "AQUELLA QUE ESTANDO ENFRENTE, Y SE DESPLAZA DE DERECHA A IZQUIERDA A BAJA VELOCIDAD",
+    "D": "NINGUNA DE LAS ANTERIORES"
+  },
+  {
+    "id": 159,
+    "category": "AERODINÁMICA",
+    "question": "UN PILOTO, ESTÁ MÁS EXPUESTO A SUFRIR DESORIENTACIÓN ESPACIAL CUANDO:",
+    "correct": "C",
+    "A": "IGNORA O COMBATE LAS SENSACIONES MUSCULARES Y LAS DEL OÍDO INTERNO",
+    "B": "MUEVE CON FRECUENCIA LOS OJOS EN PROCESO DE VERIFICAR LOS INSTRUMENTOS DE VUELO",
+    "C": "CUANDO UTILIZA LAS SENSACIONES CORPORALES PARA INTERPRETAR LAS ACTITUDES DE VUELO",
+    "D": "TODAS LAS ANTERIORES"
+  },
+  {
+    "id": 160,
+    "category": "AERODINÁMICA",
+    "question": "¿QUÉ SE RECOMIENDA, PARA EVITAR LA DESORIENTACIÓN ESPACIAL ?",
+    "correct": "B",
+    "A": "REDUCIR AL MÁXIMO POSIBLE, LOS MOVIMIENTOS DE LOS OJOS Y LA CABEZA",
+    "B": "APOYARSE TOTALMENTE, EN LAS INDICACIONES DE LOS INSTRUMENTOS DE VUELO",
+    "C": "LAS DOS ANTERIORES SON CORRECTAS",
+    "D": null
+  },
+  {
+    "id": 161,
+    "category": "AERODINÁMICA",
+    "question": "EN OSCURIDAD, UNA LUZ ESTACIONARIA APARENTA MOVERSE SI SE VE FIJAMENTE POR UN TIEMPO. ESTA ILUSIÓN ÓPTICA SE DENOMINA",
+    "correct": "C",
+    "A": "ILUSIÓN SOMATOGRÁVICA",
+    "B": "ILUSIÓN DE ILUMINACIÓN TERRESTRE",
+    "C": "AUTOKINESIS",
+    "D": "REFRACCIÓN RETINOPÁTICA"
+  },
+  {
+    "id": 162,
+    "category": "AERODINÁMICA",
+    "question": "AL EFECTUAR UNA APROXIMACIÓN VISUAL, SI SE OBSERVA LA PISTA MUY CORTA ESTO INDICA:",
+    "correct": "A",
+    "A": "LA ALTURA PODRÍA SER MAYOR DE LA APARENTE",
+    "B": "LA ALTURA PODRÍA SER MENOR DE LA APARENTE",
+    "C": "PODRÍA NIVELAR ALTO SOBRE LA PISTA ,Y ATERRIZAR DURO (DESPLOME)",
+    "D": "TODAS LAS ANTERIORES"
+  },
+  {
+    "id": 163,
+    "category": "AERODINÁMICA",
+    "question": "LA PENETRACIÓN REPENTINA EN UNA CAPA DE NIEBLA ¿PUEDE CREAR LA ILUSIÓN DE QUE?",
+    "correct": "B",
+    "A": "LA NARIZ DEL AVIÓN SUBE",
+    "B": "LA NARIZ DEL AVIÓN BAJA",
+    "C": "NIVELARSE",
+    "D": "TODAS LAS ANTERIORES"
+  },
+  {
+    "id": 164,
+    "category": "AERODINÁMICA",
+    "question": "SEGÚN LA RAV-91 SECCIÓN 91.11 ACTUALMENTE UNA PERSONA NO PUEDE ACTUAR COMO TRIPULANTE DE UN VUELO, SI HA INGERIDO BEBIDAS ALCOHÓLICAS DENTRO DE LAS PRECEDENTES:",
+    "correct": "C",
+    "A": "24 HORAS",
+    "B": "12 HORAS",
+    "C": "8 HORAS",
+    "D": "NINGUNA DE LAS ANTERIORES"
+  },
+  {
+    "id": 165,
+    "category": "AERODINÁMICA",
+    "question": "FACTORES HUMANOS DE VUELO, ES:",
+    "correct": "B",
+    "A": "LA CIENCIA QUE ESTUDIA LAS DEFORMACIONES DEL ORGANISMO EN VUELO",
+    "B": "LA CIENCIA QUE ESTUDIA LAS FUNCIONES ORGÁNICAS EN EL AMBIENTE DEL VUELO",
+    "C": "LA CIENCIA QUE ESTUDIA LA VIDA ,Y LAS FUNCIONES ORGÁNICAS",
+    "D": "TODAS LAS ANTERIORES"
+  },
+  {
+    "id": 166,
+    "category": "AERODINÁMICA",
+    "question": "EL GAS MÁS ABUNDANTE EN EL AIRE QUE RESPIRAMOS, ES:",
+    "correct": "C",
+    "A": "EL OXÍGENO",
+    "B": "EL ANHÍDRIDO CARBÓNICO",
+    "C": "EL NITRÓGENO",
+    "D": "EL HELIO"
+  },
+  {
+    "id": 167,
+    "category": "AERODINÁMICA",
+    "question": "PARA PREVENIR LA HIPOXIA, DEBEMOS:",
+    "correct": "C",
+    "A": "NO VOLAR CON GRIPE",
+    "B": "NO FUMAR",
+    "C": "NO VOLAR DESPRESURIZADOS POR ENCIMA DE 10.000 PIES",
+    "D": "TODAS LAS ANTERIORES"
+  },
+  {
+    "id": 168,
+    "category": "AERODINÁMICA",
+    "question": "EL AEROEMBOLISMO, ES UNA ENFERMEDAD PRODUCIDA POR:",
+    "correct": "C",
+    "A": "EL DIFERENCIAL DE PRESIÓN DEL AIRE ATRAPADO EN EL OÍDO MEDIO",
+    "B": "EL AUMENTO DE VOLUMEN DE LOS GASES EN EL INTESTINO",
+    "C": "LA LIBERACIÓN DEL NITRÓGENO DISUELTO EN LA SANGRE, EN FORMA DE BURBUJAS",
+    "D": "NARCOSIS GASEOSA"
+  },
+  {
+    "id": 169,
+    "category": "AERODINÁMICA",
+    "question": "EN CASO DE SUFRIR DE HIPOXIA, DEBEMOS:",
+    "correct": "C",
+    "A": "MANTENER EL NIVEL DE VUELO, RESPIRAR OXÍGENO, TOMAR VITAMINA A.",
+    "B": "AUMENTAR EL RITMO CARDÍACO, EL RITMO RESPIRATORIO, Y EL NIVEL DE HEMOGLOBINA",
+    "C": "DESCENDER A UNA ALTITUD MÁS BAJA, RESPIRAR OXÍGENO PURO, Y EVITAR EL ESFUERZO FÍSICO.",
+    "D": "EVITAR VUELO TURBULENTO O PERTURBADO POR VIRAJES CONTINUOS"
+  },
+  {
+    "id": 170,
+    "category": "AERODINÁMICA",
+    "question": "LA OTITIS BAROTRAUMÁTICA, SE PRODUCE POR:",
+    "correct": "C",
+    "A": "LA OBSTRUCCIÓN DE LA TROMPA DE EUSTAQUIO, PRODUCIDA POR EFECTOS INFLAMATORIOS",
+    "B": "DEFORMACIÓN DEL TÍMPANO, POR DIFERENCIAL DE PRESIÓN DEL AIRE",
+    "C": "A Y B SON CORRECTAS",
+    "D": "NINGUNA DE LAS ANTERIORES"
+  },
+  {
+    "id": 171,
+    "category": "AERODINÁMICA",
+    "question": "LOS CANALES SEMICIRCULARES, NOS DARÁN INFORMACIÓN CONFIABLE ACERCA DE LA POSICIÓN DEL AVIÓN EN TODAS LAS FASES DEL VUELO",
+    "correct": "B",
+    "A": "CIERTO",
+    "B": "FALSO",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 172,
+    "category": "AERODINÁMICA",
+    "question": "EL TIEMPO DE CONCIENCIA ÚTIL (T.C.U.) ,ES IGUAL PARA TODAS LAS PERSONAS",
+    "correct": "B",
+    "A": "CIERTO",
+    "B": "FALSO",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 173,
+    "category": "AERODINÁMICA",
+    "question": "¿EN CASO DE DESORIENTACIÓN ESPACIAL, DEBEMOS CONFIAR MÁS EN NUESTROS SENTIDOS QUE EN LOS INSTRUMENTOS?",
+    "correct": "A",
+    "A": "FALSO",
+    "B": "CIERTO",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 174,
+    "category": "AERODINÁMICA",
+    "question": "EL STRESS, ES UNA RESPUESTA ORGÁNICA NATURAL ANTE ESTÍMULOS EXTERNOS",
+    "correct": "A",
+    "A": "CIERTO",
+    "B": "FALSO",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 175,
+    "category": "AERODINÁMICA",
+    "question": "CUANDO SE PRESENTAN ENFERMEDADES TAN SIMPLES COMO UN RESFRIADO,¿ ESTÁ PERMITIDA LA AUTOMEDICACIÓN EN EL PERSONAL DE VUELO",
+    "correct": "B",
+    "A": "CIERTO",
+    "B": "FALSO",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 176,
+    "category": "AERODINÁMICA",
+    "question": "LA ZONA FISIOLÓGICA, SE EXTIENDE DESDE EL NIVEL DEL MAR HASTA LOS 15.000 PIES:",
+    "correct": "B",
+    "A": "CIERTO",
+    "B": "FALSO",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 177,
+    "category": "AERODINÁMICA",
+    "question": "EL CONTROL QUÍMICO, ES LA SENSIBILIDAD A LA PRESIÓN PARCIAL DEL DIÓXIDO DE CARBONO EN LA SANGRE ARTERIAL.",
+    "correct": "B",
+    "A": "FALSO",
+    "B": "CIERTO",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 178,
+    "category": "AERODINÁMICA",
+    "question": "DE LAS SIGUIENTES DEFINICIONES, ¿CUÁL \"NO\" SE CONSIDERA UNA CARACTERÍSTICA DEL ESTADO DE SHOCK?",
+    "correct": "C",
+    "A": "MAREOS, NÁUSEAS, VÓMITO.",
+    "B": "SUDOR EXCESIVO.",
+    "C": "HIPERACTIVIDAD, HIPERQUINÉTIA",
+    "D": "PULSO IRREGULAR."
+  },
+  {
+    "id": 179,
+    "category": "AERODINÁMICA",
+    "question": "HIPOXIA ES UN ESTADO DE DEFICIENCIA DE OXIGENO EN LA SANGRE:",
+    "correct": "B",
+    "A": "CIERTO",
+    "B": "FALSO",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 180,
+    "category": "AERODINÁMICA",
+    "question": "FASE COMPENSATORIA DE LA HIPOXIA SE PRODUCE A LOS:",
+    "correct": "B",
+    "A": "ENTRE EL NIVEL DEL MAR Y 6000 PIES, BAJA LA SATURACIÓN DE HEMOGLOBINA 97 A 92% DISMINUCIÓN DE LAS CAPACIDADES VISUALES",
+    "B": "6000 A 12000 PIES, SATURACIÓN DE LA HEMOGLOBINA BAJA A 85% (TAQUICARDIA)",
+    "C": "12000 A 2000 PIES SATURACIÓN DE LA HEMOGLOBINA BAJA A 70%",
+    "D": null
+  },
+  {
+    "id": 181,
+    "category": "AERODINÁMICA",
+    "question": "HISTOTOXICA ES UN TIPO DE HIPOXIA:",
+    "correct": "A",
+    "A": "CIERTO",
+    "B": "FALSO",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 182,
+    "category": "AERODINÁMICA",
+    "question": "LOS TIPOS DE GASES DEL DIBARISMO SON GASES ATRAPODOS Y ENVOLVENTES",
+    "correct": "A",
+    "A": "CIERTO",
+    "B": "FALSO",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 183,
+    "category": "AERODINÁMICA",
+    "question": "LOS GLÓBULOS ROJOS: SON CÉLULAS SANGUÍNEAS ENCARGADAS DE TRANSPORTAR OXIGENO AL CUERPO",
+    "correct": "A",
+    "A": "CIERTO",
+    "B": "FALSO",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 184,
+    "category": "AERODINÁMICA",
+    "question": "UN FACTOR PELIGROS PUEDE SER LA FALSA INTERPRETACIÓN DE UN HORIZONTE, EL INTENTAR ALINEARSE CON UN HORIZONTE FALSO",
+    "correct": "A",
+    "A": "CIERTO",
+    "B": "FALSO",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 185,
+    "category": "AERODINÁMICA",
+    "question": "LOS BENDS: SON BURBUJAS DE NITRÓGENO QUE SE QUEDAN ATRAPADAS EN LAS ARTICULACIONES",
+    "correct": "B",
+    "A": "FALSO",
+    "B": "CIERTO",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 186,
+    "category": "AERODINÁMICA",
+    "question": "PARESTECIA: BURBUJAS DE NITRÓGENO QUE BLOQUEAN LOS VASOS PULMONARES MAS PEQUEÑOS",
+    "correct": "B",
+    "A": "CIERTO",
+    "B": "FALSO",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 187,
+    "category": "AERODINÁMICA",
+    "question": "SISTEMA RESPIRATORIO: ES EL PROCESO MEDIANTE EL CUAL EL ORGANISMO REALIZA EL INTERCAMBIO DE GASES ENTRE LOS PULMONES Y LA ATMOSFERA",
+    "correct": "A",
+    "A": "CIERTO",
+    "B": "FALSO",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 188,
+    "category": "AERODINÁMICA",
+    "question": "HIPOXIA ESTAGNANTE: DEFICIENCIA DE O2 EN LOS TEJIDOS O CIRCULACIÓN",
+    "correct": "A",
+    "A": "CIERTO",
+    "B": "FALSO",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 189,
+    "category": "AERODINÁMICA",
+    "question": "LOS CHOKES: BURBUJAS DE NITRÓGENO QUE BLOQUEAN LOS VASOS PULMONARES MAS PEQUEÑOS",
+    "correct": "A",
+    "A": "CIERTO",
+    "B": "FALSO",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 190,
+    "category": "AERODINÁMICA",
+    "question": "LEY DE HENRY: LA CANTIDAD DE GASES DISUELTA EN UNA SOLUCIÓN ES DIRECTAMENTE PROPORCIONAL A LA PRESIÓN DEL GAS SOBRE LA SOLUCIÓN",
+    "correct": "A",
+    "A": "CIERTO",
+    "B": "FALSO",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 191,
+    "category": "AERODINÁMICA",
+    "question": "DEFICIENCIA DE OXIGENO POR ENVENENAMIENTO ES:",
+    "correct": "C",
+    "A": "HIPOXIA HIPÓXICA",
+    "B": "HIPOXIA HIPEMICA O ANÉMICA",
+    "C": "HIPOXIA HISTOTOXICA",
+    "D": null
+  },
+  {
+    "id": 192,
+    "category": "AERODINÁMICA",
+    "question": "SATURACIÓN DEL OXIGENO ES:",
+    "correct": "A",
+    "A": "HIPOXIA HIPÓXICA",
+    "B": "HIPOXIA ESTAGNANTE",
+    "C": "HIPOXIA ANÉMICA",
+    "D": null
+  },
+  {
+    "id": 193,
+    "category": "AERODINÁMICA",
+    "question": "ES LA PRESIÓN QUE SE EJERCE EN UNA CAVIDAD HUECA EN LOS DIENTES",
+    "correct": "B",
+    "A": "BARODONTITIS",
+    "B": "BARODONTALGIA",
+    "C": "NINGUNA DE LAS ANTERIORES",
+    "D": null
+  },
+  {
+    "id": 194,
+    "category": "AERODINÁMICA",
+    "question": "AEROCOLGIA ES LA PRESIÓN QUE AFECTA LOS INTESTINOS",
+    "correct": "A",
+    "A": "CIERTO",
+    "B": "FALSO",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 195,
+    "category": "AERODINÁMICA",
+    "question": "FASE QUE ENTRE LOS 6000 A 12000 PIES CAUSA SATURACIÓN DE LA HEMOGLOBINA, BAJA A 85% (TAQUICARDIA)",
+    "correct": "A",
+    "A": "FASE COMPENSATORIA",
+    "B": "FASE INDIFERENCIA",
+    "C": "FASE DE PERTURBACIÓN",
+    "D": null
+  },
+  {
+    "id": 196,
+    "category": "AERODINÁMICA",
+    "question": "CUALES DE ESTAS NO ES UNA CLASE DE HIPOXIA",
+    "correct": "B",
+    "A": "ESTAGNANTE",
+    "B": "DIBARISMO",
+    "C": "ANÉMICA",
+    "D": null
+  },
+  {
+    "id": 197,
+    "category": "AERODINÁMICA",
+    "question": "METABOLISMO ES EL CONJUNTO DE CAMBIOS QUÍMICOS Y BIOLÓGICOS QUE SE PRODUCEN CONTINUAMENTE EN LAS CÉLULAS VIVAS DE UN ORGANISMO",
+    "correct": "A",
+    "A": "CIERTO",
+    "B": "FALSO",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 198,
+    "category": "AERODINÁMICA",
+    "question": "SISTEMA CIRCULATORIO ES UN SISTEMA DE TRANSPORTE QUE TIENE COMO FUNCIÓN DISTRIBUIR LA SANGRE POR TODOS LOS ÓRGANOS Y TEJIDOS DEL CUERPO",
+    "correct": "A",
+    "A": "CIERTO",
+    "B": "FALSO",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 199,
+    "category": "LEGISLACIÓN",
+    "question": "SE DEFINE COMO TRANSPORTE AÉREO REGULAR:",
+    "correct": "B",
+    "A": "LOS VUELOS EFECTUADOS DIARIAMENTE, A CUALQUIER AEROPUERTO.",
+    "B": "LOS VUELOS ENTRE DOS O MÁS PUNTOS EN UNA MISMA RUTA, AJUSTADOS A UN HORARIO PUBLICADO.",
+    "C": "LOS VUELOS FRECUENTES DESTINADOS A UN AEROPUERTO EN PARTICULAR",
+    "D": "LOS VUELOS EFECTUADOS POR AVIONES PERTENECIENTES A UNA COMPAÑÍA DE AVIACIÓN"
+  },
+  {
+    "id": 200,
+    "category": "LEGISLACIÓN",
+    "question": "TODA AERONAVE CIVIL VENEZOLANA, DÉBE ESTAR INSCRITA EN:",
+    "correct": "A",
+    "A": "EL REGISTRO AERONÁUTICO NACIONAL.",
+    "B": "EL MINISTERIO DE INFRAESTRUCTURA",
+    "C": "EL LIBRO DENOMINADO REGISTRO AÉREO DE VENEZUELA.",
+    "D": "EN LAS NOTARIAS PÚBLICAS DEL ÁREA CORRESPONDIENTE."
+  },
+  {
+    "id": 201,
+    "category": "LEGISLACIÓN",
+    "question": "EN QUÉ ARTÍCULO DE LA LEY DE AERONÁUTICA CIVIL, SE PROHÍBE EL PORTE ARMAS A BORDO:",
+    "correct": "B",
+    "A": "ARTICULO 75",
+    "B": "ARTICULO 73",
+    "C": "ARTICULO 28",
+    "D": "NINGUNA DE LAS ANTERIORES"
+  },
+  {
+    "id": 202,
+    "category": "LEGISLACIÓN",
+    "question": "¿QUÉ ARTÍCULO DE LA LEY DE AERONÁUTICA CIVIL HABLA DE MERCANCÍAS PELIGROSAS?",
+    "correct": "A",
+    "A": "ARTICULO 74",
+    "B": "ARTICULO 78",
+    "C": "ARTICULO 48",
+    "D": "ARTICULO 23"
+  },
+  {
+    "id": 203,
+    "category": "LEGISLACIÓN",
+    "question": "LA AUTORIDAD AERONÁUTICA EN VENEZUELA, SERÁ EJERCIDA POR:",
+    "correct": "B",
+    "A": "LA DIRECCIÓN DEL CIAC, MIGUEL RODRÍGUEZ",
+    "B": "EL PRESIDENTE DEL INAC Y DEMÁS FUNCIONARIOS",
+    "C": "EL MINISTRO DE INFRAESTRUCTURA",
+    "D": "EL EJECUTIVO NACIONAL"
+  },
+  {
+    "id": 204,
+    "category": "LEGISLACIÓN",
+    "question": "LA LEY DE AERONÁUTICA CIVIL, ES UNA LEY ORGÁNICA.",
+    "correct": "B",
+    "A": "CIERTO",
+    "B": "FALSO",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 205,
+    "category": "LEGISLACIÓN",
+    "question": "EN VENEZUELA, LA ÚNICA AUTORIDAD AERONÁUTICA COMPETENTE PARA SUSPENDER LAS LICENCIAS AL PERSONAL AERONÁUTICO, ES:",
+    "correct": "D",
+    "A": "EL MINISTERIO DE INFRAESTRUCTURA (MINFRA).",
+    "B": "LA DIVISIÓN DE AERONAVEGABILIDAD Y OPERACIONES",
+    "C": "LA DIRECCIÓN DEL INSTITUTO AUTÓNOMO AEROPUERTO DE MAIQUETÍA",
+    "D": "EL INSTITUTO NACIONAL DE AERONÁUTICA CIVIL."
+  },
+  {
+    "id": 206,
+    "category": "LEGISLACIÓN",
+    "question": "LAS AERONAVES CIVILES VENEZOLANAS, PODRÁN POSEER:",
+    "correct": "B",
+    "A": "MÁS DE UNA MARCA DE NACIONALIDAD Y MATRICULA.",
+    "B": "SÓLO UNA MARCA DE NACIONALIDAD Y MATRICULA.",
+    "C": "UNA O DOS MATRICULAS, DEPENDIENDO DE LOS CONVENIOS INTERNACIONALES.",
+    "D": "NINGUNA DE LASRESPUESTAS ANTERIORES"
+  },
+  {
+    "id": 207,
+    "category": "LEGISLACIÓN",
+    "question": "LOS HECHOS PUNIBLES O DELITOS QUE OCURRAN EN VUELO ABORDO DE AERONAVES VENEZOLANAS FUERA DEL TERRITORIO NACIONAL, QUEDARÁN SOMETIDOS A :",
+    "correct": "B",
+    "A": "A LAS LEYES DEL PAÍS DONDE SE ENCUENTRE LA AERONAVE",
+    "B": "EL ORDENAMIENTO JURÍDICO VENEZOLANO.",
+    "C": "LAS LEYES DEL PAÍS DONDE ESTÉ MATRICULADA LA AERONAVE.",
+    "D": "LAS LEYES VENEZOLANAS SÍ ATENTAN CONTRA LA SEGURIDAD DEL ESTADO"
+  },
+  {
+    "id": 208,
+    "category": "LEGISLACIÓN",
+    "question": "EL PERSONAL DE TRIPULACIÓN DE CABINA:",
+    "correct": "C",
+    "A": "ES AUTÓNOMO E INDEPENDIENTE DE LA AUTORIDAD DEL CAPITÁN.",
+    "B": "ES DEPENDIENTE ÚNICAMENTE DEL JEFE DE CABINA.",
+    "C": "ES DEPENDIENTE Y SUBORDINADO A LA AUTORIDAD DEL COMANDANTE DE LA AERONAVE.",
+    "D": "ES DEPENDIENTE Y SUBORDINADO AL JEFE DE OPERACIONES."
+  },
+  {
+    "id": 209,
+    "category": "LEGISLACIÓN",
+    "question": "EL PERSONAL TÉCNICO AERONÁUTICO, DEBERÁ RENOVAR SU LICENCIA:",
+    "correct": "B",
+    "A": "A SU VENCIMIENTO",
+    "B": "30 DÍAS ANTES DE SU VENCIMIENTO",
+    "C": "10 DÍAS ANTES DE SU VENCIMIENTO",
+    "D": "NINGUNA DE LAS ANTERIORES"
+  },
+  {
+    "id": 210,
+    "category": "LEGISLACIÓN",
+    "question": "EL INSTITUTO NACIONAL DE AERONÁUTICA CIVIL ,FORMA PARTE INTEGRANTE DEL MINISTERIO DE TRANSPORTE Y COMUNICACIONES:",
+    "correct": "B",
+    "A": "CIERTO",
+    "B": "FALSO",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 211,
+    "category": "LEGISLACIÓN",
+    "question": "LA ORGANIZACIÓN DE AVIACIÓN CIVIL INTERNACIONAL ,FUE CREADA POR EL CONVENIO DE CHICAGO:",
+    "correct": "A",
+    "A": "CIERTO",
+    "B": "FALSO",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 212,
+    "category": "LEGISLACIÓN",
+    "question": "PARA QUE UN CONVENIO INTERNACIONAL SEA DE CUMPLIMIENTO OBLIGATORIO EN VENEZUELA, ÉSTE DEBE TENER EL CARÁCTER DE LEY EXTRANJERA:",
+    "correct": "B",
+    "A": "CIERTO",
+    "B": "FALSO",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 213,
+    "category": "LEGISLACIÓN",
+    "question": "AL CONCLUIR EL TÉRMINO DE VALIDEZ DE UN CERTIFICADO MÉDICO, EL TITULAR:",
+    "correct": "D",
+    "A": "PUEDE CONTINUAR SU PROFESIÓN, CON PERMISO DE LA AUTORIDAD DEL AEROPUERTO",
+    "B": "PUEDE CONTINUAR SU PROFESIÓN, PREVIA AUTORIZACIÓN DEL JEFE DE AEROPUERTO",
+    "C": "TIENE 30 DÍAS PARA ACTUALIZAR SU LICENCIA",
+    "D": "QUEDA INVALIDADO PARA EJERCER LAS ATRIBUCIONES DE SU LICENCIA"
+  },
+  {
+    "id": 214,
+    "category": "LEGISLACIÓN",
+    "question": "LA LEY DE AERONÁUTICA CIVIL, ESTABLECE LAS SANCIONES APLICABLES A LAS PERSONAS QUE COMETAN DELITOS DENTRO DE LAS AERONAVES:",
+    "correct": "A",
+    "A": "CIERTO",
+    "B": "FALSO",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 215,
+    "category": "LEGISLACIÓN",
+    "question": "LA AUTORIDAD AERONÁUTICA VENEZOLANA, ES NOMBRADA POR:",
+    "correct": "C",
+    "A": "EL PRESIDENTE DEL INSTITUTO NACIONAL DE AERONÁUTICA CIVIL..",
+    "B": "EL MINISTERIO DE INFRAESTRUCTURA.",
+    "C": "EL EJECUTIVO NACIONAL.",
+    "D": "EL JEFE DE AERONAVEGABILIDAD Y OPERACIONES."
+  },
+  {
+    "id": 216,
+    "category": "LEGISLACIÓN",
+    "question": "LA OACI. FUE CREADA PARA:",
+    "correct": "C",
+    "A": "ESTABLECER NORMAS PROCEDIMIENTOS GENERALES DE LA AVIACIÓN MUNDIAL",
+    "B": "COMPETIR CON LAS GRANDES EMPRESAS AÉREAS MUNDIALES",
+    "C": "CREAR NORMAS Y PROCEDIMIENTOS PARA EL DESARROLLO DE LA AVIACIÓN CIVIL INTERNACIONAL",
+    "D": "REGULAR LA AVIACIÓN CIVIL INTERNACIONAL"
+  },
+  {
+    "id": 217,
+    "category": "LEGISLACIÓN",
+    "question": "TRANSPORTAR ALGUNA PERSONA QUE ESTÉ BAJO LOS EFECTOS DE CUALQUIER SUSTANCIA PSICOACTIVA (DROGAS), SOLO PODRÁ AUTORIZARLO:",
+    "correct": "B",
+    "A": "LA POLICÍA AEROPORTUARIA EN ALGUNOS CASOS",
+    "B": "EL JEFE DEL AEROPUERTO EN CASOS ESPECIALES",
+    "C": "EL PILOTO AL MANDO DE LA AERONAVE",
+    "D": "EL DEPARTAMENTO DE MEDICINA AERONÁUTICA DEL INAC."
+  },
+  {
+    "id": 218,
+    "category": "LEGISLACIÓN",
+    "question": "EL GRADO DE PILOTO AL MANDO DE UNA AERONAVE DE TRANSPORTE CIVIL EN VENEZUELA, ES OTORGADO POR:",
+    "correct": "B",
+    "A": "EL INSTITUTO NACIONAL DE AERONÁUTICA CIVIL.",
+    "B": "LA PERSONA TITULAR DE UN CERTIFICADO DE EXPLOTADOR",
+    "C": "EL MINISTERIO DE INFRAESTRUCTURA",
+    "D": "LA ORGANIZACIÓN DE AVIACIÓN CIVIL INTERNACIONAL"
+  },
+  {
+    "id": 219,
+    "category": "LEGISLACIÓN",
+    "question": "EL RESPONSABLE POR DAÑOS A LAS PERSONAS, EQUIPAJES, O BIENES, QUE OCURRAN A BORDO DE LAS AERONAVES COMERCIALES DE MATRÍCULA VENEZOLANA , SERÁ :",
+    "correct": "D",
+    "A": "EL CAPITÁN AL MANDO DE LA AERONAVE.",
+    "B": "LAS PERSONAS ENCARGADAS DE LA SEGURIDAD DE LA LÍNEA AÉREA.",
+    "C": "LA LÍNEA AÉREA AUTORIZADA.",
+    "D": "LA PERSONA QUE REALICE TRANSPORTE AÉREO."
+  },
+  {
+    "id": 220,
+    "category": "LEGISLACIÓN",
+    "question": "LOS PRESTADORES DE LOS SERVICIOS AERONÁUTICOS, TENDRÁN LA OBLIGACIÓN DE PROPORCIONAR A SU PERSONAL AERONÁUTICO :",
+    "correct": "B",
+    "A": "ESTABILIDAD Y COMODIDAD A TODO EL PERSONAL",
+    "B": "CAPACITACIÓN Y ADIESTRAMIENTO CONTINUO",
+    "C": "CURSOS INDUCTORIOS Y ESPECÍFICOS",
+    "D": "TODAS LAS RESPUESTAS SON CORRECTAS"
+  },
+  {
+    "id": 221,
+    "category": "LEGISLACIÓN",
+    "question": "ÚNICAMENTE, PODRÁN MATRICULAR AERONAVES DESTINADAS AL SERVICIO DE TRANSPORTE AÉREO EN VENEZUELA :",
+    "correct": "B",
+    "A": "LOS DUEÑOS DE COMPAÑÍAS AÉREAS NACIONALES.",
+    "B": "LAS PERSONAS DE NACIONALIDAD VENEZOLANA.",
+    "C": "LOS DUEÑOS O TRANSPORTISTAS COMERCIALES VENEZOLANOS.",
+    "D": "CUALQUIER PERSONA POSEEDORA DE UN CERTIFICADO DE TRANSPORTISTA AÉREO COMERCIAL VENEZOLANO."
+  },
+  {
+    "id": 222,
+    "category": "LEGISLACIÓN",
+    "question": "LOS EXPLOTADORES DE AERONAVES CIVILES; Y DEL SERVICIO DE TRANSPORTE AÉREO EN VENEZUELA, SERÁN SANCIONADOS CON MULTA DE \" DOS MIL QUINIENTAS UNIDADES TRIBUTARIAS \" (2.500 UT.) POR:",
+    "correct": "A",
+    "A": "INCUMPLIR LOS PERÍODOS DE SERVICIO DE VUELO, DESCANSO Y TIEMPO DE VUELO DE LA TRIPULACIÓN.",
+    "B": "ORDENAR AL PERSONAL DE A BORDO CUALQUIER ACTO QUE IMPLIQUE LA VIOLACIÓN DE LA LEY AERONÁUTICA VIGENTE.",
+    "C": "PERMITIR A SUS TRIPULACIONES, VOLAR CON CERTIFICADO MÉDICO O LICENCIA VENCIDA.",
+    "D": "OPERAR SIN EL CORRESPONDIENTE CERTIFICADO DE EXPLOTADOR."
+  },
+  {
+    "id": 223,
+    "category": "LEGISLACIÓN",
+    "question": "A CUALQUIER PERSONA, QUE ALTERE UN DETECTOR DE HUMO U OTRO DISPOSITIVO DE SEGURIDAD EN UNA AERONAVE DE MATRÍCULA VENEZOLANA, SE LE IMPONDRÁ MULTA DE:",
+    "correct": "C",
+    "A": "TREINTA UNIDADES TRIBUTARIAS (30 UT.)",
+    "B": "NOVENTA UNIDADES TRIBUTARIAS (90 UT.)",
+    "C": "SETENTA UNIDADES TRIBUTARIAS (70 UT.)",
+    "D": "CUARENTA UNIDADES TRIBUTARIAS (40 UT.)"
+  },
+  {
+    "id": 224,
+    "category": "LEGISLACIÓN",
+    "question": "A CUALQUIER PERSONA, QUE AGREDA, INTIMIDE, O AMENACE, FÍSICA O VERBALMENTE, A CUALQUIER MIEMBRO DE LA TRIPULACIÓN O PASAJERO SEGÚN LA LEY DE AERONÁUTICA CIVIL VENEZOLANA VIGENTE, SE LE IMPONDRÁ MULTA DE:",
+    "correct": "C",
+    "A": "CIEN UNIDADES TRIBUTARIAS (100 UT.)",
+    "B": "QUINIENTAS UNIDADES TRIBUTARIAS (500 UT.)",
+    "C": "MIL UNIDADES TRIBUTARIAS (1000 UT.)",
+    "D": "DOS MIL QUINIENTAS UNIDADES TRIBUTARIAS (2500 UT.)"
+  },
+  {
+    "id": 225,
+    "category": "LEGISLACIÓN",
+    "question": "CUALQUIER MIEMBRO DE LA TRIPULACIÓN QUE CONSUMA SUSTANCIAS ESTUPEFACIENTES O PSICOTRÓPICAS, ANTES O DURANTE EL VUELO, SERÁ CASTIGADO CON PRISIÓN DE ...?... A ...?... AÑOS Y REVOCATORIA DE LA LICENCIA O PERMISO POR IGUAL TIEMPO.",
+    "correct": "C",
+    "A": "DE DOS (02) A CUATRO (04) AÑOS.",
+    "B": "DE UNO (01) A TRES (03) AÑOS",
+    "C": "DE SEIS (06) A OCHO (08) AÑOS.",
+    "D": "DE OCHO (08) A DIEZ (10) AÑOS."
+  },
+  {
+    "id": 226,
+    "category": "LEGISLACIÓN",
+    "question": "SE IMPONDRÁ MULTA DE...? UNIDADES TRIBUTARIAS (UT.) A CUALQUIER PERSONA POR: CONSUMIR, HASTA UN ESTADO DE INTOXICACIÓN, BEBIDAS ALCOHÓLICAS O DROGAS (LEY DE AERONÁUTICA CIVIL VEN.)",
+    "correct": "B",
+    "A": "DOS MIL QUINIENTAS UNIDADES TRIBUTARIAS (2500 UT.)",
+    "B": "MIL UNIDADES TRIBUTARIAS (1000 UT.)",
+    "C": "MIL QUINIENTAS UNIDADES TRIBUTARIAS (1500 UT.)",
+    "D": "SETENTA UNIDADES TRIBUTARIAS (70 UT.)"
+  },
+  {
+    "id": 227,
+    "category": "LEGISLACIÓN",
+    "question": "LA AUTORIDAD AERONÁUTICA DE LA REPÚBLICA BOLIVARIANA DE VENEZUELA, ES:",
+    "correct": "B",
+    "A": "EL MINISTERIO DE INFRAESTRUCTURA.",
+    "B": "EL INSTITUTO NACIONAL DE AERONÁUTICA CIVIL.",
+    "C": "EL EJECUTIVO NACIONAL.",
+    "D": "EL INSTITUTO NACIONAL DE AVIACIÓN CIVIL."
+  },
+  {
+    "id": 228,
+    "category": "LEGISLACIÓN",
+    "question": "TODO ACCIDENTE O INCIDENTE QUE OCURRA EN EL ÁMBITO DE LA AVIACIÓN CIVIL EN VENEZUELA, SERÁ INVESTIGADO ADMINISTRATIVAMENTE POR :",
+    "correct": "C",
+    "A": "LA AUTORIDAD MILITAR COMPETENTE.",
+    "B": "EL INSTITUTO NACIONAL DE AERONÁUTICA CIVIL (INAC.)",
+    "C": "EL MINISTERIO DE INFRAESTRUCTURA.",
+    "D": "LA ORGANIZACIÓN DE AVIACIÓN CIVIL INTERNACIONAL (OACI.)"
+  },
+  {
+    "id": 229,
+    "category": "LEGISLACIÓN",
+    "question": "ES COMPETENCIA DE LA AUTORIDAD AERONÁUTICA VENEZOLANA :",
+    "correct": "D",
+    "A": "FISCALIZAR LAS ACTIVIDADES DE LA AERONÁUTICA CIVIL EN VENEZUELA.",
+    "B": "EXPEDIR CERTIFICADOS, PERMISOS O LICENCIAS VENEZOLANAS Y CONVALIDAR LAS EXTRANJERAS",
+    "C": "REGULAR LAS ACTIVIDADES DE LA AERONÁUTICA CIVIL VENEZOLANA.",
+    "D": "TODAS LAS RESPUESTAS ANTERIORES, SON CORRECTAS."
+  },
+  {
+    "id": 230,
+    "category": "LEGISLACIÓN",
+    "question": "¿CUAL DE ESTOS DOCUMENTOS, ESTABLECE LA ORIENTACIÓN SOBRE RESPUESTAS DE EMERGENCIA PARA AFRONTAR INCIDENTES CON MERCANCÍAS PELIGROSAS POR VÍA AÉREA?",
+    "correct": "C",
+    "A": "DOCUMENTO 8372",
+    "B": "DOCUMENTO 7983",
+    "C": "DOCUMENTO 9481",
+    "D": "DOCUMENTO 3088"
+  },
+  {
+    "id": 231,
+    "category": "LEGISLACIÓN",
+    "question": "LAS MERCANCÍAS PELIGROSAS DENOMINADAS LÍQUIDOS INFLAMABLES, CORRESPONDEN A:",
+    "correct": "C",
+    "A": "CLASE 1",
+    "B": "CLASE 2",
+    "C": "CLASE 3",
+    "D": "CLASE 4"
+  },
+  {
+    "id": 232,
+    "category": "LEGISLACIÓN",
+    "question": "LAS MERCANCÍAS PELIGROSAS DENOMINADAS COMO MATERIALES RADIOACTIVOS, CORRESPONDEN A:",
+    "correct": "B",
+    "A": "LA CLASE 6",
+    "B": "LA CLASE 7",
+    "C": "LA CLASE 8",
+    "D": "LA CLASE 9"
+  },
+  {
+    "id": 233,
+    "category": "LEGISLACIÓN",
+    "question": "LAS MERCANCÍAS PELIGROSAS CONSIDERADAS COMO MISCELÁNEAS SE ENCUENTRAN AGRUPADAS EN LA CLASE :",
+    "correct": "D",
+    "A": "CLASE 6",
+    "B": "CLASE 7",
+    "C": "CLASE 8",
+    "D": "CLASE 9"
+  },
+  {
+    "id": 234,
+    "category": "LEGISLACIÓN",
+    "question": "¿CUÁNTAS CATEGORÍAS DE SUSTANCIAS RADIOACTIVAS EXISTEN?",
+    "correct": "C",
+    "A": "UNA CATEGORÍA",
+    "B": "DOS CATEGORÍA",
+    "C": "TRES CATEGORÍAS",
+    "D": "CUATRO CATEGORÍAS"
+  },
+  {
+    "id": 235,
+    "category": "LEGISLACIÓN",
+    "question": "LOS GRUPOS DE EMBALAJE DE LAS MERCANCÍAS PELIGROSAS SE DIVIDEN EN:",
+    "correct": "C",
+    "A": "UN GRUPO",
+    "B": "DOS GRUPOS",
+    "C": "TRES GRUPOS",
+    "D": "CUATRO GRUPOS"
+  },
+  {
+    "id": 236,
+    "category": "LEGISLACIÓN",
+    "question": "EL EMBALAJE DE CATEGORÍA \"I\" CORRESPONDE A LOS PRODUCTOS :",
+    "correct": "A",
+    "A": "SUMAMENTE PELIGROSOS",
+    "B": "BASTANTE PELIGROSOS",
+    "C": "APENAS PELIGROSOS",
+    "D": "NINGUNO DE LOS ANTERIORES"
+  },
+  {
+    "id": 237,
+    "category": "LEGISLACIÓN",
+    "question": "¿ES RESPONSABILIDAD DEL OPERADOR NOTIFICAR LOS INCIDENTES CON MATERIALES PELIGROSOS?",
+    "correct": "A",
+    "A": "CIERTO",
+    "B": "FALSO",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 238,
+    "category": "LEGISLACIÓN",
+    "question": "LAS ETIQUETAS DEBEN TENER UN TAMAÑO ESTÁNDAR DE 10 CENTÍMETROS POR 10 CENTÍMETROS.",
+    "correct": "A",
+    "A": "CIERTO",
+    "B": "FALSO",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 239,
+    "category": "LEGISLACIÓN",
+    "question": "¿ES OBLIGATORIO EL PORTAR EN LAS AERONAVES EL DOCUMENTO SOBRE RESPUESTA DE EMERGENCIA (Doc. 9481)?",
+    "correct": "A",
+    "A": "CIERTO",
+    "B": "FALSO",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 240,
+    "category": "LEGISLACIÓN",
+    "question": "¿EL PERSONAL QUE TRANSPORTA MERCANCÍAS PELIGROSAS DEBE RECIBIR INSTRUCCIÓN SOBRE EL TEMA?",
+    "correct": "A",
+    "A": "CIERTO",
+    "B": "FALSO",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 241,
+    "category": "LEGISLACIÓN",
+    "question": "¿EL EXPLOTADOR PODRÍA TRANSPORTAR MERCANCÍAS PELIGROSAS BAJO EXCEPCIONES?",
+    "correct": "A",
+    "A": "CIERTO",
+    "B": "FALSO",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 242,
+    "category": "LEGISLACIÓN",
+    "question": "¿UN PASAJERO NUNCA PODRÁ TRANSPORTAR MERCANCÍAS PELIGROSAS?",
+    "correct": "B",
+    "A": "CIERTO",
+    "B": "FALSO",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 243,
+    "category": "LEGISLACIÓN",
+    "question": "¿EL EXPLOTADOR DEBE NOTIFICAR EL TRANSPORTE DE CARGA CONSIDERADA COMO MERCANCÍAS PELIGROSAS AL PILOTO AL MANDO?",
+    "correct": "A",
+    "A": "CIERTO",
+    "B": "FALSO",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 244,
+    "category": "LEGISLACIÓN",
+    "question": "¿ES NECESARIO EL COLOCAR LAS ETIQUETAS EN LUGAR VISIBLE EN LOS BULTOS?",
+    "correct": "A",
+    "A": "CIERTO",
+    "B": "FALSO",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 245,
+    "category": "LEGISLACIÓN",
+    "question": "¿ES NECESARIO QUE LA ATC CONOZCA SOBRE EL TRANSPORTE DE CARGA CONSIDERADA COMO MERCANCÍAS PELIGROSAS EN LAS AERONAVES SINIESTRADAS?",
+    "correct": "A",
+    "A": "CIERTO",
+    "B": "FALSO",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 246,
+    "category": "LEGISLACIÓN",
+    "question": "¿HIELO SECO (DIÓXIDO DE CARBONO SÓLIDO) SE CONSIDERA UNA MERCANCÍA PELIGROSA?",
+    "correct": "A",
+    "A": "CIERTO",
+    "B": "FALSO",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 247,
+    "category": "LEGISLACIÓN",
+    "question": "¿SE PUEDEN PINTAR LAS ETIQUETAS EN LOS EMBALAJES?",
+    "correct": "B",
+    "A": "CIERTO",
+    "B": "FALSO",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 248,
+    "category": "LEGISLACIÓN",
+    "question": "¿QUÉ IDIOMA SE UTILIZA COMO LENGUA INTERNACIONAL PARA LAS INSTRUCCIONES DE TRANSPORTE DE MERCANCÍAS PELIGROSAS?",
+    "correct": "A",
+    "A": "INGLES",
+    "B": "ESPAÑOL",
+    "C": "FRANCÉS",
+    "D": "EL IDIOMA DEL PAÍS CUYA NACIONALIDAD PERTENEZCA LA AERONAVE"
+  },
+  {
+    "id": 249,
+    "category": "LEGISLACIÓN",
+    "question": "¿DURANTE EL TRASLADO A UN BULTO SE LE CAE LA ETIQUETA DE IDENTIFICACIÓN CUAL SERIA NUESTRA ACTITUD A SEGUIR?",
+    "correct": "B",
+    "A": "LA RECOGERÍA Y SE LA VOLVERÍA A PEGAR",
+    "B": "NOTIFICAR AL EXPLOTADOR",
+    "C": "PARTICIPAR A LA TRIPULACIÓN",
+    "D": "A Y C SON CORRECTAS"
+  },
+  {
+    "id": 250,
+    "category": "LEGISLACIÓN",
+    "question": "¿DENTRO DE QUE CLASE SE UBICA EL TRASPORTE DE UNA CAJA DE CERVEZA?",
+    "correct": "D",
+    "A": "CLASE 2",
+    "B": "CLASE 6",
+    "C": "CLASE 8",
+    "D": "NINGUNA DE LAS ANTERIORES"
+  },
+  {
+    "id": 251,
+    "category": "LEGISLACIÓN",
+    "question": "¿CUÁL DE LOS SIGUIENTES ARTÍCULOS no SE CONSIDERAN MERCANCÍAS PELIGROSAS?",
+    "correct": "D",
+    "A": "ARTÍCULOS PARA DEFENSA PERSONAL (GAS DE PIMIENTA)",
+    "B": "LOS TELÉFONOS CELULARES CON BATERÍAS DE LITIO",
+    "C": "UN EXTINTOR DE INCENDIO",
+    "D": "DOS LITROS DE BRANDY"
+  },
+  {
+    "id": 252,
+    "category": "LEGISLACIÓN",
+    "question": "¿UN TERMÓMETRO CLÍNICO DE MERCURIO SIN SU ESTUCHE PROTECTOR PODRÁ SER TRANSPORTADO A BORDO EN UNA AERONAVE?",
+    "correct": "B",
+    "A": "cierto",
+    "B": "FALSO",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 253,
+    "category": "LEGISLACIÓN",
+    "question": "EN CASO DE UN INCENDIO EN LA CABINA DE PASAJEROS QUE DOCUMENTO LE ORIENTA RESPECTO AL PROCEDIMIENTO DE EMERGENCIA A SEGUIR",
+    "correct": "B",
+    "A": "9284",
+    "B": "9481",
+    "C": "INSTRUCCIONES TÉCNICAS",
+    "D": "CUADERNO DE TRABAJO N° 3"
+  },
+  {
+    "id": 254,
+    "category": "LEGISLACIÓN",
+    "question": "¿EN QUE DOCUMENTO ENCONTRAMOS EL EFECTO QUE PODRÍA TENER QUE UN DERRAME DE ÁCIDO CLORHÍDRICO EN LA CABINA DE PASAJEROS?",
+    "correct": "B",
+    "A": "9284",
+    "B": "9481",
+    "C": "INSTRUCCIONES TÉCNICAS",
+    "D": "CUADERNO DE TRABAJO N° 3"
+  },
+  {
+    "id": 255,
+    "category": "LEGISLACIÓN",
+    "question": "LAS VARIACIONES DEL TRANSPORTISTA CONSISTEN EN:",
+    "correct": "B",
+    "A": "EXCEPCIONES QUE LOS TRANSPORTISTAS HACEN CON ALGUNAS MERCANCÍAS PELIGROSAS",
+    "B": "RESTRICCIONES ADICIONALES QUE LOS TRANSPORTISTAS IMPONEN A LA REGLAMENTACIÓN SOBRE MERCANCÍAS PELIGROSAS",
+    "C": "VARIACIONES QUE HACEN LOS TRANSPORTISTAS PARA PODER TRANSPORTAR ALGUNAS MERCANCÍAS PELIGROSAS",
+    "D": "SON LAS VARIACIONES QUE APARECEN EN EL MANUAL DE MERCANCÍAS PELIGROSAS"
+  },
+  {
+    "id": 256,
+    "category": "LEGISLACIÓN",
+    "question": "LA DISPENSA SE DEFINE:",
+    "correct": "C",
+    "A": "COMO EXCEPCIONES A LA REGLAMENTACIÓN QUE EL TRANSPORTISTA PUEDE CONCEDER EN CASO DE EXTREMA URGENCIA",
+    "B": "COMO EXCEPCIONES A LA REGLAMENTACIÓN QUE EL PILOTO AL MANDO PUEDE CONCEDER EN CASO DE EXTREMA URGENCIA",
+    "C": "COMO EXCEPCIONES A LA REGLA QUE SE ENCUENTRAN DESCRITAS EN LAS INSTRUCCIONES TÉCNICAS (DOC. 9284)",
+    "D": "EL ESPACIO DONDE SE GUARDAN MERCANCÍAS PELIGROSAS"
+  },
+  {
+    "id": 257,
+    "category": "LEGISLACIÓN",
+    "question": "¿CUÁL DE LAS SIGUIENTES AFIRMACIONES ES CORRECTA?",
+    "correct": "C",
+    "A": "TODAS LAS MERCANCÍAS PELIGROSAS PUEDEN TRANSPORTARSE POR VÍA AÉREA",
+    "B": "NINGUNA MERCANCÍA PELIGROSA PUEDE TRANSPORTARSE POR VÍA AÉREA",
+    "C": "ALGUNAS MERCANCÍAS PELIGROSAS PUEDEN TRANSPORTARSE POR VÍA AÉREA",
+    "D": "ES MEJOR NO TRANSPORTAR MERCANCÍAS PELIGROSAS"
+  },
+  {
+    "id": 258,
+    "category": "LEGISLACIÓN",
+    "question": "EL ANEXO 18 Y EL DOCUMENTO 9284 DE LA OACI:",
+    "correct": "A",
+    "A": "SON LAS ÚNICAS FUENTES LEGALES AUTÉNTICAS DE LA REGLAMENTACIÓN SOBRE MERCANCÍAS PELIGROSAS.",
+    "B": "ESTABLECEN SÓLO RECOMENDACIONES PARA EL TRANSPORTE DE MERCANCÍAS PELIGROSAS POR VÍA AÉREA",
+    "C": "SON COMPLEMENTOS DE LA REGLAMENTACIÓN DE M.P. DE LA IATA.",
+    "D": "ESTÁN AUTORIZADOS POR LA FAA."
+  },
+  {
+    "id": 259,
+    "category": "LEGISLACIÓN",
+    "question": "LAS DIFERENCIAS ENTRE LA REGLAMENTACIÓN IATA Y DE LA OACI CONSISTEN EN QUÉ:",
+    "correct": "B",
+    "A": "LA REGLAMENTACIÓN DE LA OACI ES MÁS RESTRICTIVA QUE LA DE IATA",
+    "B": "LA REGLAMENTACIÓN IATA ES MÁS RESTRICTIVA QUE LA DE LA OACI",
+    "C": "NO HAY DIFERENCIAS POR LO TANTO SON IDÉNTICAS",
+    "D": "ESTÁN CONTENIDAS EN EL REGLAMENTO"
+  },
+  {
+    "id": 260,
+    "category": "LEGISLACIÓN",
+    "question": "¿CUÁL DE LOS SIGUIENTES ARTÍCULOS PUEDE TRANSPORTARSE COMO EQUIPAJE FACTURADO?",
+    "correct": "C",
+    "A": "ARTÍCULOS PARA DEFENSA PERSONAL (GAS DE PIMIENTA)",
+    "B": "UN EXTINTOR DE INCENDIO",
+    "C": "UN AEROSOL (ROCIADOR PARA EL CABELLO)",
+    "D": "UNA ESCOPETA"
+  },
+  {
+    "id": 261,
+    "category": "LEGISLACIÓN",
+    "question": "LOS LÍQUIDOS INFLAMABLES PERTENECEN A LA CLASE:",
+    "correct": "A",
+    "A": "TRES",
+    "B": "CUATRO",
+    "C": "OCHO",
+    "D": "NUEVE"
+  },
+  {
+    "id": 262,
+    "category": "LEGISLACIÓN",
+    "question": "SI EL REGLAMENTO SOBRE MERCANCÍAS PELIGROSAS ESTABLECE QUE UN PRODUCTO O SUSTANCIA ES CONSIDERADA COMO TAL ¿ESTÁ PODRÍA SER TRANSPORTADA SÍ CUMPLE CON TODOS LOS REQUISITOS?",
+    "correct": "A",
+    "A": "CIERTO",
+    "B": "FALSO",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 263,
+    "category": "LEGISLACIÓN",
+    "question": "¿CUÁL DE LOS SIGUIENTES PRODUCTOS SE PUEDE TRANSPORTAR COMO EQUIPAJE DE MANO?",
+    "correct": "B",
+    "A": "6 LITROS DE BRANDY (40 GRADOS)",
+    "B": "UN TELÉFONO CELULAR CON PILA DE LITIO",
+    "C": "TRES KILOGRAMOS DE HIELO SECO",
+    "D": "UN LITRO DE GASOIL"
+  },
+  {
+    "id": 264,
+    "category": "LEGISLACIÓN",
+    "question": "LAS MERCANCÍAS PELIGROSAS, SE DEFINEN COMO TODA SUSTANCIA QUE PUEDA CONSTITUIR UN RIESGO PARA:",
+    "correct": "D",
+    "A": "LA SALUD",
+    "B": "LA PROPIEDAD O EL MEDIO AMBIENTE",
+    "C": "LA SEGURIDAD",
+    "D": "TODAS LAS ANTERIORES SON CORRECTAS."
+  },
+  {
+    "id": 265,
+    "category": "LEGISLACIÓN",
+    "question": "¿CUÁL DE LOS ANEXOS DE LA OACI TRATA SOBRE MERCANCÍAS PELIGROSAS?",
+    "correct": "C",
+    "A": "ANEXO 16",
+    "B": "ANEXO 17",
+    "C": "ANEXO 18",
+    "D": "ANEXO 1"
+  },
+  {
+    "id": 266,
+    "category": "LEGISLACIÓN",
+    "question": "¿EN CUÁNTAS CLASES DE RIESGO SE DIVIDEN LAS MERCANCÍAS PELIGROSAS?",
+    "correct": "B",
+    "A": "OCHO",
+    "B": "NUEVE",
+    "C": "DIEZ",
+    "D": "ONCE"
+  },
+  {
+    "id": 267,
+    "category": "LEGISLACIÓN",
+    "question": "¿QUÉ DICE LA FILOSOFÍA EN CUANTO AL TRANSPORTE POR VÍA AÉREA DE MERCANCÍAS PELIGROSAS?",
+    "correct": "B",
+    "A": "TRANSPORTAR MERCANCÍAS PELIGROSAS SI SON AUTORIZADAS POR EL CAPITÁN DE LA AERONAVE",
+    "B": "TODA MERCANCÍA PUEDE SER TRANSPORTADA POR VÍA AÉREA SIEMPRE Y CUANDO CUMPLA CON SUS REGLAMENTACIONES",
+    "C": "NO TRANSPORTAR MERCANCÍAS PELIGROSAS",
+    "D": "SÍ TRANSPORTAR MERCANCÍAS PELIGROSAS"
+  },
+  {
+    "id": 268,
+    "category": "LEGISLACIÓN",
+    "question": "EL DIÓXIDO DE CARBONO (HIELO SECO) SE PUEDE TRANSPORTAR:",
+    "correct": "B",
+    "A": "CUALQUIER CANTIDAD",
+    "B": "HASTA UN MÁXIMO DE 2 KG. COMO EQUIPAJE DE MANO",
+    "C": "CUALQUIER CANTIDAD CON PERMISO DE LA EMPRESA",
+    "D": "COMO EQUIPAJE DE MANO NO DEBE TRANSPORTARSE BAJO NINGÚN CONCEPTO"
+  },
+  {
+    "id": 269,
+    "category": "LEGISLACIÓN",
+    "question": "¿CUÁL DE LOS SIGUIENTES PRODUCTOS SE PUEDE CONSTITUIR EN MERCANCÍA PELIGROSA OCULTA?",
+    "correct": "C",
+    "A": "UN TERMÓMETRO CLÍNICO, CONTENIENDO MERCURIO (EN SU ESTUCHE PROTECTOR)",
+    "B": "CINCO LITROS DE VODKA (45 GRADOS)",
+    "C": "UN ENCENDEDOR SIN VÁLVULA DE SEGURIDAD",
+    "D": "UN SECADOR DE PELO"
+  },
+  {
+    "id": 270,
+    "category": "LEGISLACIÓN",
+    "question": "LOS DESECHOS MÉDICOS SE CONSIDERAN UNA MERCANCÍA PELIGROSA DE LA CLASE 6, ESTA CORRESPONDE A:",
+    "correct": "C",
+    "A": "SUSTANCIAS COMBURENTES",
+    "B": "SUSTANCIAS CORROSIVAS",
+    "C": "SUSTANCIAS INFECCIOSAS",
+    "D": "SUSTANCIAS MISCELÁNEAS"
+  },
+  {
+    "id": 271,
+    "category": "LEGISLACIÓN",
+    "question": "AL CONSULTAR EL MANUAL DE MERCANCÍAS PELIGROSAS, PARA DETERMINAR SI UN ARTÍCULO ES PELIGROSO Y ESTE NO APARECE EN EL LISTADO USTED:",
+    "correct": "C",
+    "A": "DEBE ACEPTAR DICHO PRODUCTO PORQUE NO SE TRATA DE UNA MERCANCÍA PELIGROSA",
+    "B": "NO DEBE ACEPTAR DICHO PRODUCTO PORQUE SE TRATA DE UNA MERCANCÍA PELIGROSA",
+    "C": "DEBE BUSCAR MAYOR INFORMACIÓN ANTES DE TOMAR UNA DECISIÓN",
+    "D": "DEBE ACEPTARLO SIMPLEMENTE"
+  },
+  {
+    "id": 272,
+    "category": "LEGISLACIÓN",
+    "question": "LA CLASE DE RIESGO NÚMERO 4 CORRESPONDE A:",
+    "correct": "B",
+    "A": "LÍQUIDOS INFLAMABLES",
+    "B": "SÓLIDOS INFLAMABLES",
+    "C": "SUSTANCIAS INFECCIOSAS",
+    "D": "SUSTANCIAS MISCELÁNEAS"
+  },
+  {
+    "id": 273,
+    "category": "LEGISLACIÓN",
+    "question": "LAS SUSTANCIAS CORROSIVAS PERTENECEN A LA CLASE",
+    "correct": "C",
+    "A": "TRES",
+    "B": "SEIS",
+    "C": "OCHO",
+    "D": "DOS"
+  },
+  {
+    "id": 274,
+    "category": "LEGISLACIÓN",
+    "question": "EL NÚMERO DE 4 DÍGITOS QUE SE LE ASIGNA A UNA MERCANCÍA CUANDO ESTA HA SIDO CLASIFICADA COMO PELIGROSA SE CONOCE COMO:",
+    "correct": "A",
+    "A": "NÚMERO ONU",
+    "B": "NUMERO ID",
+    "C": "NÚMERO OACI",
+    "D": "NÚMERO ALFA"
+  },
+  {
+    "id": 275,
+    "category": "LEGISLACIÓN",
+    "question": "LAS MERCANCÍAS PELIGROSAS SON SUSTANCIAS LÍQUIDAS, SÓLIDAS O GASES, QUE DEBEMOS SABER IDENTIFICAR PARA TRANSPORTARLAS POR VÍA AÉREA.",
+    "correct": "A",
+    "A": "VERDADERO",
+    "B": "FALSO",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 276,
+    "category": "LEGISLACIÓN",
+    "question": "¿CUÁL DE LOS ANEXOS DE LA OACI, ESTABLECE LAS NORMAS Y MÉTODOS RECOMENDADOS PARA EL TRANSPORTE DE MERCANCÍAS PELIGROSAS POR VÍA AÉREA?",
+    "correct": "A",
+    "A": "ANEXO 18",
+    "B": "ANEXO 13",
+    "C": "ANEXO 17",
+    "D": "ANEXO 3"
+  },
+  {
+    "id": 277,
+    "category": "LEGISLACIÓN",
+    "question": "¿CUÁL DE ESTOS DOCUMENTOS, ESTABLECE LAS INSTRUCCIONES TÉCNICAS PARA EL TRANSPORTE DE MERCANCÍAS PELIGROSAS POR VÍA AÉREA?",
+    "correct": "A",
+    "A": "EL DOCUMENTO 9284",
+    "B": "EL DOCUMENTO 444",
+    "C": "EL DOCUMENTO 9235",
+    "D": null
+  },
+  {
+    "id": 278,
+    "category": "LEGISLACIÓN",
+    "question": "EL TRASLADO DE CADÁVERES POR VÍA AÉREA, ¿PUEDE CONSIDERARSE COMO TRANSPORTE DE MERCANCÍA PELIGROSA?",
+    "correct": "A",
+    "A": "CIERTO",
+    "B": "FALSO",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 279,
+    "category": "LEGISLACIÓN",
+    "question": "EL DIÓXIDO DE CARBONO (HIELO SECO), ES CONSIDERADO UNA MERCANCÍA PELIGROSA",
+    "correct": "A",
+    "A": "CIERTO",
+    "B": "FALSO",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 280,
+    "category": "LEGISLACIÓN",
+    "question": "¿DONDE ESTÁN ESTABLECIDAS LAS NORMAS PARA TRANSPORTE SIN RIESGOS DE MERCANCÍAS PELIGROSAS Y TRANSPORTE DE ANIMALES VIVOS POR VÍA AÉREA?",
+    "correct": "C",
+    "A": "EN LA REGULACIÓN AERONÁUTICA VENEZOLANA 120.",
+    "B": "EN LA REGULACIÓN AERONÁUTICA VENEZOLANA 145.",
+    "C": "EN LA REGULACIÓN AERONÁUTICA VENEZOLANA 110.",
+    "D": "NINGUNA DE LAS ANTERIORES."
+  },
+  {
+    "id": 281,
+    "category": "METEOROLOGÍA",
+    "question": "LA TURBULENCIA, ES EL MOVIMIENTO DESORDENADO DE LAS CORRIENTES DE AIRE, Y SEGÚN SU INTENSIDAD PUEDE SER:",
+    "correct": "C",
+    "A": "ARTIFICIAL, MECÁNICA, CONVECTIVA Y EXTREMA.",
+    "B": "LIGERA, SUAVE, MEDIA, ALTA Y SEVERA.",
+    "C": "LIGERA, MODERADA, SEVERA Y EXTREMA.",
+    "D": "NINGUNA DE LAS ANTERIORES."
+  },
+  {
+    "id": 282,
+    "category": "METEOROLOGÍA",
+    "question": "DENTRO DEL PROCESO DE FORMACIÓN DE LAS NUBES, INTERVIENEN LOS SIGUIENTES FACTORES:",
+    "correct": "A",
+    "A": "LA PRESIÓN ATMOSFÉRICA, ESTABILIDAD E INESTABILIDAD DEL AIRE Y ACCIÓN SOLAR.",
+    "B": "ADVECCIÓN- CONVECCIÓN- ASCENSO OROGRÁFICO TURBULENCIA - SATURACIÓN",
+    "C": "EL VIENTO - LAS CORRIENTES DE AIRE - LAS MASAS DE AIRE- LAS VAGUADAS.",
+    "D": "NINGUNA DE LAS ANTERIORES."
+  },
+  {
+    "id": 283,
+    "category": "METEOROLOGÍA",
+    "question": "LA PRESIÓN ATMOSFÉRICA, ESTABILIDAD E INESTABILIDAD DEL AIRE, ACCIÓN SOLAR. SON ELEMENTOS QUE INTERVIENEN EN LA FORMACIÓN DE:",
+    "correct": "A",
+    "A": "NUBES.",
+    "B": "FENÓMENOS CONVECTIVOS",
+    "C": "DORSALES DE ALTA PRESIÓN",
+    "D": "NINGUNA DE LAS ANTERIORES."
+  },
+  {
+    "id": 284,
+    "category": "METEOROLOGÍA",
+    "question": "LA DENSIDAD DEL AIRE:",
+    "correct": "C",
+    "A": "ES CONSTANTE.",
+    "B": "AUMENTA CON LA ALTURA.",
+    "C": "DISMINUYE CON LA ALTURA.",
+    "D": "AUMENTA CON LA TEMPERATURA."
+  },
+  {
+    "id": 285,
+    "category": "METEOROLOGÍA",
+    "question": "LA TEMPERATURA DEL AIRE- LA PRESIÓN ATMOSFÉRICA Y LA HUMEDAD DEL AIRE, SON LOS TRES ELEMENTOS PRINCIPALES DE LA :",
+    "correct": "C",
+    "A": "LA VISIBILIDAD",
+    "B": "LA AVIACIÓN",
+    "C": "LA METEOROLOGÍA",
+    "D": "NINGUNA DE LAS ANTERIORES"
+  },
+  {
+    "id": 286,
+    "category": "METEOROLOGÍA",
+    "question": "EL PESO DEL AIRE QUE ACTÚA SOBRE TODOS LOS CUERPOS POR UNIDAD DE SUPERFICIE, SE DENOMINA:",
+    "correct": "D",
+    "A": "ALTA PRESIÓN",
+    "B": "BAJA PRESIÓN",
+    "C": "VAGUADA",
+    "D": "PRESIÓN ATMOSFÉRICA"
+  },
+  {
+    "id": 287,
+    "category": "METEOROLOGÍA",
+    "question": "EL FENÓMENO DENOMINADO FRENTE O SUPERFICIE FRONTAL, SE DEFINE COMO :",
+    "correct": "C",
+    "A": "UNA MASA DE AIRE CÁLIDO E INESTABLE.",
+    "B": "LA LÍNEA QUE UNE PUNTOS DE IGUAL PRESIÓN EN UN MAPA SIPNÓPTICO",
+    "C": "SUPERFICIES DE DISCONTINUIDAD ENTRE DOS MASAS DE AIRE DE CARACTERÍSTICAS DIFERENTES",
+    "D": "UNA MASA DE AIRE FRIO QUE SE DESPLAZA CERCA DE LA SUPERFICIE DEL TERRENO."
+  },
+  {
+    "id": 288,
+    "category": "METEOROLOGÍA",
+    "question": "LA TURBULENCIA ES PRODUCIDA POR:",
+    "correct": "B",
+    "A": "NIEBLA DE ADVECCIÓN, NIMBOESTRATOS, EFECTO DE HALO",
+    "B": "CALENTAMIENTO DE LA MASA DE AIRE, PROCESO CONVECTIVO Y CAUSAS MECÁNICAS.",
+    "C": "ENFRIAMIENTO DE LA MASA DE AIRE Y AUMENTO DE LA PRESIÓN.",
+    "D": "ACCIÓN DE LAS MASAS DE AIRE POLARES Y TROPICALES."
+  },
+  {
+    "id": 289,
+    "category": "METEOROLOGÍA",
+    "question": "LA ATMÓSFERA POSEE LA SIGUIENTE COMPOSICIÓN:",
+    "correct": "B",
+    "A": "HIDRÓGENO 78% NITRÓGENO 21% OXÍGENO 1%.",
+    "B": "NITRÓGENO 78% OXÍGENO 21% OTROS GASES 1%.",
+    "C": "OXÍGENO 78% NITRÓGENO 21% OTROS GASES 1%.",
+    "D": "OXÍGENO 78% HIDRÓGENO 21% NITRÓGENO 1%."
+  },
+  {
+    "id": 290,
+    "category": "METEOROLOGÍA",
+    "question": "SE DEFINE NIEBLA COMO:",
+    "correct": "A",
+    "A": "ESTRATO A NIVEL DEL SUELO, PERMITE VISIBILIDAD A MENOS DE 1 KM.",
+    "B": "NUBE CUYA VISIBILIDAD SEA SUPERIOR A 2 KMS.",
+    "C": "ESTRATO COMPRENDIDO ENTRE EL SUELO Y LOS 15 METROS DE ALTURA. NUBE PRODUCTORA DE LLUVIA Y CHUBASCOS",
+    "D": "UNA NUBE CON TEMPERATURAS MAS BAJA QUE EL TERRENO EN QUE SE DESPLAZA."
+  },
+  {
+    "id": 291,
+    "category": "METEOROLOGÍA",
+    "question": "PARA MEDIR LA PRESIÓN ATMOSFÉRICA, SE USA UN INSTRUMENTO DENOMINADO:",
+    "correct": "D",
+    "A": "TERMÓMETRO.",
+    "B": "HIDRÓMETRO.",
+    "C": "TERMÓGRAFO.",
+    "D": "BARÓMETRO."
+  },
+  {
+    "id": 292,
+    "category": "METEOROLOGÍA",
+    "question": "EL VALOR STANDARD DE LA PRESIÓN ATMOSFÉRICA, A NIVEL DEL MAR ES DE:",
+    "correct": "D",
+    "A": "29,92 PULGADAS A 15 °C.",
+    "B": "760 MILÍMETROS A 15 °C.",
+    "C": "1.013,25 MILIBARES A 15 °C.",
+    "D": "TODAS LAS ANTERIORES SON CORRECTAS."
+  },
+  {
+    "id": 293,
+    "category": "METEOROLOGÍA",
+    "question": "DONDE OCURREN LOS LA MAYORÍA DE LOS FENÓMENOS METEOROLÓGICOS, Y DONDE SE REALIZAN CASI TODOS LOS VUELOS DE LOS AVIONES, SE DENOMINA:",
+    "correct": "B",
+    "A": "IONOSFERA.",
+    "B": "TROPOSFERA.",
+    "C": "TROPOPAUSA.",
+    "D": "ESTRATOSFERA."
+  },
+  {
+    "id": 294,
+    "category": "METEOROLOGÍA",
+    "question": "EN UN AEROPUERTO LA PRESIÓN ATMOSFÉRICA COMIENZA A DESCENDER MARCADAMENTE, ESTO INDICA:",
+    "correct": "D",
+    "A": "AUMENTO DE LA INTENSIDAD DEL VIENTO.",
+    "B": "AUMENTO DE LOS VIENTOS DE ALTURA.",
+    "C": "TENDENCIA A UN BUEN TIEMPO.",
+    "D": "APROXIMACIÓN A MAL TIEMPO."
+  },
+  {
+    "id": 295,
+    "category": "METEOROLOGÍA",
+    "question": "LAS LÍNEAS QUE UNEN PUNTOS DE IGUAL PRESIÓN BAROMÉTRICA SE LLAMAN:",
+    "correct": "C",
+    "A": "ISOTÉRMICAS.",
+    "B": "ISOTACAS.",
+    "C": "ISOBARAS.",
+    "D": "ISOGÓNICAS."
+  },
+  {
+    "id": 296,
+    "category": "METEOROLOGÍA",
+    "question": "CUANDO SE ACERCAN A NIVEL DE SUPERFICIE LA TEMPERATURA AMBIENTE Y EL PUNTO DE ROCÍO PODRÍAN GENERAR:",
+    "correct": "D",
+    "A": "FORMACIÓN DE NUBES ALTAS.",
+    "B": "FORMACIÓN DE NUBES BAJAS.",
+    "C": "NO SUCEDE NADA.",
+    "D": "FORMACIÓN DE NIEBLA."
+  },
+  {
+    "id": 297,
+    "category": "METEOROLOGÍA",
+    "question": "PARA MEDIR LA PRESIÓN ATMOSFÉRICA EXISTEN DOS TIPOS DE BARÓMETROS; EL DE MERCURIO Y EL ANEROIDE:",
+    "correct": "A",
+    "A": "VERDADERO.",
+    "B": "FALSO.",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 298,
+    "category": "METEOROLOGÍA",
+    "question": "EL HIELO QUE SE FORMA SOBRE LAS ALAS, AFECTA EL RENDIMIENTO AERODINÁMICO DEL VUELO.",
+    "correct": "A",
+    "A": "VERDADERO",
+    "B": "FALSO",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 299,
+    "category": "METEOROLOGÍA",
+    "question": "LA MAYORÍA DE LOS FENÓMENOS METEOROLÓGICOS, OCURREN EN:",
+    "correct": "C",
+    "A": "LA ESTRATÓSFERA.",
+    "B": "LA TROPOPAUSA.",
+    "C": "LA TROPÓSFERA.",
+    "D": "A NIVEL DEL MAR."
+  },
+  {
+    "id": 300,
+    "category": "METEOROLOGÍA",
+    "question": "UNA SUPERFICIE QUE SEPARA DOS MASAS DE AIRE DE CARACTERÍSTICAS FÍSICAS DIFERENTE DEFINE A UNA",
+    "correct": "B",
+    "A": "CUMÚLONIMBO",
+    "B": "SUPERFICIE FRONTAL",
+    "C": "SUPERFICIE ISOBÁRICA",
+    "D": "HURACÁN"
+  },
+  {
+    "id": 301,
+    "category": "METEOROLOGÍA",
+    "question": "¿QUÉ NUBE DE LAS QUE SE MENCIONAN A CONTINUACIÓN , REPRESENTAN UN PELIGRO INMINENTE PARA LA NAVEGACIÓN AÉREA?:",
+    "correct": "D",
+    "A": "CIRROS.",
+    "B": "CIRROSTRATOS.",
+    "C": "ESTRATOCÚMULOS.",
+    "D": "CUMULONIMBUS"
+  },
+  {
+    "id": 302,
+    "category": "METEOROLOGÍA",
+    "question": "NUBE ES UN VOLUMEN DE AIRE VISIBLE QUE CONTIENE VAPOR DE AGUA CONDENSADA Y/O SUBLIMINADA FORMANDO GOTAS DE AGUA O CRISTALES DE HIELO:",
+    "correct": "A",
+    "A": "VERDADERO.",
+    "B": "FALSO.",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 303,
+    "category": "METEOROLOGÍA",
+    "question": "PARA MEDIR LA VELOCIDAD DEL VIENTO SE UTILIZA:",
+    "correct": "D",
+    "A": "BARÓGRAFO.",
+    "B": "MANGA DE VIENTO",
+    "C": "VELETA.",
+    "D": "ANEMÓMETRO."
+  },
+  {
+    "id": 304,
+    "category": "METEOROLOGÍA",
+    "question": "SI EN LA TROPOSFERA LA TEMPERATURA AUMENTA CON LA ALTITUD, ESTAMOS EN PRESENCIA DE:",
+    "correct": "A",
+    "A": "INVERSIÓN DE TEMPERATURA",
+    "B": "AUMENTO DE LA CAPA DE OZONO",
+    "C": "EFECTO INVERNADERO",
+    "D": "NINGUNA DE LAS ANTERIORES"
+  },
+  {
+    "id": 305,
+    "category": "METEOROLOGÍA",
+    "question": "LA NUBE GRIS Y AMORFA QUE PRODUCE LLUVIA O NEVADAS PROLONGADAS SE LLAMA:",
+    "correct": "A",
+    "A": "NIMBOESTRATOS.",
+    "B": "ALTO ESTRATOS.",
+    "C": "CUMULO NIMBOS.",
+    "D": "ESTRATOCUMULOS."
+  },
+  {
+    "id": 306,
+    "category": "METEOROLOGÍA",
+    "question": "LAS NUBES SON CONSECUENCIA DE LA , CONDENSACIÓN FORMADA POR PEQUEÑAS PARTÍCULAS DE AGUA O HIELO EN SUSPENSIÓN EN LA ATMÓSFERA:",
+    "correct": "A",
+    "A": "VERDADERO.",
+    "B": "FALSO.",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 307,
+    "category": "METEOROLOGÍA",
+    "question": "UN FLUJO DE AIRE EN FORMA DE REMOLINOS, CON CORRIENTES ASCENDENTES Y DESCENDENTES SE DENOMINA:",
+    "correct": "C",
+    "A": "VIENTO RACHEADO.",
+    "B": "FRENTE INESTABLE.",
+    "C": "TURBULENCIA.",
+    "D": "INVERSIÓN TÉRMICA."
+  },
+  {
+    "id": 308,
+    "category": "METEOROLOGÍA",
+    "question": "¿CUÁL DE ESTOS ELEMENTOS, JUEGA UN PAPEL FUNDAMENTAL EN LA FORMACIÓN DE NUBES?",
+    "correct": "C",
+    "A": "EL OXÍGENO",
+    "B": "EL NITRÓGENO",
+    "C": "EL VAPOR DE AGUA",
+    "D": "EL DIÓXIDO DE CARBONO"
+  },
+  {
+    "id": 309,
+    "category": "METEOROLOGÍA",
+    "question": "DEL AIRE, PODEMOS AFIRMAR QUE:",
+    "correct": "B",
+    "A": "NO TIENE PESO POR SER UN GAS",
+    "B": "ES UNA MEZCLA DE GASES",
+    "C": "NO SE PUEDE COMPRIMIR",
+    "D": "TODAS LAS RESPUESTAS SON CORRECTAS"
+  },
+  {
+    "id": 310,
+    "category": "METEOROLOGÍA",
+    "question": "EL ELEMENTO MÁS ABUNDANTE EN LA ATMÓSFERA, ES EL :",
+    "correct": "B",
+    "A": "OXÍGENO",
+    "B": "NITRÓGENO",
+    "C": "OZONO",
+    "D": "HIDRÓGENO"
+  },
+  {
+    "id": 311,
+    "category": "METEOROLOGÍA",
+    "question": "¿QUÉ ES LA ATMÓSFERA?",
+    "correct": "D",
+    "A": "ES LA CAPA DE LA TIERRA, DONDE ORBITAN LOS SATÉLITES",
+    "B": "SON LAS MASAS DE AIRE QUE RODEAN A LA TIERRA.",
+    "C": "ES LA CAPA DE AIRE MÁS PRÓXIMA A LA TIERRA, DONDE SE PRODUCEN LOS FENÓMENOS METEOROLÓGICOS.",
+    "D": "ES UNA COMBINACIÓN DE GASES QUE CUBREN LA TIERRA."
+  },
+  {
+    "id": 312,
+    "category": "METEOROLOGÍA",
+    "question": "LOS MOVIMIENTOS DEL AIRE SON CONSECUENCIA DE:",
+    "correct": "C",
+    "A": "LOS FENÓMENOS METEOROLÓGICOS.",
+    "B": "LAS ESTACIONES SECA Y LLUVIOSA.",
+    "C": "LAS VARIACIONES EN LA PRESIÓN Y LA TEMPERATURA DE LA ATMOSFERA.",
+    "D": "LA LLUVIA Y LA NIEBLA"
+  },
+  {
+    "id": 313,
+    "category": "METEOROLOGÍA",
+    "question": "UNA DE LAS CARACTERÍSTICAS DEL AIRE ES QUE TIENE PESO",
+    "correct": "A",
+    "A": "VERDADERO.",
+    "B": "FALSO.",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 314,
+    "category": "METEOROLOGÍA",
+    "question": "EL AIRE ES :",
+    "correct": "C",
+    "A": "UN FACTOR",
+    "B": "UN ENTE.",
+    "C": "UN FLUIDO.",
+    "D": "UN COMPONENTE."
+  },
+  {
+    "id": 315,
+    "category": "METEOROLOGÍA",
+    "question": "A MAYOR ALTURA, LA ATMÓSFERA SE HACE MENOS DENSA.",
+    "correct": "A",
+    "A": "VERDADERO",
+    "B": "FALSO",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 316,
+    "category": "METEOROLOGÍA",
+    "question": "SE PUEDE AFIRMAR QUE EL AIRE CALIENTE ES MAS DENSO QUE EL AIRE FRIO.",
+    "correct": "B",
+    "A": "VERDADERO",
+    "B": "FALSO",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 317,
+    "category": "METEOROLOGÍA",
+    "question": "SE PUEDE AFIRMAR QUE EL AIRE FRIO ES MAS DENSO QUE EL AIRE CALIENTE.",
+    "correct": "A",
+    "A": "VERDADERO",
+    "B": "FALSO",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 318,
+    "category": "METEOROLOGÍA",
+    "question": "EL MOVIMIENTO HORIZONTAL DE LAS MASAS DE AIRE, SE CONOCEN COMO:",
+    "correct": "A",
+    "A": "EL VIENTO.",
+    "B": "LA LLUVIA.",
+    "C": "LAS NUBES.",
+    "D": "EL DÍA Y LA NOCHE."
+  },
+  {
+    "id": 319,
+    "category": "METEOROLOGÍA",
+    "question": "EN UN RÉGIMEN DE ATMÓSFERA ESTÁNDAR, (CONDICIÓN \" ISA\".) LA TEMPERATURA VARÍA A UN PROMEDIO DE :",
+    "correct": "D",
+    "A": "35° CENTÍGRADOS, CADA 1.000 PIES.",
+    "B": "02° CENTÍGRADOS, CADA 1.000 METROS",
+    "C": "05° CENTÍGRADOS, CADA 300 PIES.",
+    "D": "02° CENTÍGRADOS, CADA 1.000 PIES"
+  },
+  {
+    "id": 320,
+    "category": "METEOROLOGÍA",
+    "question": "EL NITRÓGENO ES EL COMPONENTE:",
+    "correct": "A",
+    "A": "MÁS ABUNDANTE EN LA ATMÓSFERA",
+    "B": "QUE CONTIENE LA CAPA DE OZONO",
+    "C": "MENOS ABUNDANTE DE LA ATMÓSFERA",
+    "D": "NINGUNA DE LAS ANTERIORES"
+  },
+  {
+    "id": 321,
+    "category": "NAVEGACIÓN",
+    "question": "LA DISTANCIA ANGULAR ENTRE EL MERIDIANO 0° (CERO), Y EL MERIDIANO DE GREENWICH, SIEMPRE SERÁ IGUAL A:",
+    "correct": "D",
+    "A": "180° GRADOS.",
+    "B": "90° GRADOS.",
+    "C": "01 ° GRADO",
+    "D": "360° GRADOS."
+  },
+  {
+    "id": 322,
+    "category": "NAVEGACIÓN",
+    "question": "EL ARTE DE DIRIGIR UNA AERONAVE DE UN PUNTO A OTRO A TRAVÉS DE UN CURSO PREDETERMINADO, SE LLAMA:",
+    "correct": "B",
+    "A": "NAVEGACIÓN",
+    "B": "NAVEGACIÓN AÉREA",
+    "C": "RADIO NAVEGACIÓN",
+    "D": "NAVEGACIÓN VISUAL"
+  },
+  {
+    "id": 323,
+    "category": "NAVEGACIÓN",
+    "question": "LAS LÍNEAS QUE DIVIDEN LA TIERRA EN PARTES IGUALES SE LLAMAN:",
+    "correct": "B",
+    "A": "MERIDIANOS",
+    "B": "CÍRCULOS MÁXIMOS",
+    "C": "PARALELOS",
+    "D": "ECUADOR"
+  },
+  {
+    "id": 324,
+    "category": "NAVEGACIÓN",
+    "question": "LAS COORDENADAS DE UN PUNTO VIENEN EXPRESADAS POR:",
+    "correct": "A",
+    "A": "LATITUD EN GRADOS, MINUTOS Y SEGUNDOS, Y LONGITUD EN GRADOS, MINUTOS Y SEGUNDOS.",
+    "B": "LONGITUD EN GRADOS, MINUTOS Y SEGUNDOS, Y LATITUD EN GRADOS. MINUTOS Y SEGUNDOS",
+    "C": "LATITUD CON RESPECTO AL POLO NORTE Y LONGITUD CON RESPECTO A LA LÍNEA INTERNACIONAL DE LA FECHA.",
+    "D": "A Y B SON CORRECTAS"
+  },
+  {
+    "id": 325,
+    "category": "NAVEGACIÓN",
+    "question": "EN AVIACIÓN LA UNIDAD DE MEDIDA UTILIZADA ES:",
+    "correct": "C",
+    "A": "MILLA ESTATUTA",
+    "B": "KILÓMETRO",
+    "C": "MILLA NÁUTICA",
+    "D": "METRO"
+  },
+  {
+    "id": 326,
+    "category": "NAVEGACIÓN",
+    "question": "UN NUDO ES LA UNIDAD DE VELOCIDAD QUE EQUIVALE A:",
+    "correct": "C",
+    "A": "1 MILLA NÁUTICA POR MINUTO",
+    "B": "1 MILLA ESTATUTA POR MINUTO",
+    "C": "1 MILLA NÁUTICA POR HORA",
+    "D": "1 MILLA ESTATUTA POR HORA"
+  },
+  {
+    "id": 327,
+    "category": "NAVEGACIÓN",
+    "question": "LA TIERRA EFECTÚA UNA ROTACIÓN COMPLETA DE 360° CON RESPECTO AL SOL EN 24 HORAS. EL ECUADOR PODRÁ ENTONCES DIVIDIRSE LÓGICAMENTE EN 24 HORAS, A LAS QUE CADA HORA LE CORRESPONDE:",
+    "correct": "B",
+    "A": "60°",
+    "B": "15°",
+    "C": "30°",
+    "D": "25°"
+  },
+  {
+    "id": 328,
+    "category": "NAVEGACIÓN",
+    "question": "LA DISTANCIA ANGULAR DESDE UN PUNTO HASTA EL MERIDIANO DE GREENWICH SE DENOMINA:",
+    "correct": "B",
+    "A": "LATITUD",
+    "B": "LONGITUD",
+    "C": "HUSO HORARIO",
+    "D": "NINGUNA DE LAS ANTERIORES"
+  },
+  {
+    "id": 329,
+    "category": "NAVEGACIÓN",
+    "question": "LA DISTANCIA ANGULAR EXISTENTE ENTRE UN PUNTO CON RESPECTO AL ECUADOR SE DENOMINA:",
+    "correct": "A",
+    "A": "LATITUD",
+    "B": "LONGITUD",
+    "C": "HUSO HORARIO",
+    "D": "NINGUNA DE LAS ANTERIORES"
+  },
+  {
+    "id": 330,
+    "category": "NAVEGACIÓN",
+    "question": "LAS REGLAS QUE SE APLICAN A LAS AERONAVES QUE VUELAN BAJO CONDICIONES METEOROLÓGICAS INSTRUMENTALES SE DENOMINAN:",
+    "correct": "B",
+    "A": "V.F.R.",
+    "B": "I.F.R.",
+    "C": "V.M.C.",
+    "D": "I.M.C."
+  },
+  {
+    "id": 331,
+    "category": "NAVEGACIÓN",
+    "question": "EL MÉTODO DE NAVEGACIÓN EN EL CUAL LA SITUACIÓN DE LA AERONAVE SE DETERMINA BASÁNDOSE EN LA TRAYECTORIA, LA VELOCIDAD Y EL TIEMPO SE DENOMINA:",
+    "correct": "B",
+    "A": "NAVEGACIÓN OBSERVADA",
+    "B": "NAVEGACIÓN A ESTIMA",
+    "C": "RADIO NAVEGACIÓN",
+    "D": "NAVEGACIÓN ELECTRÓNICA"
+  },
+  {
+    "id": 332,
+    "category": "NAVEGACIÓN",
+    "question": "UN CÍRCULO MÁXIMO ESTÁ DEFINIDO POR:",
+    "correct": "A",
+    "A": "LA INTERSECCIÓN DE UNA ESFERA CON UN PLANO QUE PASA POR EL CENTRO DE LA ESFERA",
+    "B": "LA INTERSECCIÓN DE UNA ESFERA CON UN PLANO QUE NO PASA POR EL CENTRO DE LA ESFERA.",
+    "C": "LA INTERSECCIÓN DE UNA ESFERA CON UN PLANO TANGENTE AL CENTRO DE LA ESFERA",
+    "D": "LA INTERSECCIÓN DE UNA ESFERA CON UN PLANO OBLICUO AL CENTRO DE LA ESFERA."
+  },
+  {
+    "id": 333,
+    "category": "NAVEGACIÓN",
+    "question": "LOS PARALELOS SON:",
+    "correct": "B",
+    "A": "CÍRCULOS MÁXIMOS",
+    "B": "CÍRCULOS MENORES",
+    "C": "CÍRCULOS MEDIOS",
+    "D": "NINGUNA DE LAS ANTERIORES"
+  },
+  {
+    "id": 334,
+    "category": "NAVEGACIÓN",
+    "question": "EL CÍRCULO MÁXIMO QUE PASA POR EL CENTRO DE LA TIERRA, ES PERPENDICULAR AL EJE DE ROTACIÓN, SE DENOMINA :",
+    "correct": "D",
+    "A": "MERIDIANO O",
+    "B": "LÍNEA INTERNACIONAL DE LA FECHA",
+    "C": "TRÓPICO DE CÁNCER",
+    "D": "ECUADOR"
+  },
+  {
+    "id": 335,
+    "category": "NAVEGACIÓN",
+    "question": "LA DISTANCIA ANGULAR DE UN PUNTO CONSIDERADO, MEDIDO SOBRE EL MERIDIANO Y TOMANDO COMO REFERENCIA EL ECUADOR SE LLAMA:",
+    "correct": "A",
+    "A": "LATITUD",
+    "B": "LONGITUD",
+    "C": "WAYPOINT",
+    "D": "INTERSECCIÓN"
+  },
+  {
+    "id": 336,
+    "category": "NAVEGACIÓN",
+    "question": "LA LONGITUD PUEDE SER:",
+    "correct": "C",
+    "A": "NORTE O SUR",
+    "B": "NORTE O ESTE",
+    "C": "ESTE U OESTE",
+    "D": "OESTE O SUR"
+  },
+  {
+    "id": 337,
+    "category": "NAVEGACIÓN",
+    "question": "EL CAMBIO DE HUSO HORARIO SE PRODUCE CADA ____ GRADOS DE LONGITUD.",
+    "correct": "C",
+    "A": "05.",
+    "B": "10.",
+    "C": "15.",
+    "D": "20."
+  },
+  {
+    "id": 338,
+    "category": "NAVEGACIÓN",
+    "question": "EL ILS ES UN SISTEMA QUE SE USA PARA:",
+    "correct": "C",
+    "A": "COMUNICARSE CON EL ATC.",
+    "B": "PARA NAVEGACIÓN EN RUTA.",
+    "C": "PARA EFECTUAR ATERRIZAJES POR INSTRUMENTOS.",
+    "D": "PARA EFECTUAR ATERRIZAJES NO INSTRUMENTALES"
+  },
+  {
+    "id": 339,
+    "category": "NAVEGACIÓN",
+    "question": "LOS MERIDIANOS SON CÍRCULOS MÁXIMOS QUE VAN DE POLO A POLO Y:",
+    "correct": "A",
+    "A": "EXPRESAN LONGITUD Y SE MIDEN DE 0 A 180.",
+    "B": "EXPRESAN LATITUD Y SE MIDEN DE 0 A 180.",
+    "C": "EXPRESAN LONGITUD Y SE MIDEN DE 0 A 360.",
+    "D": "EXPRESAN LATITUD Y SE MIDEN DE 0 A 360."
+  },
+  {
+    "id": 340,
+    "category": "NAVEGACIÓN",
+    "question": "LOS PARALELOS SON:",
+    "correct": "D",
+    "A": "CÍRCULOS MÁXIMOS PARALELOS AL ECUADOR.",
+    "B": "CÍRCULOS MÁXIMOS PARALELOS AL MERIDIANO 0.",
+    "C": "CÍRCULOS MENORES PARALELOS AL MERIDIANO DEL TIEMPO.",
+    "D": "CÍRCULOS MENORES PARALELOS AL ECUADOR."
+  },
+  {
+    "id": 341,
+    "category": "NAVEGACIÓN",
+    "question": "LA LATITUD SE MIDE:",
+    "correct": "C",
+    "A": "HACIA NORTE O SUR Y DE 0° A 180°.",
+    "B": "HACIA ESTE U OESTE Y DE 0° A 90°.",
+    "C": "HACIA NORTE O SUR Y DE 0° A 90°.",
+    "D": "HACIA ESTE U OESTE Y DE 0° A 180°."
+  },
+  {
+    "id": 342,
+    "category": "NAVEGACIÓN",
+    "question": "EN UNA CIUDAD UBICADA SOBRE EL MERIDIANO 75°W SON LAS 12:00 HORAS LT. LA HORA UTC SERA?",
+    "correct": "D",
+    "A": "14:00 HORAS.",
+    "B": "15:00 HORAS.",
+    "C": "16:00 HORAS.",
+    "D": "17:00 HORAS."
+  },
+  {
+    "id": 343,
+    "category": "NAVEGACIÓN",
+    "question": "EL ECUADOR TERRESTRE ES UN CIRCULO MÁXIMO QUE CORTA LA TIERRA EN DOS HEMISFERIOS.",
+    "correct": "A",
+    "A": "VERDADERO.",
+    "B": "FALSO.",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 344,
+    "category": "NAVEGACIÓN",
+    "question": "LAS COORDENADAS GEOGRÁFICAS SE EXPRESAN EN:",
+    "correct": "C",
+    "A": "METROS, DECÍMETROS, CENTÍMETROS.",
+    "B": "HORAS, MINUTOS, SEGUNDOS.",
+    "C": "GRADOS, MINUTOS, SEGUNDOS.",
+    "D": "NINGUNA DE LAS ANTERIORES."
+  },
+  {
+    "id": 345,
+    "category": "NAVEGACIÓN",
+    "question": "EL ANGULO FORMADO POR EL NORTE VERDADERO Y EL NORTE MAGNETICO SE LLAMA:",
+    "correct": "D",
+    "A": "VARIACIÓN ESTACIONAL.",
+    "B": "VARIACIÓN SINCRÓNICA.",
+    "C": "VARIACIÓN DE RUMBO.",
+    "D": "VARIACIÓN MAGNÉTICA."
+  },
+  {
+    "id": 346,
+    "category": "NAVEGACIÓN",
+    "question": "EL MERIDIANO INTERNACIONAL DEL CAMBIO DE FECHA ES EL:",
+    "correct": "A",
+    "A": "180.",
+    "B": "270.",
+    "C": "360.",
+    "D": "90."
+  },
+  {
+    "id": 347,
+    "category": "NAVEGACIÓN",
+    "question": "NO EXISTE MAYOR DIFERENCIA ENTRE LA NAVEGACIÓN INERCIAL Y LA NAVEGACIÓN POR SATÉLITE:",
+    "correct": "B",
+    "A": "VERDADERO.",
+    "B": "FALSO.",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 348,
+    "category": "NAVEGACIÓN",
+    "question": "ENTRE EL POLO NORTE Y EL POLO SUR, TENEMOS UN TOTAL DE __?__ PARALELOS.",
+    "correct": "C",
+    "A": "365.",
+    "B": "360°",
+    "C": "180.",
+    "D": "180°"
+  },
+  {
+    "id": 349,
+    "category": "NAVEGACIÓN",
+    "question": "LA SITUACIÓN DE UN PUNTO EN LA TIERRA QUEDA DEFINIDO POR:",
+    "correct": "B",
+    "A": "LATITUD Y LONGITUD.",
+    "B": "LATITUD NORTE O SUR ,LONGITUD ESTE U OESTE.",
+    "C": "LATITUD ESTE U OESTE Y LONGITUD NORTE O SUR.",
+    "D": "TODAS LAS ANTERIORES SON INCORRECTAS."
+  },
+  {
+    "id": 350,
+    "category": "NAVEGACIÓN",
+    "question": "UN GRADO DE LATITUD EQUIVALE A:",
+    "correct": "C",
+    "A": "60 MILLAS. STATUTAS.",
+    "B": "30 MILLAS NÁUTICAS.",
+    "C": "60 MILLAS NÁUTICAS.",
+    "D": "30 MILLAS TERRESTRES."
+  },
+  {
+    "id": 351,
+    "category": "NAVEGACIÓN",
+    "question": "LAS SUPERFICIES DONDE GENERALMENTE SE GENERA SUSTENTACIÓN SON:",
+    "correct": "B",
+    "A": "LOS CONTROLES DE VUELOS PRIMARIOS.",
+    "B": "LAS ALAS.",
+    "C": "SOLO EL EMPENAJE.",
+    "D": "LOS FLAPS Y SLATS."
+  },
+  {
+    "id": 352,
+    "category": "NAVEGACIÓN",
+    "question": "LOS CONTROLES QUE AUMENTAN SUSTENTACIÓN, PERMITIENDO OPERACIONES A DISTINTAS VELOCIDADES, SE ENCUENTRAN UBICADOS EN:",
+    "correct": "B",
+    "A": "EL EMPENAJE SOLAMENTE.",
+    "B": "LOS BORDES DE ATAQUE Y BORDES DE FUGA DE LAS ALAS.",
+    "C": "LAS ALAS Y EMPENAJE.",
+    "D": "LOS MOTORES Y EL EMPENAJE."
+  },
+  {
+    "id": 353,
+    "category": "NAVEGACIÓN",
+    "question": "LA TÉCNICA DE PLANIFICAR Y EFECTUAR UN VUELO DE MANERA DE ESTAR PERMANENTEMENTE UBICADO CON RESPECTO AL TERRENO O SI EL VUELO SE EFECTÚA SOBRE RUTAS AÉREAS, PODER MANTENERSE EN ELLAS SIGUIENDO LOS RUMBOS CORRESPONDIENTES, SE CONOCE COMO:",
+    "correct": "C",
+    "A": "TRANSPORTE AÉREO.",
+    "B": "PLANIFICACIÓN DE RUTAS.",
+    "C": "NAVEGACIÓN AÉREA.",
+    "D": "TÉCNICAS AERONÁUTICAS."
+  },
+  {
+    "id": 354,
+    "category": "NAVEGACIÓN",
+    "question": "LA DEFINICIÓN DE HUSOS HORARIOS SERÁ:",
+    "correct": "B",
+    "A": "ES LA REFERENCIA HORARIA, PARA DETERMINAR LA UTC.",
+    "B": "ES EL RECORRIDO DE LA TIERRA EN 24 HORAS.",
+    "C": "ES EL RECORRIDO DE LA TIERRA EN 01 HORA.",
+    "D": "ES LA REFERENCIA PARA DETERMINAR LA GMT."
+  },
+  {
+    "id": 355,
+    "category": "NAVEGACIÓN",
+    "question": "¿QUÉ ES NAVEGACIÓN?",
+    "correct": "D",
+    "A": "ES: SABER PARA DONDE VOY.",
+    "B": "ES: CONDUCIR UNA AERONAVE, Y SABER SU DIRECCIÓN.",
+    "C": "ES: SABER LA POSICIÓN DE, PARA DONDE VOY.",
+    "D": "ES: CONOCER MI POSICIÓN GEOGRÁFICA, Y SABER PARA DONDE VOY."
+  },
+  {
+    "id": 356,
+    "category": "NAVEGACIÓN",
+    "question": "¿QUÉ ENTIENDE USTED, POR COORDENADAS GEOGRÁFICAS?",
+    "correct": "D",
+    "A": "ES EL PUNTO IMAGINARIO, DONDE CONVERGEN LOS MERIDIANOS DEL LUGAR.",
+    "B": "ES EL PUNTO IMAGINARIO, DONDE CONVERGEN LAS LATITUDES DEL LUGAR.",
+    "C": "ES EL PUNTO, DONDE CONVERGEN LA LONGITUD Y LA LATITUD DE UN LUGAR.",
+    "D": "ES EL PUNTO, DONDE CONVERGEN LA LATITUD Y LA LONGITUD DE UN LUGAR."
+  },
+  {
+    "id": 357,
+    "category": "NAVEGACIÓN",
+    "question": "DE LOS SIGUIENTES FACTORES, ¿CUÁL PUEDE AFECTAR EL RUMBO DE UNA AERONAVE EN VUELO?",
+    "correct": "C",
+    "A": "DETECCIÓN DE MAL TIEMPO EN SU RUTA",
+    "B": "LA TURBULENCIA",
+    "C": "EL VIENTO",
+    "D": "LA POCA VISIBILIDAD"
+  },
+  {
+    "id": 358,
+    "category": "NAVEGACIÓN",
+    "question": "LAS LUCES DE NAVEGACIÓN (VERDE-ROJA-BLANCA), INDICAN:",
+    "correct": "C",
+    "A": "LA DIMENSIÓN DE LA AERONAVE",
+    "B": "QUE LA AERONAVE ESTÁ EN VUELO",
+    "C": "LA DIRECCIÓN Y SENTIDO DE UNA AERONAVE EN MOVIMIENTO (VUELO, RODAJE, ETC.)",
+    "D": "LA DISTANCIA DESDE LA CABINA A LA PUNTA DEL ALA"
+  },
+  {
+    "id": 359,
+    "category": "NAVEGACIÓN",
+    "question": "TODOS LOS MERIDIANOS, SON PERPENDICULARES A:",
+    "correct": "C",
+    "A": "LA LÍNEA INTERNACIONAL DEL CAMBIO DE FECHA",
+    "B": "EL EJE DE ROTACIÓN TERRESTRE",
+    "C": "LOS TRÓPICOS (CÁNCER Y CAPRICORNIO)",
+    "D": "EL MERIDIANO CERO (0°)"
+  },
+  {
+    "id": 360,
+    "category": "NAVEGACIÓN",
+    "question": "LOS MOVIMIENTOS DEL GLOBO TERRÁQUEO SON:",
+    "correct": "B",
+    "A": "SÍSTOLES Y DIÁSTOLES",
+    "B": "ROTACIÓN Y TRASLACIÓN",
+    "C": "CORIÓLISIS Y PRECESIÓN",
+    "D": "PRECESIÓN Y ROTACIÓN"
+  },
+  {
+    "id": 361,
+    "category": "NAVEGACIÓN",
+    "question": "LA INCLINACIÓN DEL EJE IMAGINARIO DE LA TIERRA, LE PERMITE A LA MISMA REALIZAR:",
+    "correct": "C",
+    "A": "UN GIRO SOBRE SÍ, CON UNA DURACIÓN DE 24 HORAS.",
+    "B": "UNA ELÍPTICA ALREDEDOR DEL SOL, CON UNA DURACIÓN DE 365 DÍAS.",
+    "C": "LAS DIFERENTES ESTACIONES DEL AÑO.",
+    "D": "FAVORECE LA ATRACCIÓN LUNAR, PARA ASÍ PRODUCIR LAS MAREAS."
+  },
+  {
+    "id": 362,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "¿QUIÉN PUEDE DICTAR LAS INDICACIONES ESPECÍFICAS, EN CUÁNTO A LA ATENCIÓN DE LESIONADOS O ENFERMOS?",
+    "correct": "D",
+    "A": "LOS PARAMÉDICOS",
+    "B": "LOS SOCORRISTAS",
+    "C": "ENFERMERAS (OS) GRADUADOS",
+    "D": "LOS MÉDICOS"
+  },
+  {
+    "id": 363,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "QUÉ SE ENTIENDE POR PRIMEROS AUXILIOS:",
+    "correct": "A",
+    "A": "AQUELLA MEDIDA DE CARÁCTER PROVISIONAL QUE DEBEN ADOPTARSE Y APLICARSE DE INMEDIATO EN EL MISMO LUGAR DEL HECHO PARA SOCORRER A UN LESIONADO.",
+    "B": "AQUELLAS MEDIDAS DE CARÁCTER QUIRÚRGICO QUE SE DEBEN TOMAR PRIMERAMENTE AL AUXILIAR A UN LESIONADO.",
+    "C": "SON TODAS LAS ATENCIONES INICIALES QUE CUALQUIER PERSONA PUEDA BRINDARLE A UN LESIONADO PARA AUXILIARLO",
+    "D": "SON LOS PRIMEROS DIAGNÓSTICOS MÉDICOS QUE SE EMITEN DE UN LESIONADO ANTES DE TRATARLO."
+  },
+  {
+    "id": 364,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "QUE FACTORES DEBEMOS CONSIDERAR Y TOMAR EN CUENTA EN CASO DE ATENDER A UN SOBREVIVIENTE DE UN ACCIDENTE DE AVIACIÓN EN UN ÁREA DESPOBLADA PARA SU POSTERIOR TRASLADO:",
+    "correct": "A",
+    "A": "LA GRAVEDAD DEL PACIENTE.",
+    "B": "FACILIDADES DE TRASLADO.",
+    "C": "FACILIDADES DE UN MEDIO DE TRANSPORTE",
+    "D": "DISTANCIA AL HOSPITAL O CENTRO DE EMERGENCIA"
+  },
+  {
+    "id": 365,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "DIGA UD. CUÁLES SON LAS MEDIDAS BÁSICAS PARA SALVAR UNA VIDA:",
+    "correct": "D",
+    "A": "CALMAR EL DOLOR",
+    "B": "PREVENIR EL SCHOCK",
+    "C": "ACTUAR DIRECTAMENTE SOBRE LAS CAUSAS ESPECÍFICAS.",
+    "D": "TODAS LAS ANTERIORES"
+  },
+  {
+    "id": 366,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "¿CUÁLES SON LOS SIGNOS VITALES QUE DEBEMOS BUSCAR EN UN SER VIVO ACCIDENTADO, INICIALMENTE?",
+    "correct": "D",
+    "A": "PULSO, TENSIÓN ARTERIAL, RESPIRACIÓN",
+    "B": "SUDORACIÓN DE LA PIEL, PALIDEZ, PÉRDIDA DE LA SENSIBILIDAD.",
+    "C": "ADORMECIMIENTO DE LAS EXTREMIDADES, DOLOR, VISTA NUBLADA.",
+    "D": "TEMPERATURA, PULSO, FRECUENCIA RESPIRATORIA, TENSIÓN ARTERIAL."
+  },
+  {
+    "id": 367,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "CUÁLES SON LAS PRIMERAS MANIFESTACIONES DEL SHOCK:",
+    "correct": "A",
+    "A": "MAREOS, PALIDEZ, FRIALDAD DE LA PIEL, BAJA PRESIÓN ARTERIAL.",
+    "B": "FIEBRE, VÓMITO, DIARREA, SUDORACIÓN.",
+    "C": "HISTERIA, CONFUSIÓN, DELIRIO, INCOHERENCIA.",
+    "D": "ASFIXIA, BAJA DE OXÍGENO EN LA SANGRE, SOMNOLENCIA."
+  },
+  {
+    "id": 368,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "EL SHOCK PUEDE PRESENTARSE DEBIDO A DIFERENTES CAUSAS, TENIENDO ENTRE LAS PRINCIPALES:",
+    "correct": "A",
+    "A": "EL DOLOR, TRAUMATISMOS FUERTES, HEMORRAGIAS.",
+    "B": "DEPRESIÓN MALESTAR GENERAL, CEGUERA.",
+    "C": "INDIGESTIÓN, FATIGA, CÓLICOS.",
+    "D": "NINGUNA DE LAS ANTERIORES."
+  },
+  {
+    "id": 369,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "CUÁLES SON ALGUNAS DE LAS MEDIDAS GENERALES DE TRATAMIENTO DE EMERGENCIA DE UN SHOCK:",
+    "correct": "D",
+    "A": "MANTENER UN ADECUADO APORTE SANGUÍNEO AL CEREBRO.",
+    "B": "DISMINUIR LA PÉRDIDA DE CALOR CORPORAL.",
+    "C": "MANTENER PERMEABLES LAS VÍAS AÉREAS.",
+    "D": "TODAS LAS ANTERIORES."
+  },
+  {
+    "id": 370,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "EN QUE CONSISTE LA POSICIÓN TRENDELEMBURG:",
+    "correct": "B",
+    "A": "EN ELEVAR CABEZA DEL LESIONADO, USANDO COMO SOPORTES IMPROVISADOS, ALMOHADAS, COJINES O COBIJAS DOBLADAS.",
+    "B": "EN ACOSTAR AL PACIENTE BOCA ARRIBA EN SUPERFICIE RECLINABLE, EN SUPERFICIE PLANA MOVIBLE, APOYANDO EN EL EXTREMO QUE CORRESPONDA A LAS PIERNAS DEL PACIENTE, SOBRE CUALQUIER OBJETO QUE LA ELEVE.",
+    "C": "EN ACOSTAR SOBRE SUPERFICIE INCLINADA: UNA LADERA U OTRA SUPERFICIE SEMEJANTE CON LA CABEZA ARRIBA.",
+    "D": null
+  },
+  {
+    "id": 371,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "EN QUE FORMA PODEMOS LOGRAR MEJORÍA DEL DOLOR EN LOS CASOS DE FRACTURA:",
+    "correct": "B",
+    "A": "TOMANDO LA FRECUENCIA RESPIRATORIA.",
+    "B": "INMOVILIZANDO LAS ARTICULACIONES DISTAL Y PROXIMAL A LA FRACTURA.",
+    "C": "EVITANDO POR MEDIO DE LA PRESIÓN DIGITAL SU MOVILIDAD SOBRE LA ZONA AFECTADA.",
+    "D": "VENDANDO CON VENDAS ELÁSTICAS LA ZONA AFECTADA EVITANDO ENTABLILLAMIENTO Y TRASLADÁNDOLO RÁPIDAMENTE A UN CENTRO ASISTENCIAL."
+  },
+  {
+    "id": 372,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "CUANDO HABLAMOS DE HIPOXIA, NOS REFERIMOS A:",
+    "correct": "C",
+    "A": "FALTA DE OXÍGENO A NIVEL DE LOS TEJIDOS.",
+    "B": "FALTA DE OXÍGENO EN LA SANGRE.",
+    "C": "BAJA CANTIDAD DE OXÍGENO EN LA SANGRE.",
+    "D": null
+  },
+  {
+    "id": 373,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "LA IMPORTANCIA QUE TIENE EL EXAMEN DE LOS OJOS A UN LESIONADO DE UN ACCIDENTE ES:",
+    "correct": "D",
+    "A": "BUSCAR CUERPOS EXTRAÑOS.",
+    "B": "HERIDAS PENETRANTES.",
+    "C": "SI TIENE LENTES DE CONTACTO.",
+    "D": "COMPROBAR SI LAS PUPILAS REACCIONAN A LA LUZ."
+  },
+  {
+    "id": 374,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "INDIQUE ALGUNO DE LOS PASOS A SEGUIR EN PRESENCIA DE UNA HEMORRAGIA NASAL O EPISTAXIS:",
+    "correct": "D",
+    "A": "HACERSE UN TAPONIAMIENTO GASA HUMEDECIDA POR LOS ORIFICIOS NASALES.",
+    "B": "HACER PRESIÓN SOBRE LOS LÓBULOS O ALETAS DE LA NARIZ.",
+    "C": "APLICAR COMPRESAS DE HIELO EN LA ZONA NASAL.",
+    "D": "TODAS LAS ANTERIORES."
+  },
+  {
+    "id": 375,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "EN LA NARIZ ROTA, SE DEBE APLICAR UNA CURA COMPRESIVA O SEA, GASA SOBRE EL PUNTO SANGRANTE FIJADA CON UNA VENDA QUE PRESIONE SOBRE LA LESIÓN:",
+    "correct": "A",
+    "A": "VERDADERO",
+    "B": "FALSO.",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 376,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "LA FRECUENCIA NORMAL DEL PULSO ES:",
+    "correct": "D",
+    "A": "55 A 60 PULSACIONES POR MINUTO.",
+    "B": "70 A 90 PULSACIONES POR MINUTO.",
+    "C": "120 A 140 PULSACIONES POR MINUTO",
+    "D": "60 A 80 PULSACIONES POR MINUTO"
+  },
+  {
+    "id": 377,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "LA TEMPERATURA NORMAL DEL CUERPO HUMANO, ES DE:",
+    "correct": "D",
+    "A": "36° A 38° C.",
+    "B": "36.5° A 37.5°",
+    "C": "38° A 39° C",
+    "D": "36° A 37° C"
+  },
+  {
+    "id": 378,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "LA TENSIÓN ARTERIAL NORMAL, AUNQUE HAY CIERTA VARIACIÓN ENTRE EL HOMBRE Y LA MUJER, PODEMOS CONSIDERAR LA NORMAL ENTRE LOS SIGUIENTES VALORES:",
+    "correct": "B",
+    "A": "80 - 120 MM DE HG.",
+    "B": "70 - 110",
+    "C": "70 - 80",
+    "D": "80-90"
+  },
+  {
+    "id": 379,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "CUÁL ES EL MÉTODO UTILIZADO EN UNA EMERGENCIA DE PARO CARDÍACO:",
+    "correct": "D",
+    "A": "INYECTÁNDOLE ALGÚN MEDICAMENTO.",
+    "B": "APLICANDO MASAJE MUSCULAR.",
+    "C": "DÁNDOLE RESPIRACIÓN BOCA A BOCA.",
+    "D": "COMPRESIÓN TORÁXICA EXTERNA."
+  },
+  {
+    "id": 380,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "EN EL PARO CARDIO- RESPIRATORIO EN QUE RELACIÓN DEBE APLICARSE LA RESPIRACIÓN BOCA A BOCA, CON EL MASAJE CARDIO MUSCULAR:",
+    "correct": "D",
+    "A": "DE 60 COMPRESIONES SOBRE EL ESTERNÓN POR 80 ADMINISTRACIONES DE AIRE POR EL MÉTODO BOCA A BOCA.",
+    "B": "DE 6 COMPRESIONES SOBRE EL ESTERNÓN POR 80 ADMINISTRACIONES DE AIRE POR EL MÉTODO BOCA A BOCA.",
+    "C": "DE 15 COMPRESIONES SOBRE EL ESTERNÓN POR UNA BOCANADA DE AIRE POR EL MÉTODO BOCA A BOCA.",
+    "D": "DE 5 COMPRESIONES SOBRE EL ESTERNÓN POR 1 BOCANADA DE AIRE POR EL MÉTODO BOCA A BOCA."
+  },
+  {
+    "id": 381,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "¿CUÁL SERÁ LA FRECUENCIA QUE DEBERÁ MANTENER EL AUXILIANTE EN EL PARO CARDÍACO, AL DARLE COMPRESIÓN TORÁXICA A UN LESIONADO?",
+    "correct": "D",
+    "A": "DE 36 A 37 COMPRESIONES O MOVIMIENTOS POR MINUTO",
+    "B": "DE 120 A 140 COMPRESIONES O MOVIMIENTOS POR MINUTO.",
+    "C": "DE 12 A 20 COMPRESIONES O MOVIMIENTOS POR MINUTO",
+    "D": "DE 60 A 80 COMPRESIONES O MOVIMIENTOS POR MINUTO."
+  },
+  {
+    "id": 382,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "EL MÉTODO DE EMERGENCIA UTILIZADO EN UN PACIENTE CON PARA CARDÍACO ES EL LLAMADO:",
+    "correct": "C",
+    "A": "REANIMACIÓN CARDIO RESPIRATORIO",
+    "B": "MÉTODO DE PRESIÓN - CARDÍACO.",
+    "C": "MÉTODO DE MASAJE CARDÍACO.",
+    "D": null
+  },
+  {
+    "id": 383,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "DIGA USTED CUÁLES SON LOS SÍNTOMAS DE HIPERVENTILACIÓN:",
+    "correct": "C",
+    "A": "RITMO CARDÍACO LENTO, RITMO RESPIRATORIO LENTO, PUPILAS DILATADAS.",
+    "B": "TRANQUILIDAD EXCESIVA, RITMO CARDÍACO ACELERADO, SEMBLANTE TRANQUILO.",
+    "C": "VÉRTIGOS, AGITACIÓN ,SUDORACIÓN, RITMO RESPIRATORIO EXCESIVO.",
+    "D": null
+  },
+  {
+    "id": 384,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "¿CUÁL SERÁ LA FRECUENCIA CON QUE SE DEBE APLICAR AIRE A UN ADULTO POR EL MÉTODO DE REANIMACIÓN BOCA A BOCA, EN CASO DE PARO CARDIO- RESPIRATORIO?",
+    "correct": "C",
+    "A": "DE CINCO (05) A SEIS (06) BOCANADAS DE AIRE, POR MINUTO.",
+    "B": "DE CATORCE (14) A DIECIOCHO (18) BOCANADAS DE AIRE, POR MINUTO.",
+    "C": "DE DOCE (12) A DIECISÉIS (16) BOCANADAS DE AIRE, POR MINUTO.",
+    "D": "DE DOS (02) A CUATRO (04) BOCANADAS DE AIRE, POR MINUTO."
+  },
+  {
+    "id": 385,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "¿EN LA REANIMACIÓN RESPIRATORIA, CUÁL SERÁ EL RITMO A MANTENER, SOPLÁNDOLE AIRE AL PACIENTE, EN EL CASO DE UN INFANTE O UN MENOR DE EDAD?",
+    "correct": "B",
+    "A": "12 VECES POR MINUTO.",
+    "B": "22 VECES POR MINUTO EN FORMA DE PEQUEÑOS SOPLOS.",
+    "C": "DE 60 A 80 VECES POR MINUTO EN FORMA DE PEQUEÑOS SOPLOS",
+    "D": null
+  },
+  {
+    "id": 386,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "EN QUE CONSISTE LA REANIMACIÓN RESPIRATORIA:",
+    "correct": "A",
+    "A": "EN MANTENER OXÍGENO EN EL CUERPO.",
+    "B": "EN MANTENER, POR MEDIOS ARTIFICIALES UNA VENTILACIÓN PULMONAR Y MOVIMIENTO CARDÍACO.",
+    "C": "EN MANTENER HIPERVENTILADO EL TORRENTE SANGUÍNEO.",
+    "D": "NINGUNO DE LOS ANTERIORES"
+  },
+  {
+    "id": 387,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "¿QUÉ ES ANOXIA?",
+    "correct": "C",
+    "A": "ALTO ÍNDICE DE OXÍGENO EN EL CUERPO.",
+    "B": "BAJA CAPACIDAD TORÁXICA DE OXÍGENO.",
+    "C": "AUSENCIA DE OXÍGENO EN UN ÓRGANO.",
+    "D": "BAJA CANTIDAD DE OXÍGENO EN LA SANGRE."
+  },
+  {
+    "id": 388,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "CUÁLES SON ALGUNAS DE LAS MEDIDAS ESPECÍFICAS A TOMAR EN UN ESTADO DE SHOCK:",
+    "correct": "A",
+    "A": "CALMAR EL DOLOR, DETENER LAS HEMORRAGIAS.",
+    "B": "DAR RESPIRACIÓN BOCA A BOCA, SUMINISTRAR ASPIRINAS.",
+    "C": "DAR DE TOMAR AGUA CON AZÚCAR, APLICAR HIELO EN LAS PIERNAS.",
+    "D": "PONER AL LESIONADO EN POSICIÓN VERTICAL, DARLE MASAJES."
+  },
+  {
+    "id": 389,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "DE QUE FORMA SIMPLE PODEMOS REPONER LOS LÍQUIDOS PERDIDOS:",
+    "correct": "A",
+    "A": "POR VÍA ORAL",
+    "B": "BAÑÁNDOLO CON AGUA TIBIA.",
+    "C": "CON COMPRESAS HÚMEDAS SOBRE LAS PARTES AFECTADAS",
+    "D": "CON INYECCIONES INTRAMUSCULARES."
+  },
+  {
+    "id": 390,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "EN QUE CIRCUNSTANCIAS, A UN PACIENTE O LESIONADO NO SE LE PODRÁ SUMINISTRAR O REPONER LOS LÍQUIDOS PERDIDOS POR VÍA ORAL:",
+    "correct": "A",
+    "A": "CUANDO HAY PERDIDA DE CONOCIMIENTO.",
+    "B": "CUANDO HAY INFECCIÓN",
+    "C": "EN CASO DE FIEBRE ALTA.",
+    "D": "CUANDO HAY FRACTURAS."
+  },
+  {
+    "id": 391,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "LOS VENDAJES USADOS PARA PRIMEROS AUXILIOS, POR SU FUNCIÓN PUEDEN CLASIFICARSE COMO:",
+    "correct": "D",
+    "A": "PROTECTORES, COMPRESIVOS, ANTISÉPTICOS.",
+    "B": "INMOVILIZADORES, ANTISÉPTICOS.",
+    "C": "PROTECTORES, INMOVILIZADORES, COMPRESIVOS.",
+    "D": "COMPRESIVOS, INMOVILIZADORES."
+  },
+  {
+    "id": 392,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "DEFINA QUE ES HEMORRAGIA",
+    "correct": "A",
+    "A": "PÉRDIDA DE SANGRE",
+    "B": "BAJA DE OXÍGENO EN LA SANGRE.",
+    "C": "INSUFICIENCIA DE GLÓBULOS ROJOS POR TRAUMAS.",
+    "D": null
+  },
+  {
+    "id": 393,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "CUÁLES SON LOS TIPOS DE HEMORRAGIA:",
+    "correct": "A",
+    "A": "HEMORRAGIAS EXTERNAS E INTERNAS",
+    "B": "HEMORRAGIAS ALTERNAS.",
+    "C": "HEMORRAGIAS DE SHOCK.",
+    "D": "NINGUNA DE LAS ANTERIORES."
+  },
+  {
+    "id": 394,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "¿CUÁL ES EL MÉTODO PRÁCTICO DE CONTENER UNA HEMORRAGIA EXTERNA?",
+    "correct": "A",
+    "A": "CON PRESIÓN LOCAL.",
+    "B": "ENTABLILLAMIENTO",
+    "C": "SUTURA DE EMERGENCIA",
+    "D": null
+  },
+  {
+    "id": 395,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "SE DENOMINA HIPERTENSIÓN ARTERIAL A LOS VALORES COMPRENDIDOS ENTRE:",
+    "correct": "C",
+    "A": "50 MM/HG - 100 MM/HG",
+    "B": "85 MM/HG - 120 MM/HG",
+    "C": "160 MM/HG - 100 MM/HG",
+    "D": null
+  },
+  {
+    "id": 396,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "PARO CARDIO-PULMONAR ES:",
+    "correct": "B",
+    "A": "LA DETENCIÓN MECÁNICA DE LA RESPIRACIÓN.",
+    "B": "LA CESACIÓN BRUSCA E INESPERADA DE LA ACTIVIDAD CARDÍACA Y RESPIRATORIA.",
+    "C": "LA DETENCIÓN DE LOS LATIDOS DEL CORAZÓN",
+    "D": null
+  },
+  {
+    "id": 397,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "¿QUÉ ES LO PRIMERO QUE HARÍA, ANTE UNA PERSONA SANGRANDO?",
+    "correct": "D",
+    "A": "LLAMAR A UN MÉDICO.",
+    "B": "SALIR CORRIENDO.",
+    "C": "COLOCAR UN TORNIQUETE.",
+    "D": "HACERLE COMPRESIÓN DIGITAL."
+  },
+  {
+    "id": 398,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "SI DURANTE UN ASCENSO RÁPIDO UN PASAJERO SE QUEJA DE INTENSO DOLOR ABDOMINAL, LA CAUSA PROBABLE SERÁ:",
+    "correct": "C",
+    "A": "ESTÁ ANSIOSO.",
+    "B": "TIENE CÓLICO",
+    "C": "SUFRE DE EXPANSIÓN DE GASES ABDOMINALES.",
+    "D": "SUFRE DE INTOXICACIÓN ALIMENTARIA."
+  },
+  {
+    "id": 399,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "¿DIGA CUÁL DE LAS SIGUIENTES MANIOBRAS SERÁ LA CORRECTA, PARA TRATAR DE SALVAR LA VIDA DE UN NIÑO, SI ÉSTE SE ATRAGANTA UNA MONEDA?",
+    "correct": "C",
+    "A": "COLOCARLO CABEZA ABAJO.",
+    "B": "DARLE GOLPES EN LA ESPALDA",
+    "C": "MANIOBRA DE AUMENTO DE PRESIÓN ABDOMINAL.",
+    "D": "TRAQUEOTOMÍA"
+  },
+  {
+    "id": 400,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "SI UN PASAJERO SE QUEJA DE DOLOR EN LOS OÍDOS DURANTE LA FASE DE ASCENSO EN UN VUELO, LA CAUSA MÁS PROBABLE SERÁ:",
+    "correct": "B",
+    "A": "INFECCIÓN",
+    "B": "EXPANSIÓN DE GASES EN EL OÍDO.",
+    "C": "MIEDO",
+    "D": "TODOS LOS ANTERIORES."
+  },
+  {
+    "id": 401,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "LA COLORACIÓN AZULADA QUE PRESENTA UNA PERSONA POR INSUFICIENCIA RESPIRATORIA, SE LLAMA CIANOSIS.",
+    "correct": "A",
+    "A": "VERDADERO",
+    "B": "FALSO",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 402,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "EQUIMOSIS ES LA HINCHAZÓN DE LA PIEL, PRODUCIDA POR UN GOLPE.",
+    "correct": "B",
+    "A": "VERDADERO",
+    "B": "FALSO.",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 403,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "LA HERIDA PRODUCIDA POR UNA BALA PUEDE SER PUNZANTE",
+    "correct": "B",
+    "A": "VERDADERO",
+    "B": "FALSO",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 404,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "HIPERTENSIÓN, ES LA BAJA DE LA PRESIÓN ARTERIAL.",
+    "correct": "B",
+    "A": "VERDADERO",
+    "B": "FALSO.",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 405,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "FRACTURA, ES LA DESCOMPOSICIÓN ARTERIAL DEL CUERPO HUMANO.",
+    "correct": "B",
+    "A": "VERDADERO",
+    "B": "FALSO.",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 406,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "EL TORNIQUETE, SE DEBE COLOCAR EN CASOS DE AMPUTACIÓN",
+    "correct": "A",
+    "A": "VERDADERO",
+    "B": "FALSO",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 407,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "EL TRONCO DEL CUERPO HUMANO, SE DIVIDE EN TÓRAX Y ABDOMEN.",
+    "correct": "A",
+    "A": "VERDADERO",
+    "B": "FALSO",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 408,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "A LOS MOVIMIENTOS BRUSCOS E INCORDINADOS DE LOS GRUPOS MUSCULARES, Y CON PERDIDA O NO DEL CONOCIMIENTO, SE LES DENOMINA:",
+    "correct": "D",
+    "A": "DESMAYOS.",
+    "B": "LESIONES CRANEALES.",
+    "C": "EPILEPSIA",
+    "D": "CONVULSIONES."
+  },
+  {
+    "id": 409,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "PODEMOS DEFINIR A LA ASFIXIA, COMO;",
+    "correct": "B",
+    "A": "UNA FORMA DE DISBARISMO.",
+    "B": "INCAPACIDAD FÍSICA O MECÁNICA PARA RESPIRAR.",
+    "C": "FALTA DE OXIGENO EN LA SANGRE.",
+    "D": "ESTADO DE SHOCK."
+  },
+  {
+    "id": 410,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "¿COMO TRATARÍA USTED A UN PASAJERO QUE PRESENTA UN CUADRO DE HIPOXIA?",
+    "correct": "A",
+    "A": "SE LE ADMINISTRA OXÍGENO.",
+    "B": "SE RESTABLECE LA CIRCULACIÓN",
+    "C": "SE LE COLOCA AMONÍACO.",
+    "D": null
+  },
+  {
+    "id": 411,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "LOS ENTABLILLADOS SE REALIZAN A LESIONADOS QUE TENGAN:",
+    "correct": "C",
+    "A": "FRACTURAS EN EL TÓRAX.",
+    "B": "FRACTURAS EN LA PELVIS.",
+    "C": "FRACTURA DE HUMERO Y FÉMUR.",
+    "D": null
+  },
+  {
+    "id": 412,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "UNA PERSONA QUE SUFRA UNA BAJA EN TEMPERATURA TENDRÁ:",
+    "correct": "B",
+    "A": "GLICEMIA",
+    "B": "HIPOTERMIA",
+    "C": "UN RESFRIADO.",
+    "D": "HIPOXIA."
+  },
+  {
+    "id": 413,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "PARA DETERMINAR LA GRAVEDAD DE UNA QUEMADURA, SE TOMA EN CUENTA LOS SIGUIENTES FACTORES:",
+    "correct": "A",
+    "A": "EXTENSIÓN Y PROFUNDIDAD DE LA QUEMADURA.",
+    "B": "PROFUNDIDAD EN LOS ÓRGANOS",
+    "C": "EDAD DE LA PERSONA.",
+    "D": "UBICACIÓN DE LA QUEMADURA."
+  },
+  {
+    "id": 414,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "¿LOS PASOS BÁSICOS PARA PROPORCIONAR RESPIRACIÓN ARTIFICIAL BOCA A BOCA, SON?",
+    "correct": "D",
+    "A": "COMPROBAR LA CONCIENCIA DE LA PERSONA, INCLINACIÓN DE LA CABEZA PARA ABRIR LAS VÍAS RESPIRATORIAS, INSUFLACIONES, CONTROL DEL PULSO Y COMPRESIONES TORÁXICAS.",
+    "B": "COMPRESIÓN TORÁXICA, CONTROL DEL PULSO, TRASLADO A UN PUESTO ASISTENCIAL.",
+    "C": "CONTROL DEL PULSO, COMPRESIONES TORÁXICAS, RESPIRACIÓN BOCA A BOCA Y LEVANTAR AL PACIENTE.",
+    "D": "DESPEJAR LA VÍA RESPIRATORIA, HIPEREXENCIÓN DEL CUELLO, INSUFLAXIONES, BOCA A BOCA ,BOCA NARIZ Y POR VENTOSA"
+  },
+  {
+    "id": 415,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "¿CÓMO SE DETIENE EL SANGRAMIENTO DE UNA HERIDA EN EL CUELLO?",
+    "correct": "B",
+    "A": "CON TORNIQUETE",
+    "B": "CON COMPRESIÓN LOCAL Y APÓSITOS.",
+    "C": "CON COMPRESAS",
+    "D": null
+  },
+  {
+    "id": 416,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "¿QUÉ SE LE ADMINISTRA A UNA PERSONA CON SIGNOS DE ENVENENAMIENTO POR GASES TÓXICOS ?",
+    "correct": "D",
+    "A": "AGUA Y SE LE PROVOCA EL VÓMITO.",
+    "B": "LECHE Y SE LE PROVOCA EL VÓMITO",
+    "C": "ACEITE Y SE LE PROVOCA EL VÓMITO",
+    "D": "OXÍGENO Y SE LE COLOCA EN UN ÁREA DESPEJADA."
+  },
+  {
+    "id": 417,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "¿CÓMO SE RECONOCE A UNA PERSONA CON POSIBLE FRACTURA DE COLUMNA?",
+    "correct": "D",
+    "A": "POR POSICIÓN ANTINATURAL",
+    "B": "POR DOLOR DE CABEZA Y MAREOS.",
+    "C": "POR DOLORES DE CINTURA AL CAMINAR",
+    "D": "POR IMPOTENCIA FUNCIONAL, DOLOR Y PARÁLISIS."
+  },
+  {
+    "id": 418,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "LA HEMORRAGIA VENOSA SE CARACTERIZA POR:",
+    "correct": "A",
+    "A": "FLUJO DE SANGRE, COLORACIÓN OSCURA Y SALIDA CONSTANTE",
+    "B": "COLORACIÓN BRILLANTE Y CON FLUIDEZ POR INTERVALOS.",
+    "C": "COLORACIÓN SEMIBRILLANTE Y FLUIDEZ RÁPIDA.",
+    "D": null
+  },
+  {
+    "id": 419,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "CUANDO UN MIEMBRO DE LA TRIPULACIÓN CONSUME UNA PEQUEÑA CANTIDAD DE ALCOHOL, ESTE NO DEBERÍA VOLAR POR LO MENOS EN:",
+    "correct": "C",
+    "A": "4 HORAS",
+    "B": "24 HORAS",
+    "C": "8 HORAS",
+    "D": "NO TIENE IMPORTANCIA"
+  },
+  {
+    "id": 420,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "LA MEJOR MANERA DE CONTROLAR LA DESORIENTACIÓN ESPACIAL ES:",
+    "correct": "C",
+    "A": "DESCANSAR EN LAS SENSACIONES DEL CUERPO",
+    "B": "AUMENTAR LA RATA DE RESPIRACIÓN",
+    "C": "RECURRIR A LA INDICACIÓN DE LOS INSTRUMENTOS",
+    "D": "LLAMANDO A LA TORRE DE CONTROL"
+  },
+  {
+    "id": 421,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "LOS SÍNTOMAS DEL VÉRTIGO DURANTE EL VUELO SE PUEDEN RECONOCER POR:",
+    "correct": "D",
+    "A": "TENSIÓN MUSCULAR.",
+    "B": "SOMNOLENCIA.",
+    "C": "SENSACIÓN DE AUTO ROTACIÓN",
+    "D": "DESORIENTACIÓN ESPACIAL"
+  },
+  {
+    "id": 422,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "LA HIPERVENTILACIÓN PUEDE PRODUCIR:",
+    "correct": "A",
+    "A": "INDIGESTIÓN, SOFOCACIÓN, ELIMINACIÓN EXCESIVA DE CO2.",
+    "B": "INCONSCIENCIA.",
+    "C": "SENSACIÓN DE AUTOROTACIÓN.",
+    "D": null
+  },
+  {
+    "id": 423,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "SON DOS SÍNTOMAS SUBJETIVOS PARA RECONOCER LA HIPOXIA:",
+    "correct": "A",
+    "A": "VISIÓN BORROSA, SENSACIÓN DE MAREOS.",
+    "B": "RIGIDEZ MUSCULAR, CONVULSIONES.",
+    "C": "INCONSCIENCIA. DESMAYO.",
+    "D": null
+  },
+  {
+    "id": 424,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "LOS ÓRGANOS DEL EQUILIBRIO SÓN:",
+    "correct": "A",
+    "A": "VISIÓN Y OÍDO.",
+    "B": "VISIÓN Y OLFATO",
+    "C": "VISIÓN Y TACTO",
+    "D": "TACTO Y OÍDO"
+  },
+  {
+    "id": 425,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "CUANDO UN TRIPULANTE PADECE DE RESFRIADO DEBE:",
+    "correct": "B",
+    "A": "AUTOMEDICARSE ALGÚN MEDICAMENTO PARA LA GRIPE",
+    "B": "DIRIGIRSE A UN MÉDICO ESPECIALISTA PARA QUE LO RECETE",
+    "C": "ACUDIR A UNA FARMACIA",
+    "D": null
+  },
+  {
+    "id": 426,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "LA HIPOXIA, DARÁ COMO RESULTADO UNA DE LAS SIGUIENTES CONDICIONES:",
+    "correct": "A",
+    "A": "INSUFICIENTE OXÍGENO EN EL CEREBRO",
+    "B": "EXCESIVO DIÓXIDO DE CARBONO EN LA SANGRE.",
+    "C": "EXCESIVO OXÍGENO EN LA SANGRE.",
+    "D": "INSUFICIENTE DIÓXIDO DE CARBONO EN LA SANGRE"
+  },
+  {
+    "id": 427,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "ENTRE LAS HEMORRAGIAS EXTERNAS, CUALES SON LAS MÁS USUALES:",
+    "correct": "D",
+    "A": "HEMORRAGIAS NASALES O EPITAXIS.",
+    "B": "SANGRAMIENTO POR LOS OÍDOS",
+    "C": "VARICES ROTAS",
+    "D": "HEMORROIDES SANGRANTES."
+  },
+  {
+    "id": 428,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "QUE DEBE HACERSE ANTE UNA HEMORRAGIA NASAL:",
+    "correct": "D",
+    "A": "TAPONEAR EL CONDUCTO NASAL INTRODUCIENDO GASA HÚMEDA.",
+    "B": "HACER PRESIÓN SOBRE LOS LÓBULOS O ALETAS DE LA NARIZ.",
+    "C": "APLICAR HIELO EN LA ZONA NASAL Y TAPONEAR CON GASA.",
+    "D": "TODAS LAS ANTERIORES."
+  },
+  {
+    "id": 429,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "QUE SE DEBE HACER ANTE UN SANGRAMIENTO POR LOS OÍDOS:",
+    "correct": "A",
+    "A": "TENER EN CUENTA QUE ES UNA GRAVE SEÑAL DE ALARMA.",
+    "B": "SI SE PRODUCE DESPUÉS DE UN TRAUMATISMO, DARLE MEDICAMENTOS.",
+    "C": "APLICAR COMPRESAS EN LOS OÍDOS.",
+    "D": "NINGUNA DE LAS ANTERIORES."
+  },
+  {
+    "id": 430,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "LAS QUEMADURAS SE CLASIFICAN EN:",
+    "correct": "C",
+    "A": "LEVES, MODERADAS, GRAVES.",
+    "B": "10N, 30N, 80N DE SUPERFICIE.",
+    "C": "PRIMER GRADO, SEGUNDO GRADO Y TERCER GRADO.",
+    "D": null
+  },
+  {
+    "id": 431,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "SI SE SOSPECHA DE UNA FRACTURA A NIVEL DE LA COLUMNA CERVICAL (CUELLO) SE DEBE:",
+    "correct": "C",
+    "A": "MOVILIZAR LO MÁS RÁPIDAMENTE POSIBLE.",
+    "B": "REALIZAR CURA A NIVEL DE CUELLO.",
+    "C": "SE DEBE ACENTUAR LA INMOVILIZACIÓN COLOCANDO SOPORTES QUE IMPIDEN LA ROTACIÓN O BALANCEO DE LA CABEZA.",
+    "D": null
+  },
+  {
+    "id": 432,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "LAS HERIDAS SE CLASIFICAN:",
+    "correct": "C",
+    "A": "LACERANTES, EXCORIACIÓN, AVULSIÓN, EXPLOSIÓN.",
+    "B": "ARMAS DE FUEGO, PUNZO PENETRANTES, ESQUIRLAS, CONTUSAS.",
+    "C": "TODAS LAS ANTERIORES.",
+    "D": null
+  },
+  {
+    "id": 433,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "LAS FRACTURAS SE CLASIFICAN EN:",
+    "correct": "B",
+    "A": "LARGAS Y CORTAS.",
+    "B": "ABIERTAS Y CERRADAS.",
+    "C": "LEVES, MODERADAS Y GRAVES.",
+    "D": null
+  },
+  {
+    "id": 434,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "MARQUE LO QUE NO SE DEBE HACER EN CASO QUE SE SOSPECHE DE FRACTURA:",
+    "correct": "C",
+    "A": "ATENDER LA HEMORRAGIA SI LA HAY.",
+    "B": "INFUNDIR ÁNIMO AL ACCIDENTADO.",
+    "C": "INTENTAR ENDEREZAR EL MIEMBRO AFECTADO.",
+    "D": null
+  },
+  {
+    "id": 435,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "¿CUÁNDO SE DEBE COLOCAR UN TORNIQUETE?",
+    "correct": "A",
+    "A": "EN HERIDAS EN UN MIEMBRO EN EL CUAL NO PARE EL SANGRAMIENTO CON COMPRESAS.",
+    "B": "EN HERIDAS DE CUELLO.",
+    "C": "EN CASO DE EPISTAXIS.",
+    "D": "EN AMPUTACIONES."
+  },
+  {
+    "id": 436,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "LOS DISBARISMOS SON:",
+    "correct": "C",
+    "A": "MANIFESTACIONES DEBIDAS A LOS CAMBIOS DE PRESIÓN ARTERIAL",
+    "B": "CIERTAS FORMAS DE TRAUMATISMOS",
+    "C": "MANIFESTACIONES DEBIDAS A CAMBIOS DE PRESIÓN ATMOSFÉRICA.",
+    "D": "NO HAY MANIFESTACIONES"
+  },
+  {
+    "id": 437,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "EN LAS ZONAS TROPICALES, ES MAS COMÚN QUE LOS PASAJEROS DURANTE EL VUELO SUFRAN DE:",
+    "correct": "B",
+    "A": "ANGINAS DE PECHO.",
+    "B": "TRASTORNOS GASTRO- INTESTINALES.",
+    "C": "CASOS DE MAREOS.",
+    "D": "TRASTORNOS RESPIRATORIOS."
+  },
+  {
+    "id": 438,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "UNO DE LOS SÍNTOMAS CARACTERÍSTICOS DE LA CIANOSIS, ES:",
+    "correct": "B",
+    "A": "CONFUSIÓN MENTAL Y PÉRDIDA DEL JUICIO.",
+    "B": "UÑAS Y LABIOS DE COLOR AZULADOS.",
+    "C": "PALIDEZ E INCONSCIENCIA",
+    "D": "RESPIRACIÓN ENTRECORTADA."
+  },
+  {
+    "id": 439,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "EN CASO DE UNA BAROSINUSITIS, PODEMOS SOPLAR CON LA NARIZ Y BOCA TAPADAS; ESTA MANIOBRA SE DENOMINA:",
+    "correct": "D",
+    "A": "DE HEIMLICH.",
+    "B": "DE BOYLE.",
+    "C": "DE HIMMLER.",
+    "D": "DE VALSALVA."
+  },
+  {
+    "id": 440,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "AL PRESENTARSE UNA HERIDA, \"NO\" SE DEBE:",
+    "correct": "B",
+    "A": "LAVAR CON AGUA OXIGENADA PARA EVITAR LA CONTAMINACIÓN",
+    "B": "RETIRAR DE INMEDIATO TODO OBJETO CAUSANTE DE LA HERIDA",
+    "C": "APLICAR UN ANTISÉPTICO TIPO BETADINE, POVIDINE, O RIFOCINA",
+    "D": "LIMPIAR LA HERIDA CON ALCOHOL ISOPROPÍLICO"
+  },
+  {
+    "id": 441,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "HEMORRAGIA CON SANGRE DE COLOR ROJO BRILLANTE, Y FLUJO INTERMITENTE AL RITMO DE LAS PULSACIONES, ES:",
+    "correct": "B",
+    "A": "CAPILAR",
+    "B": "ARTERIAL",
+    "C": "VENOSA",
+    "D": "HEMOTRÓPICA"
+  },
+  {
+    "id": 442,
+    "category": "REGULACIONES",
+    "question": "EL TÉRMINO \"MIEMBRO DE LA TRIPULACIÓN\" SIGNIFICA:",
+    "correct": "B",
+    "A": "LOS PILOTOS, EL MECÁNICO DE ABORDO (SI ES REQUERIDO),Y LA TRIPULACIÓN AUXILIAR",
+    "B": "TODA PERSONA, A LA QUE SE LE ASIGNEN OBLIGACIONES QUE HA DE CUMPLIR DENTRO DE UNA AERONAVE, DURANTE EL TIEMPO DE VUELO",
+    "C": "TODA PERSONA, A LA QUE SE LE ASIGNEN OBLIGACIONES DENTRO DE UNA AERONAVE EN VUELO, EXCEPTUANDO LOS PILOTOS Y EL MECÁNICO DE A BORDO (SI ES REQUERIDO)",
+    "D": "TODAS LAS ANTERIORES."
+  },
+  {
+    "id": 443,
+    "category": "REGULACIONES",
+    "question": "EL SERVICIO DE TRANSPORTE AÉREO COMERCIAL INTERNO, ESTÁ RESERVADO A:",
+    "correct": "B",
+    "A": "LÍNEAS AÉREAS INTERNACIONALES.",
+    "B": "LÍNEAS AÉREAS NACIONALES,",
+    "C": "LAS AERONAVES CON MATRÍCULAS P, CP. C,A,E.X.",
+    "D": "LÍNEAS AÉREAS NACIONALES E INTERNACIONALES."
+  },
+  {
+    "id": 444,
+    "category": "REGULACIONES",
+    "question": "EL SÍMBOLO I.M.C. SIGNIFICA:",
+    "correct": "B",
+    "A": "REGLAS DE VUELO INSTRUMENTAL.",
+    "B": "CONDICIONES METEOROLÓGICAS INSTRUMENTALES.",
+    "C": "CONDICIONES METEOROLÓGICAS VISUALES.",
+    "D": "REGLAS DE VUELO VISUAL"
+  },
+  {
+    "id": 445,
+    "category": "REGULACIONES",
+    "question": "SE DEFINE AERÓDROMO ALTERNATIVO CÓMO:",
+    "correct": "A",
+    "A": "EL AERÓDROMO ESPECIFICADO EN EL PLAN DE VUELO, AL CUAL PUEDE DIRIGIRSE UNA AERONAVE CUANDO NO SEA ACONSEJABLE ATERRIZAR EN EL AERÓDROMO DE ATERRIZAJE PREVISTO.",
+    "B": "EL ÁREA DEFINIDA DE TIERRA O DE AGUA DESTINADA TOTAL O PARCIALMENTE A LA LLEGADA Y PARTIDA DE LAS AERONAVES",
+    "C": "LOS AEROPUERTOS DE USO ESTRATÉGICO.",
+    "D": "NINGUNA DE LAS RESPUESTAS ANTERIORES."
+  },
+  {
+    "id": 446,
+    "category": "REGULACIONES",
+    "question": "EN VENEZUELA, LA AUTORIDAD AERONÁUTICA SERÁ EJERCIDA POR :",
+    "correct": "B",
+    "A": "EL PRESIDENTE DEL AEROPUERTO INTERNACIONAL DE MAIQUETÍA.",
+    "B": "EL PRESIDENTE DEL INSTITUTO NACIONAL DE AERONÁUTICA CIVIL, Y DEMÁS FUNCIONARIOS.",
+    "C": "EL MINISTRO DE INFRAESTRUCTURA.",
+    "D": "EL MINISTERIO DE SEGURIDAD Y ESTADO."
+  },
+  {
+    "id": 447,
+    "category": "REGULACIONES",
+    "question": "LA DISTANCIA VERTICAL ENTRE UN NIVEL, PUNTO U OBJETO CONSIDERADO COMO PUNTO, Y EL NIVEL MEDIO DEL MAR, SE DENOMINA:",
+    "correct": "C",
+    "A": "ELEVACIÓN",
+    "B": "ALTURA",
+    "C": "ALTITUD.",
+    "D": "DISTANCIA."
+  },
+  {
+    "id": 448,
+    "category": "REGULACIONES",
+    "question": "LA DISTANCIA VERTICAL ENTRE UN NIVEL, PUNTO U OBJETO CONSIDERADO COMO PUNTO, Y UNA REFERENCIA ESPECIFICADA SE DENOMINA:",
+    "correct": "A",
+    "A": "ALTURA",
+    "B": "ALTITUD.",
+    "C": "ELEVACIÓN.",
+    "D": "LATITUD"
+  },
+  {
+    "id": 449,
+    "category": "REGULACIONES",
+    "question": "LAS AERONAVES VENEZOLANAS, SE CLASIFICAN EN:",
+    "correct": "B",
+    "A": "AERONAVES CIVILES Y MILITARES.",
+    "B": "AERONAVES DE ESTADO Y CIVILES.",
+    "C": "AERONAVES COMERCIALES, PRIVADAS, AGRÍCOLAS, DE ESCUELAS, Y EXPERIMENTALES.",
+    "D": "AERONAVES DE USO MILITAR, DE POLICÍA, Y DE ADUANAS."
+  },
+  {
+    "id": 450,
+    "category": "REGULACIONES",
+    "question": "EL SERVICIO DE BÚSQUEDA, ASISTENCIA Y SALVAMENTO DE AERONAVES, TRIPULANTES, PASAJEROS Y BIENES TRANSPORTADOS, ES:",
+    "correct": "A",
+    "A": "DE INTERÉS PÚBLICO.",
+    "B": "DE INTERÉS PRIVADO.",
+    "C": "DE INTERÉS PÚBLICO Y PRIVADO.",
+    "D": "RESPONSABILIDAD DE LOS EXPLOTADORES."
+  },
+  {
+    "id": 451,
+    "category": "REGULACIONES",
+    "question": "MIEMBRO DE LA TRIPULACIÓN, OBLIGADO A CUMPLIR CON ASIGNACIONES PAUTADAS POR EL EXPLOTADOR O PILOTO AL MANDO DE UNA AERONAVE, EN INTERÉS DE LA SEGURIDAD DE LOS PASAJEROS.ES LA DEFINICIÓN DE:",
+    "correct": "C",
+    "A": "PILOTO AL MANDO, PILOTO SEGUNDO AL MANDO, MECÁNICO DE A BORDO (SI ES REQUERIDO), Y AUXILIARES DE CABINA",
+    "B": "TODA PERSONA A QUIEN SE LE ASIGNEN OBLIGACIONES, DENTRO DE UNA AERONAVE EN VUELO.",
+    "C": "TODA PERSONA POSEEDORA DE UNA LICENCIA DE TÉCNICO AERONÁUTICO, Y SU HABILITACIÓN COMO TRIPULANTE DE CABINA",
+    "D": "TODAS LAS ANTERIORES"
+  },
+  {
+    "id": 452,
+    "category": "REGULACIONES",
+    "question": "TRANSCURRIDO CUANTO TIEMPO, SE DECLARARÁ LA PÉRDIDA DE UNA AERONAVE:",
+    "correct": "D",
+    "A": "PASADOS MÁS DE NOVENTA (90) DÍAS CONTINUOS.",
+    "B": "PASADOS TRES (03) MESES.",
+    "C": "PASADO 01 (UN) AÑO.",
+    "D": "PASADOS NOVENTA (90) DÍAS CONTINUOS."
+  },
+  {
+    "id": 453,
+    "category": "REGULACIONES",
+    "question": "EL DOCUMENTO QUE ACREDITA QUE UNA AERONAVE SE ENCUENTRA EN CONDICIONES DE VUELO SATISFACTORIAS, ES:",
+    "correct": "C",
+    "A": "EL TÍTULO DE PROPIEDAD",
+    "B": "EL CERTIFICADO DE MATRÍCULA.",
+    "C": "EL CERTIFICADO DE AERONAVEGABILIDAD.",
+    "D": "EL PERMISO DE VUELO."
+  },
+  {
+    "id": 454,
+    "category": "REGULACIONES",
+    "question": "TODAS LAS AERONAVES CIVILES EXTRANJERAS, QUE VUELEN EL ESPACIO AÉREO VENEZOLANO, SU TRIPULACIÓN, PASAJEROS, Y EFECTOS TRANSPORTADOS EN ELLAS, QUEDAN SOMETIDOS A:",
+    "correct": "C",
+    "A": "LAS LEYES DEL PAÍS DONDE ESTÉ MATRICULADA LA AERONAVE.",
+    "B": "LAS LEYES VENEZOLANAS.",
+    "C": "EL ORDENAMIENTO JURÍDICO VENEZOLANO VIGENTE.",
+    "D": "EL REGLAMENTO DE LA ORGANIZACIÓN DE AVIACIÓN CIVIL INTERNACIONAL (OACI)."
+  },
+  {
+    "id": 455,
+    "category": "REGULACIONES",
+    "question": "UNA AERONAVE QUE OSTENTE LAS MARCAS DE NACIONALIDAD Y MATRÍCULA YV 362T, NOS INDICA:",
+    "correct": "D",
+    "A": "LA MARCA DE LA NACIONALIDAD, SEÑALADAS POR LAS LETRAS YV.",
+    "B": "LA MARCA DE LA MATRÍCULA, SEÑALADA POR EL NÚMERO 362.",
+    "C": "LA DESIGNACIÓN DE MATRÍCULA TEMPORAL SEÑALADA , POR LA LETRA T.",
+    "D": "TODAS LAS RESPUESTAS SON CORRECTAS."
+  },
+  {
+    "id": 456,
+    "category": "REGULACIONES",
+    "question": "LA PALABRA MAYDAY TRANSMITIDA POR RADIO TELEFONÍA, ES UNA SEÑAL DE:",
+    "correct": "B",
+    "A": "EMERGENCIA",
+    "B": "SOCORRO",
+    "C": "URGENCIA.",
+    "D": "AUXILIO"
+  },
+  {
+    "id": 457,
+    "category": "REGULACIONES",
+    "question": "LAS REGLAS DE VUELO, SON:",
+    "correct": "C",
+    "A": "VMC-IMC.",
+    "B": "IMC-IFR.",
+    "C": "IFR-VFR.",
+    "D": "DIUR.--NOC."
+  },
+  {
+    "id": 458,
+    "category": "REGULACIONES",
+    "question": "EL ANEXO DE LA O.A.C.I., QUE TRATA SOBRE EL TRANSPORTE AÉREO DE MERCANCÍAS PELIGROSAS, ES:",
+    "correct": "B",
+    "A": "EL ANEXO 11.",
+    "B": "EL ANEXO 18.",
+    "C": "EL ANEXO 7.",
+    "D": "EL ANEXO 3."
+  },
+  {
+    "id": 459,
+    "category": "REGULACIONES",
+    "question": "EL ANEXO DE LA O.A.C.I., REFERENTE AL SERVICIO METEOROLÓGICO PARA LA NAVEGACIÓN AÉREA INTERNACIONAL, ES:",
+    "correct": "A",
+    "A": "EL ANEXO 3.",
+    "B": "EL ANEXO 6.",
+    "C": "EL ANEXO 11.",
+    "D": "EL ANEXO 18."
+  },
+  {
+    "id": 460,
+    "category": "REGULACIONES",
+    "question": "LA LUZ ROJA DE NAVEGACIÓN DE UNA AERONAVE, SE ENCUENTRA UBICADA EN:",
+    "correct": "B",
+    "A": "LA PUNTA DEL ALA O PLANO DERECHO.",
+    "B": "LA PUNTA DEL ALA O PLANO IZQUIERDO.",
+    "C": "EN LA PARTE POSTERIOR O COLA DE LA AERONAVE.",
+    "D": "EN LA NARIZ DEL AVIÓN"
+  },
+  {
+    "id": 461,
+    "category": "REGULACIONES",
+    "question": "LA TERCERA LIBERTAD DEL AIRE, ES:",
+    "correct": "B",
+    "A": "EL PRIVILEGIO DE VOLAR SOBRE EL TERRITORIO DE CUALQUIER ESTADO CONTRATANTE, SIN ATERRIZAR",
+    "B": "EL PRIVILEGIO DE DESEMBARCAR PASAJEROS, CORREO Y CARGA EN EL TERRITORIO DE CUALQUIER ESTADO CONTRATANTE, Y CON DESTINO AL ESTADO AL CUAL PERTENECE LA AERONAVE.",
+    "C": "EL PRIVILEGIO DE TRANSPORTAR PASAJEROS, CORREO Y CARGA, EN EL TERRITORIO DE CUALQUIER ESTADO CONTRATANTE, Y CON DESTINO AL ESTADO AL CUAL PERTENECE LA AERONAVE.",
+    "D": "EL PRIVILEGIO DE TRANSPORTAR PASAJEROS, CORREO Y CARGA, DESDE EL TERRITORIO DE CUALQUIER ESTADO CONTRATANTE, Y CON DESTINO AL ESTADO AL CUAL PERTENECE LA AERONAVE"
+  },
+  {
+    "id": 462,
+    "category": "REGULACIONES",
+    "question": "LA MÁXIMA AUTORIDAD A BORDO DE LOS PASAJEROS, TRIPULACIÓN, EQUIPAJE, CARGA Y CORREO, DURANTE EL VUELO Y MANIOBRAS EN TIERRA DE UNA AERONAVE VENEZOLANA, ES:",
+    "correct": "B",
+    "A": "EL PROPIETARIO DE LA AERONAVE.",
+    "B": "EL COMANDANTE PILOTO AL MANDO",
+    "C": "LA EMPRESA OPERADORA DE LA AEROLÍNEA.",
+    "D": "EL CAPITÁN, NOMBRADO POR EL DUEÑO DE LA AEROLÍNEA."
+  },
+  {
+    "id": 463,
+    "category": "REGULACIONES",
+    "question": "BAJO LA INFLUENCIA DE BEBIDAS ALCOHÓLICAS, O DE CUALQUIER SUSTANCIA PSICOACTIVA (DROGAS) :",
+    "correct": "B",
+    "A": "NADIE EFECTUARÁ LA FUNCIÓN DE PILOTEAR UNA AERONAVE, NI ACTUARÁ COMO MIEMBRO DE LA TRIPULACIÓN DE VUELO.",
+    "B": "NADIE COMANDARÁ UNA AERONAVE, NI ACTUARÁ COMO MIEMBRO DE LA TRIPULACIÓN.",
+    "C": "NADIE PODRÁ ACTUAR COMO MIEMBRO DE LA TRIPULACIÓN DE CABINA.",
+    "D": "NADIE PODRÁ ACTUAR COMO MECÁNICO A BORDO."
+  },
+  {
+    "id": 464,
+    "category": "REGULACIONES",
+    "question": "LAS AERONAVES OSTENTARÁN LA MARCA DE NACIONALIDAD:",
+    "correct": "C",
+    "A": "DEL ESTADO DONDE SE ENCUENTRAN RESIDENCIADO (S) SUS PROPIETARIO (S)",
+    "B": "DEL ESTADO DE ORIGEN DE SU DUEÑO Y CONSTRUCCIÓN.",
+    "C": "DEL ESTADO DONDE ESTÁ REGISTRADA, Y NO PODRÁ POSEER SINO UNA SOLA MATRÍCULA.",
+    "D": "DEL PAÍS DONDE FUE FABRICADA, Y NO PODRÁ POSEER SINO UNA SOLA NACIONALIDAD."
+  },
+  {
+    "id": 465,
+    "category": "REGULACIONES",
+    "question": "SEGÚN EL ORDENAMIENTO JURÍDICO NACIONAL, EL SERVICIO DE BÚSQUEDA, ASISTENCIA Y SALVAMENTO DE AERONAVES, TRIPULANTES, PASAJEROS Y BIENES TRANSPORTADOS, ESTARÁ A CARGO DE:",
+    "correct": "D",
+    "A": "EL CENTRO DE CONTROL DE TRÁFICO AÉREO.",
+    "B": "EL SERVICIO DE BÚSQUEDA Y SALVAMENTO.",
+    "C": "LA DIRECCIÓN DE AERONÁUTICA CIVIL.",
+    "D": "CENTRO COORDINADOR DE BÚSQUEDA Y SALVAMENTO"
+  },
+  {
+    "id": 466,
+    "category": "REGULACIONES",
+    "question": "LOS VUELOS VISUALES SE REALIZARÁN:",
+    "correct": "C",
+    "A": "A VELOCIDADES TRANSÓNICAS Y SUPERSÓNICAS.",
+    "B": "POR ENCIMA DEL NIVEL 200.",
+    "C": "DESDE LA SALIDA, HASTA LA PUESTA DEL SOL.",
+    "D": "CON SOL DESPEJADO Y BUEN TIEMPO."
+  },
+  {
+    "id": 467,
+    "category": "REGULACIONES",
+    "question": "LA SEGUNDA FASE DE EMERGENCIA, SE DENOMINA:",
+    "correct": "C",
+    "A": "DESTREFA",
+    "B": "INCERFA",
+    "C": "ALERFA",
+    "D": "PREVERFA"
+  },
+  {
+    "id": 468,
+    "category": "REGULACIONES",
+    "question": "LA PALABRA PAN-PAN, TRANSMITIDA POR RADIO- TELEFONÍA, ES UNA SEÑAL DE:",
+    "correct": "B",
+    "A": "EMERGENCIA",
+    "B": "URGENCIA",
+    "C": "SOCORRO.",
+    "D": "AUXILIO"
+  },
+  {
+    "id": 469,
+    "category": "REGULACIONES",
+    "question": "LAS LUCES DE NAVEGACIÓN DE LAS AERONAVES, ESTÁN UBICADAS DE LA SIGUIENTE MANERA:",
+    "correct": "A",
+    "A": "LUZ VERDE, PUNTA DEL ALA DERECHA (110°). LUZ ROJA, PUNTA DEL ALA IZQUIERDA (110°). LUZ BLANCA (140°) EN EL CONO DE COLA.",
+    "B": "LUZ VERDE, PUNTA DEL ALA IZQUIERDA (110°), LUZ ROJA, PUNTA DEL ALA DERECHA (110), LUZ BLANCA (140°) EN EL CONO DE COLA.",
+    "C": "LUZ VERDE, PUNTA DEL ALA DERECHA (140°), LUZ ROJA, PUNTA DEL ALA IZQUIERDA (140°), LUZ BLANCA (110°) EN EL CONO DE COLA.",
+    "D": "LUZ BLANCA, EN LAS ALAS (180°), LUZ ROJA, EN EL FUSELAJE (360°) LUZ VERDE, EN EL CONO DE COLA (140°)"
+  },
+  {
+    "id": 470,
+    "category": "REGULACIONES",
+    "question": "LA FASE DE ALERTA DE UNA AERONAVE QUE ESTIMABA ARRIBAR A LAS 15.00 HRS.Y NO LO HIZO, NI SE TIENE CONOCIMIENTO DE ELLA, DEBE COMENZAR A LAS:",
+    "correct": "B",
+    "A": "15.00 HRS.",
+    "B": "15:30 HRS.",
+    "C": "16:00 HRS.",
+    "D": "15:15 HRS."
+  },
+  {
+    "id": 471,
+    "category": "REGULACIONES",
+    "question": "LA REGULACIÓN AERONÁUTICA VENEZOLANA 60 (RAV 60) ESTABLECE LAS DISPOSICIONES PARA:",
+    "correct": "B",
+    "A": "LICENCIAS PARA LOS TRIPULANTES DE CABINA.",
+    "B": "LICENCIAS AL PERSONAL AERONÁUTICO.",
+    "C": "REGLAS PARA LA SEGURIDAD DE VUELO",
+    "D": "NORMAS DE TRANSPORTE AÉREO"
+  },
+  {
+    "id": 472,
+    "category": "REGULACIONES",
+    "question": "¿QUE SECCIÓN DE LA RAV 60 CONTIENE LOS REQUISITOS PARA OTORGAR LA LICENCIA DE TRIPULANTE DE CABINA?",
+    "correct": "C",
+    "A": "LA SECCIÓN 60.25",
+    "B": "LA SECCIÓN 60.28",
+    "C": "LA SECCIÓN 60.26",
+    "D": "LA SECCIÓN 60.27"
+  },
+  {
+    "id": 473,
+    "category": "REGULACIONES",
+    "question": "¿CUAL ES LA EDAD MÍNIMA PARA OTORGAR LA LICENCIA DE TRIPULANTE DE CABINA, SEGÚN LA RAV 60?",
+    "correct": "C",
+    "A": "16 AÑOS",
+    "B": "21 AÑOS",
+    "C": "18 AÑOS",
+    "D": "20 AÑOS"
+  },
+  {
+    "id": 474,
+    "category": "REGULACIONES",
+    "question": "¿CUALES SON LAS ATRIBUCIONES DEL TITULAR DE UNA LICENCIA DE TRIPULANTE DE CABINA, SEGÚN LA RAV 60?:",
+    "correct": "C",
+    "A": "IMPARTIR INSTRUCCIÓN",
+    "B": "MANTENIMIENTO DE AERONAVES",
+    "C": "ACTUARÁ COMO TAL EN LOS TIPOS DE AERONAVES, QUE CONSTEN EN SU LICENCIA (HABILITACIÓN).",
+    "D": "VELAR POR LA SEGURIDAD DE LOS PASAJEROS"
+  },
+  {
+    "id": 475,
+    "category": "REGULACIONES",
+    "question": "EL TERMINO \"MIEMBRO DE LA TRIPULACIÓN DE VUELO\" ES LA DEFINICIÓN DE:",
+    "correct": "A",
+    "A": "PERSONAL TÉCNICO AERONÁUTICO RESPONSABLE DE LA OPERACIÓN, MANDO Y FUNCIONAMIENTO DE UNA AERONAVE Y SUS COMPONENTES DURANTE EL TIEMPO DE VUELO.",
+    "B": "LAS PERSONAS RESPONSABLES DE LA OPERACIÓN, MANDO, FUNCIONAMIENTO DE COMPONENTES Y COMODIDAD DE LOS PASAJEROS DENTRO DE UNA AERONAVES DURANTE EL VUELO.",
+    "C": "TODA PERSONA A LA QUE SE LE ASIGNAN FUNCIONES DENTRO DE UNA AERONAVE EN VUELO, INCLUIDOS LOS TÉCNICOS AERONÁUTICOS Y EL PERSONAL DE CABINA DE PASAJEROS.",
+    "D": "TODAS LAS RESPUESTAS SON CORRECTAS."
+  },
+  {
+    "id": 476,
+    "category": "REGULACIONES",
+    "question": "TRANSCURRIDO CUANTO TIEMPO, SE DECLARARÁ EL ABANDONO DE UNA AERONAVE:",
+    "correct": "A",
+    "A": "PASADOS MÁS DE NOVENTA (90) DÍAS CONTINUOS.",
+    "B": "PASADOS TRES (03) MESES.",
+    "C": "PASADO UN (01) AÑO.",
+    "D": "PASADOS NOVENTA (90) DÍAS CONTINUOS."
+  },
+  {
+    "id": 477,
+    "category": "REGULACIONES",
+    "question": "SEGÚN LAS RAV. SON FASES CRITICAS DE VUELO:",
+    "correct": "A",
+    "A": "TODAS LAS OPERACIONES EN TIERRA",
+    "B": "TODAS LAS OPERACIONES EN VUELO",
+    "C": "EL VUELO EN CRUCERO",
+    "D": "LOS VUELOS REALIZADOS SOBRE DIEZ MIL (10.000) PIES"
+  },
+  {
+    "id": 478,
+    "category": "REGULACIONES",
+    "question": "LA ABREVIATURA DEL SISTEMA HORARIO UTILIZADO EN LOS SERVICIOS AERONÁUTICOS EN VENEZUELA ES:",
+    "correct": "B",
+    "A": "GMT.",
+    "B": "UTC.",
+    "C": "LMT.",
+    "D": "ELT."
+  },
+  {
+    "id": 479,
+    "category": "REGULACIONES",
+    "question": "DÍA CALENDARIO, ES AQUEL QUE:",
+    "correct": "D",
+    "A": "SE INICIA CON LA SALIDA Y FINALIZA CON LA PUESTA DEL SOL.",
+    "B": "SE INICIA A LAS SIETE (07) DE LA MAÑANA Y FINALIZA A LAS SEIS (06) DE LA TARDE.",
+    "C": "SE INICIA A LAS DOCE (12) DE LA MEDIA NOCHE Y FINALIZA A LAS DOCE (12) DEL MEDIO DÍA SIGUIENTE.",
+    "D": "SE INICIA A LAS DOCE (12) DE LA MEDIA NOCHE Y FINALIZA A LAS DOCE (12) DE LA MEDIA NOCHE SIGUIENTE."
+  },
+  {
+    "id": 480,
+    "category": "REGULACIONES",
+    "question": "CUANDO LA ALTURA DESDE EL SUELO HASTA LA SALIDA O VENTANILLA DE EMERGENCIA, SEA MAYOR A...?... PIES, DEBEN PROVEERSE MEDIOS PARA LA EVACUACIÓN INMEDIATA DE LOS PASAJEROS.",
+    "correct": "C",
+    "A": "TRES (03) PIES.",
+    "B": "NUEVE (09) PIES.",
+    "C": "SEIS (06) PIES.",
+    "D": "QUINCE (15) PIES."
+  },
+  {
+    "id": 481,
+    "category": "REGULACIONES",
+    "question": "LAS LIMITACIONES DE TIEMPO DE SERVICIO Y/O PERÍODOS DE DESCANSO PARA LOS (LAS) TRIPULANTES DE CABINA, LAS DICTAN LA RAV. N° :",
+    "correct": "C",
+    "A": "RAV. 60.",
+    "B": "RAV. 110.",
+    "C": "RAV. 121.",
+    "D": "RAV. 145."
+  },
+  {
+    "id": 482,
+    "category": "REGULACIONES",
+    "question": "EL TÉRMINO \" PERIODO DE DESCANSO DE LA TRIPULACIÓN \" ES LA DEFINICIÓN DE :",
+    "correct": "B",
+    "A": "PERÍODO LIBRE POR OCHO (08) HORAS CONSECUTIVAS, DESPUÉS DE TRABAJAR QUINCE (15) HORAS CONTINUAS.",
+    "B": "PERÍODO LIBRE DE TODA RESPONSABILIDAD, CONTROL LABORAL O SERVICIO.",
+    "C": "OCHO (08) HORAS DE DESCANSO CONTINUO EN TIERRA, CUANDO ESTÉ FUERA DE SU BASE.",
+    "D": "PERÍODO DE DESCANSO POR OCHO (08) HORAS, DESPUÉS DE EFECTUAR ALGÚN VUELO, COMISIÓN O SERVICIO."
+  },
+  {
+    "id": 483,
+    "category": "REGULACIONES",
+    "question": "SEGÚN LAS RAV. NO SON FASES CRÍTICAS DE VUELO :",
+    "correct": "C",
+    "A": "TODAS LAS OPERACIONES EN VUELO.",
+    "B": "TODAS LAS OPERACIONES EN TIERRA.",
+    "C": "EL VUELO RECTO Y NIVELADO.",
+    "D": "LOS VUELOS REALIZADOS POR DEBAJO DE DIEZ MIL (10.000) PIES."
+  },
+  {
+    "id": 484,
+    "category": "REGULACIONES",
+    "question": "SEGÚN LAS REGULACIONES AERONÁUTICAS VENEZOLANAS ( RAV ) , LA TRIPULACIÓN DE CABINA MÍNIMA REQUERIDA SE DEFINE COMO :",
+    "correct": "A",
+    "A": "LA CANTIDAD MÍNIMA DE TRIPULANTES DE CABINA EXIGIDA POR LA AUTORIDAD AERONÁUTICA, DE ACUERDO A LA CANTIDAD DE PASAJEROS A BORDO.",
+    "B": "LA CANTIDAD MÍNIMA DE TRIPULANTES DE CABINA PROGRAMADA POR LA EMPRESA, CON EL OBJETO DE BRINDAR A LOS PASAJEROS UN MEJOR SERVICIO.",
+    "C": "LA CANTIDAD MÍNIMA DE TRIPULANTES DE CABINA EXIGIDA POR LA AUTORIDAD AERONÁUTICA, DE ACUERDO AL NÚMERO DE ASIENTOS PARA PASAJEROS A BORDO.",
+    "D": "LA CANTIDAD DE TRIPULANTES DE CABINA NECESARIOS SEGÚN EL TAMAÑO DE LA AERONAVE."
+  },
+  {
+    "id": 485,
+    "category": "REGULACIONES",
+    "question": "EL TIEMPO DE TRASLADO NO LOCAL, QUE EFECTÚAN LAS EMPRESAS NACIONALES DE TRANSPORTE AÉREO DESDE O HASTA SU SITIO DE TRABAJO A LOS TRIPULANTES DE UNA AEROLÍNEA, SERÁ :",
+    "correct": "B",
+    "A": "CORRE POR CUENTA DE LOS MIEMBROS DE LA TRIPULACIÓN.",
+    "B": "NO ES CONSIDERADO PARTE DEL PERÍODO DE DESCANSO.",
+    "C": "SE CONSIDERA COMO UN PORCENTAJE DEL TIEMPO DE SERVICIO.",
+    "D": "LAS RESPUESTAS ANTERIORES SON TODAS CORRECTAS."
+  },
+  {
+    "id": 486,
+    "category": "REGULACIONES",
+    "question": "NINGÚN MIEMBRO DE LA TRIPULACIÓN DE CABINA, PODRÁ EJERCER LAS ATRIBUCIONES CORRESPONDIENTES A SU LICENCIA, A MENOS QUE DENTRO DE LOS DOCE (12) MESES CALENDARIOS PRECEDENTES: HAYAN COMPLETADO SATISFACTORIAMENTE:",
+    "correct": "D",
+    "A": "UNA EVALUACIÓN DE APTITUD Y DESTREZA, EFECTUADA POR LA EMPRESA DONDE TRABAJA.",
+    "B": "EL ADIESTRAMIENTO RECURRENTE DE VUELO Y UNA EVALUACIÓN DE COMPETENCIA EN TIERRA",
+    "C": "UN CURSO DE ADIESTRAMIENTO, EN UN PROGRAMA APROBADO Y UNA EVALUACIÓN DE COMPETENCIA.",
+    "D": "EL ADIESTRAMIENTO RECURRENTE DE TIERRA Y UNA EVALUACIÓN DE COMPETENCIA."
+  },
+  {
+    "id": 487,
+    "category": "REGULACIONES",
+    "question": "DURANTE EL DESPEGUE Y LOS ATERRIZAJES LOS NIÑOS MENORES DE 2 AÑOS:",
+    "correct": "B",
+    "A": "DEBERÁN CONTAR CON UN ASIENTO CON CINTURÓN DE SEGURIDAD.",
+    "B": "PODRÁN SER LLEVADOS EN BRAZOS POR UNA PERSONA ADULTA QUE OCUPE UN ASIENTO.",
+    "C": "DEBERÁN SER ACOMPAÑADOS POR UN TRIPULANTE AUXILIAR DE CABINA.",
+    "D": null
+  },
+  {
+    "id": 488,
+    "category": "REGULACIONES",
+    "question": "¿QUÉ ATRIBUCIONES TENDRÁ UN TRIPULANTE DE CABINA?",
+    "correct": "A",
+    "A": "ACTUAR SEGÚN LO ESTABLECIDO EN SU RESPECTIVA LICENCIA Y HABILITACIÓN.",
+    "B": "SERÁ RESPONSABLE DE LA SEGURIDAD DE LOS PASAJEROS.",
+    "C": "TENDRÁ LA RESPONSABILIDAD DE LA ATENCIÓN A LOS PASAJEROS.",
+    "D": null
+  },
+  {
+    "id": 489,
+    "category": "REGULACIONES",
+    "question": "LAS INSTRUCCIONES A LOS PASAJEROS SOBRE EL EQUIPO DE SEGURIDAD Y EMERGENCIA, DEBE INCLUIR UBICACIÓN Y USO DE:",
+    "correct": "A",
+    "A": "CINTURÓN DE SEGURIDAD, CHALECOS SALVAVIDAS (SI APLICA), SISTEMA DE OXÍGENO Y UBICACIÓN DE LAS SALIDAS DE EMERGENCIA",
+    "B": "CINTURÓN DE SEGURIDAD, SALIDAS DE EMERGENCIA, EQUIPO DE OXÍGENO, TARJETA DE SEGURIDAD Y EQUIPOS DE AUDIO Y VIDEO.",
+    "C": "CINTURÓN DE SEGURIDAD, SALIDAS POR TOBOGANES, CHALECOS Y BALSA SALVAVIDAS (SI APLICA) Y EQUIPOS DE OXÍGENO.",
+    "D": null
+  },
+  {
+    "id": 490,
+    "category": "REGULACIONES",
+    "question": "LAS COMIDAS DEL PILOTO Y COPILOTO DEBERÁN:",
+    "correct": "B",
+    "A": "SER DISTINTAS ENTRE SI PARA EVITAR INTOXICACIÓN, Y SE PUEDE SUMINISTRAR SIMULTÁNEAMENTE.",
+    "B": "SER DISTINTAS ENTRE SI, Y SE SUMINISTRARAN EN DIFERENTES HORARIOS.",
+    "C": "SER FRÍAS PARA EVITAR QUEMADURAS, Y SE SUMINISTRARAN EN DIFERENTES HORARIOS.",
+    "D": null
+  },
+  {
+    "id": 491,
+    "category": "REGULACIONES",
+    "question": "EL ACCESO A LA CABINA DE MANDO:",
+    "correct": "C",
+    "A": "QUEDA PROHIBIDO A CUALQUIER PERSONA AJENA A LA TRIPULACIÓN.",
+    "B": "ESTA PERMITIDO SOLO A LAS PERSONAS AUTORIZADAS POR EL GERENTE DE OPERACIONES.",
+    "C": "QUEDA PROHIBIDO DURANTE LA FASE COCKPIT ESTÉRIL.",
+    "D": null
+  },
+  {
+    "id": 492,
+    "category": "REGULACIONES",
+    "question": "EN CASO DE PRESENTARSE UN INCENDIO DE METALES (MAGNESIO, ALUMINIO, ETC.) ¿QUE TIPO DE EXTINTOR DEBE USARSE?",
+    "correct": "A",
+    "A": "POLVO QUÍMICO SECO.",
+    "B": "HALÓN 1211.",
+    "C": "AGUA.",
+    "D": "NINGUNO DE LOS ANTERIORES."
+  },
+  {
+    "id": 493,
+    "category": "REGULACIONES",
+    "question": "A LA CABINA DE MANDO DURANTE UN VUELO:",
+    "correct": "B",
+    "A": "PUEDE INGRESAR CUALQUIER PERSONA.",
+    "B": "SE LE PROHÍBE EL ACCESO A CUALQUIER PERSONA AJENA A LA TRIPULACIÓN.",
+    "C": "PUEDEN INGRESAR SOLO PERSONAS AUTORIZADAS POR EL TRIPULANTE.",
+    "D": "PUEDEN INGRESAR TODAS LAS PERSONAS QUE LO DESEEN, SIEMPRE Y CUANDO ESTAS LLEVEN CONSIGO UNA AUTORIZACIÓN DEL GERENTE DE OPERACIONES."
+  },
+  {
+    "id": 494,
+    "category": "REGULACIONES",
+    "question": "DE ACUERDO A LAS REGULACIONES AERONÁUTICAS VENEZOLANAS LOS (AS) TRIPULANTES DE CABINA DEBEN CONOCER LAS PRECAUCIONES DE SEGURIDAD ABORDO ,EN TIERRA Y ALREDEDOR DE LA AERONAVE Y TAMBIÉN LOS ELEMENTOS BÁSICOS DE NAVEGACIÓN:",
+    "correct": "A",
+    "A": "VERDADERO.",
+    "B": "FALSO.",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 495,
+    "category": "REGULACIONES",
+    "question": "PARA EL CUMPLIMIENTO DE SUS FUNCIONES, LOS TRIPULANTES DE CABINA DEBEN:",
+    "correct": "B",
+    "A": "TENER UNA LICENCIA AERONÁUTICA QUE LE ACREDITE COMO AUXILIAR DE ABORDO.",
+    "B": "SER TITULAR DE UNA LICENCIA DE TÉCNICO AERONÁUTICO, CON SUS RESPECTIVAS HABILITACIONES.",
+    "C": "ESTAR AUTORIZADO POR LA GERENCIA DE OPERACIONES DE UNA EMPRESA AÉREA.",
+    "D": "HABER SIDO NOMBRADO POR EL DUEÑO DE UNA AEROLÍNEA O COMPAÑÍA AÉREA."
+  },
+  {
+    "id": 496,
+    "category": "REGULACIONES",
+    "question": "UNA AERONAVE TRASPORTANDO MAS DE 60, PERO MENOS DE 100 PASAJEROS, DEBE: DE ACUERDO A LAS REGULACIONES VIGENTES LLEVAR, AL MENOS:",
+    "correct": "C",
+    "A": "05 LINTERNAS CON PILAS Y OPERATIVAS.",
+    "B": "01 BOTIQUÍN DE PRIMEROS AUXILIOS.",
+    "C": "01 MEGÁFONO OPERATIVO E INDEPENDIENTE DEL SISTEMA ELÉCTRICO DE LA AERONAVE.",
+    "D": "02 EQUIPOS DE URGENCIAS MÉDICAS."
+  },
+  {
+    "id": 497,
+    "category": "REGULACIONES",
+    "question": "EN UNA AERONAVE QUE TRANSPORTA MAS DE 250 PASAJEROS, LA CANTIDAD DE BOTIQUINES DE PRIMEROS AUXILIOS, SEGÚN LAS RAV. SERÁ DE:",
+    "correct": "C",
+    "A": "06 BOTIQUINES.",
+    "B": "02 BOTIQUINES.",
+    "C": "04 BOTIQUINES.",
+    "D": "03 BOTIQUINES."
+  },
+  {
+    "id": 498,
+    "category": "REGULACIONES",
+    "question": "CUANDO LA ALTURA DESDE EL SUELO HASTA LA SALIDA O VENTANILLA DE EMERGENCIA, SEA MAYOR A_______METROS, DEBEN PROVEERSE MEDIOS PARA LA EVACUACIÓN INMEDIATA DE LOS PASAJEROS.",
+    "correct": "C",
+    "A": "01 MTS.",
+    "B": "03 MTS.",
+    "C": "02 MTS.",
+    "D": "05 MTS."
+  },
+  {
+    "id": 499,
+    "category": "REGULACIONES",
+    "question": "LAS RAV. LO DICTAN: ¿QUÉ CANTIDAD MÍNIMA DE EXTINTORES DEL TIPO \"HALÓN 1211 (BROMOCLOROFLUORMETANO)\" O SU EQUIVALENTE, SE DEBEN LLEVAR EN LAS CABINAS DE LAS AERONAVES COMERCIALES VENEZOLANAS?",
+    "correct": "A",
+    "A": "02 EXTINTORES PORTÁTILES.",
+    "B": "01 EXTINTOR PORTÁTIL.",
+    "C": "04 EXTINTORES PORTÁTILES.",
+    "D": "03 EXTINTORES PORTÁTILES."
+  },
+  {
+    "id": 500,
+    "category": "REGULACIONES",
+    "question": "SEGÚN LAS RAV. EL PERIODO DE DESCANSO MÍNIMO PARA LOS(LAS) TRIPULANTES DE CABINA, NUNCA PODRÁ SER MENOR DE:",
+    "correct": "C",
+    "A": "12 HRS.",
+    "B": "24 HRS.",
+    "C": "08 HRS.",
+    "D": "10 HRS."
+  },
+  {
+    "id": 501,
+    "category": "REGULACIONES",
+    "question": "UN EQUIPO DE EMERGENCIAS MÉDICAS, ES NECESARIO COMO MÍNIMO:",
+    "correct": "C",
+    "A": "EN TODOS LOS AVIONES DE PASAJEROS.",
+    "B": "EN AERONAVES PERTENECIENTES A LÍNEAS AÉREAS.",
+    "C": "EN AERONAVES PARA LAS CUALES SE REQUIERE UN (01) TRIPULANTE DE CABINA.",
+    "D": "EN AERONAVES CON MAS DE 09 ASIENTOS"
+  },
+  {
+    "id": 502,
+    "category": "REGULACIONES",
+    "question": "EQUIPOS O BOTIQUINES DE PRIMEROS AUXILIOS, SON NECESARIOS:",
+    "correct": "C",
+    "A": "EN LOS AVIONES CON TRIPULACIÓN EXTRA.",
+    "B": "EN LOS AVIONES CON TRIPULACIÓN AUXILIAR.",
+    "C": "EN TODAS LAS AERONAVES.",
+    "D": "EN AERONAVES QUE TRANSPORTEN PASAJEROS."
+  },
+  {
+    "id": 503,
+    "category": "REGULACIONES",
+    "question": "DE ACUERDO CON LAS RAV. VIGENTES, CADA TRIPULANTE EN SERVICIO DEBE POSEER PARA SU USO:",
+    "correct": "D",
+    "A": "UNA NAVAJA DE SUPER-VIVENCIA.",
+    "B": "UNA BRÚJULA ACTUALIZADA.",
+    "C": "UN TELÉFONO CELULAR CON PILAS DE LITIO.",
+    "D": "UNA LINTERNA CON PILAS, Y OPERATIVA."
+  },
+  {
+    "id": 504,
+    "category": "REGULACIONES",
+    "question": "LA CANTIDAD DE EQUIPOS O BOTIQUINES DE PRIMEROS AUXILIOS, PARA UNA AERONAVE CON CAPACIDAD DE 120 ASIENTOS P./ PASAJEROS, SERÁ :",
+    "correct": "B",
+    "A": "01",
+    "B": "02",
+    "C": "03",
+    "D": "04"
+  },
+  {
+    "id": 505,
+    "category": "REGULACIONES",
+    "question": "LA CANTIDAD MÍNIMA DE EXTINTORES PORTÁTILES, EN UNA AERONAVE CON CAPACIDAD PARA 30 PASAJEROS ES:",
+    "correct": "C",
+    "A": "03 EXTINTORES.",
+    "B": "02 EXTINTORES.",
+    "C": "01 EXTINTOR.",
+    "D": "04 EXTINTORES."
+  },
+  {
+    "id": 506,
+    "category": "REGULACIONES",
+    "question": "LAS SIGLAS RAV. SIGNIFICAN :",
+    "correct": "B",
+    "A": "REGISTRO AERONÁUTICO VENEZOLANO.",
+    "B": "REGULACIONES AERONÁUTICAS VENEZOLANAS.",
+    "C": "REGLAS AÉREAS VENEZOLANAS.",
+    "D": "RADIO AYUDAS DE VENEZUELA"
+  },
+  {
+    "id": 507,
+    "category": "REGULACIONES",
+    "question": "EN AVIACIÓN CIVIL, EL SIGNIFICADO DE LAS SIGUIENTES INICIALES : ICAO U OACI , ES :",
+    "correct": "C",
+    "A": "ORGANIZACIÓN AMERICANA DE COMERCIO INTERNACIONAL.",
+    "B": "OPERACIONES AÉREAS DE COMERCIO INTERNACIONAL.",
+    "C": "ORGANIZACIÓN DE AVIACIÓN CIVIL INTERNACIONAL.",
+    "D": "NINGUNA DE LAS ANTERIORES."
+  },
+  {
+    "id": 508,
+    "category": "REGULACIONES",
+    "question": "AERONÁUTICAMENTE HABLANDO, LA PALABRA AERONAVEGABILIDAD, SIGNIFICARÁ QUE :",
+    "correct": "A",
+    "A": "UNA AERONAVE ESTÁ SEGURA Y APTA PARA LA OPERACIÓN AÉREA.",
+    "B": "UNA AERONAVE SE ENCUENTRA FUERA DE SERVICIO",
+    "C": "UNA AERONAVE PUEDE VOLAR EN CUALQUIER CONDICIÓN EN QUE SE ENCUENTRE.",
+    "D": "TODAS LAS ANTERIORES."
+  },
+  {
+    "id": 509,
+    "category": "REGULACIONES",
+    "question": "LA PALABRA EMPENAJE, O SECCIÓN DEL EMPENAJE DE UN AVIÓN :",
+    "correct": "A",
+    "A": "SON: LOS PLANOS FIJOS DE COLA, EL TIMÓN Y LOS ELEVADORES.",
+    "B": "ES: EL RUDER Y EL ESTABILIZADOR VERTICAL.",
+    "C": "SON: LAS NACELAS Y MOTORES.",
+    "D": "SON: EL TIMÓN, LOS ELEVADORES Y LA COLA."
+  },
+  {
+    "id": 510,
+    "category": "REGULACIONES",
+    "question": "EL MIEMBRO DE LA TRIPULACIÓN QUE, EN INTERÉS DE LA SEGURIDAD DE LOS PASAJEROS, CUMPLE CON LAS OBLIGACIONES QUE LE ASIGNE EL EXPLOTADOR O EL PILOTO AL MANDO DE LA AERONAVE, PERO QUE NO ACTUARÁ COMO MIEMBRO DE LA TRIPULACIÓN DE VUELO CORRESPONDE :",
+    "correct": "C",
+    "A": "A MECÁNICO DE ABORDO.",
+    "B": "AL PILOTO AL MANDO.",
+    "C": "AL TRIPULANTE DE CABINA.",
+    "D": "NINGUNA DE LAS ANTERIORES."
+  },
+  {
+    "id": 511,
+    "category": "REGULACIONES",
+    "question": "COGNITIVO: PERTENECIENTE AL CONOCIMIENTO, CONOCER, PERCIBIR O CONCEBIR COMO ACTO O FACULTAD, DISTINTOS DE LOS EMOTIVOS Y VOLITIVOS.",
+    "correct": "A",
+    "A": "VERDADERO.",
+    "B": "FALSO.",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 512,
+    "category": "REGULACIONES",
+    "question": "LA ABREVIATURA DEL TRANSMISOR DE LOCALIZACIÓN DE EMERGENCIA, ES :",
+    "correct": "A",
+    "A": "ELT.",
+    "B": "MEL.",
+    "C": "PBE.",
+    "D": "TLE."
+  },
+  {
+    "id": 513,
+    "category": "REGULACIONES",
+    "question": "EL CONVENIO SOBRE AVIACIÓN CIVIL INTERNACIONAL (DOC. 7300 DE LA OACI), ¿FUE FIRMADO EN CHICAGO EL 7 DE DICIEMBRE DE 1944?:",
+    "correct": "A",
+    "A": "VERDADERO.",
+    "B": "FALSO.",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 514,
+    "category": "REGULACIONES",
+    "question": "PROPORCIONA UNA REPRESENTACIÓN EXACTA DE LA CABINA DE PILOTAJE DE UN TIPO EN PARTICULAR DE AERONAVE, HASTA EL PUNTO DE QUE SIMULA POSITIVAMENTE LAS FUNCIONES DE LOS MANDOS:",
+    "correct": "B",
+    "A": "COMPUTADOR.",
+    "B": "SIMULADOR.",
+    "C": "CABINA DE MANDO.",
+    "D": "EQUIPO DE ENTRENAMIENTO."
+  },
+  {
+    "id": 515,
+    "category": "REGULACIONES",
+    "question": "TODO ARTICULO O SUSTANCIA QUE, CUANDO SE TRANSPORTA POR VÍA AÉREA, PUEDE CONSTITUIR UN RIESGO IMPORTANTE PARA LA SALUD, LA SEGURIDAD, O LA PROPIEDAD:",
+    "correct": "C",
+    "A": "CARGA PAGADA.",
+    "B": "DESPACHOS.",
+    "C": "MERCANCÍAS PELIGROSAS.",
+    "D": "MERCANCÍAS PROHIBIDAS."
+  },
+  {
+    "id": 516,
+    "category": "REGULACIONES",
+    "question": "EL MIEMBRO DE LA TRIPULACIÓN DE VUELO, TITULAR DE LA CORRESPONDIENTE LICENCIA Y HABILITACIÓN, A QUIÉN SE ASIGNA OBLIGACIONES QUE HA DE CUMPLIR A BORDO, DURANTE EL TIEMPO DE VUELO CORRESPONDE AL :",
+    "correct": "B",
+    "A": "MECÁNICO DE A BORDO.",
+    "B": "MIEMBRO DE LA TRIPULACIÓN.",
+    "C": "DESPACHADOR DE VUELO.",
+    "D": "NINGUNA DE LAS ANTERIORES."
+  },
+  {
+    "id": 517,
+    "category": "REGULACIONES",
+    "question": "“PROFILAXIS \", ¿ES LA PREVENCIÓN DE ENFERMEDADES O LESIONES, O UN PROCESO QUE PUEDE EVITAR LA ENFERMEDAD O LESIÓN?",
+    "correct": "A",
+    "A": "VERDADERO.",
+    "B": "FALSO.",
+    "C": null,
+    "D": null
+  },
+  {
+    "id": 518,
+    "category": "REGULACIONES",
+    "question": "LA SIGLA INGLESA CRM, SIGNIFICA :",
+    "correct": "C",
+    "A": "ES UNA SECCIÓN DE LA CABINA PRINCIPAL.",
+    "B": "ES UNA SECCIÓN DE COLA.",
+    "C": "ES LA GESTIÓN DE RECURSOS DE LA TRIPULACIÓN.",
+    "D": "ES LA CABINA RESTRINGIDA DE MANDO."
+  },
+  {
+    "id": 519,
+    "category": "REGULACIONES",
+    "question": "EN AERONÁUTICA, EL TÉRMINO ABP SIGNIFICA :",
+    "correct": "B",
+    "A": "ADMINISTRACIÓN DE BOLSOS DE PASAJEROS.",
+    "B": "PERSONA EN BUENA CONDICIÓN FÍSICA.",
+    "C": "PROGRAMA DE BÚSQUEDA DE AERONAVES.",
+    "D": "NINGUNA DE LAS ANTERIORES."
+  },
+  {
+    "id": 520,
+    "category": "REGULACIONES",
+    "question": "EXPRESIÓN ANGLOSAJONA QUE SIGNIFICA SEGURIDAD DE LA AVIACIÓN :",
+    "correct": "B",
+    "A": "CRM.",
+    "B": "AVSEC.",
+    "C": "SARP.",
+    "D": "SAR."
+  },
+  {
+    "id": 521,
+    "category": "REGULACIONES",
+    "question": "EL TÉRMINO P.S.I. SIGNIFICA :",
+    "correct": "B",
+    "A": "SISTEMA DE OXÍGENO PARA LOS PASAJEROS.",
+    "B": "LIBRAS DE PRESIÓN POR PULGADAS CUADRADAS.",
+    "C": "PRESIÓN SUPERFICIAL INTERNA.",
+    "D": "UNA MEDIDA DE SUPERFICIE."
+  },
+  {
+    "id": 522,
+    "category": "REGULACIONES",
+    "question": "LA ABREVIATURA DEL DOCUMENTO MEDIANTE EL CUAL SE EMITEN AVISOS PARA EL PERSONAL QUE LABORA EN AERONÁUTICA , ES :",
+    "correct": "D",
+    "A": "ADREP.",
+    "B": "AIG.",
+    "C": "CRP.",
+    "D": "NOTAM."
+  },
+  {
+    "id": 523,
+    "category": "REGULACIONES",
+    "question": "EL SIGNIFICADO DE LA ABREVIATURA MEL. (DEL INGLES), EN TERMINOLOGÍA AERONÁUTICA COMERCIAL, ES :",
+    "correct": "B",
+    "A": "LISTA DE EQUIPOS MÍNIMOS REQUERIDOS POR LA TRIPULACIÓN DE MANDO DE UNA AERONAVE.",
+    "B": "LISTA DE EQUIPO MÍNIMO OPERATIVO CON EL CUAL ESTÁ AERONAVEGABLE UNA AERONAVE.",
+    "C": "LOS RECURSOS MÍNIMOS NECESARIOS PARA CASOS DE EMERGENCIA.",
+    "D": "UNA LISTA DE EQUIPOS MANUALES."
+  },
+  {
+    "id": 524,
+    "category": "REGULACIONES",
+    "question": "EL SIGNIFICADO DE LA ABREVIATURA PBE. ES :",
+    "correct": "B",
+    "A": "PRESIÓN DE BARÓMETRO EXTERNO.",
+    "B": "INHALADOR PROTECTOR PARA NIEBLA Y HUMO.",
+    "C": "PROCEDIMIENTO BÁSICO DE EMERGENCIA.",
+    "D": "BASE PRINCIPAL EXTRANJERA."
+  },
+  {
+    "id": 525,
+    "category": "REGULACIONES",
+    "question": "PARA LA AVIACIÓN CIVIL INTERNACIONAL Y NACIONAL, I.A.T.A. SIGNIFICA:",
+    "correct": "C",
+    "A": "INSTITUTO AUTÓNOMO DE TRANSPORTE AÉREO.",
+    "B": "TRANSPORTES AÉREOS INTERNACIONALES.",
+    "C": "ASOCIACIÓN INTERNACIONAL DEL TRANSPORTE AÉREO.",
+    "D": "NINGUNA DE LAS ANTERIORES."
+  },
+  {
+    "id": 526,
+    "category": "REGULACIONES",
+    "question": "EL SIGNIFICADO DE LAS INICIALES UTC., ES :",
+    "correct": "D",
+    "A": "ULTRALIVIANO COMERCIAL.",
+    "B": "UNIÓN DE TRANSPORTE COMERCIAL.",
+    "C": "CERTIFICADO TIPO ÚNICO.",
+    "D": "TIEMPO UNIVERSAL COORDINADO."
+  },
+  {
+    "id": 527,
+    "category": "REGULACIONES",
+    "question": "UN TIPO DE TURBULENCIA NO DETECTADA E IMPREVISTA, SU ABREVIATURA ( DEL INGLES ) ES :",
+    "correct": "B",
+    "A": "TND.",
+    "B": "CAT.",
+    "C": "DTA.",
+    "D": "AOG."
+  },
+  {
+    "id": 528,
+    "category": "REGULACIONES",
+    "question": "TODO ENTE CAPAZ DE ADQUIRIR DERECHOS Y CONTRAER OBLIGACIONES.",
+    "correct": "B",
+    "A": "DIRECTOR",
+    "B": "PERSONA",
+    "C": "JEFE",
+    "D": "CAPITÁN"
+  },
+  {
+    "id": 529,
+    "category": "REGULACIONES",
+    "question": "ÁREA DEFINIDA, EN UN AERÓDROMO O AEROPUERTO, DESTINADA A DAR CABIDA A LAS AERONAVES, PARA LOS FINES DE EMBARQUE DE PASAJEROS, CORREO O CARGA, ABASTECIMIENTO DE COMBUSTIBLE, ESTACIONAMIENTO O MANTENIMIENTO :",
+    "correct": "B",
+    "A": "RAMPA.",
+    "B": "PLATAFORMA.",
+    "C": "PARQUEADERO.",
+    "D": "ESTACIONAMIENTO."
+  },
+  {
+    "id": 530,
+    "category": "REGULACIONES",
+    "question": "AQUELLAS ACCIONES, HECHOS O TENTATIVAS, DESTINADOS A COMPROMETER LA SEGURIDAD DE LA AVIACIÓN CIVIL Y DEL TRANSPORTE AÉREO :",
+    "correct": "B",
+    "A": "ACTO DE SECUESTRO DE AERONAVES.",
+    "B": "ACTO DE INTERFERENCIA ILÍCITA.",
+    "C": "ACTO DE SABOTAJE DE AERONAVES O INSTALACIONES AERONÁUTICAS.",
+    "D": "ACTO DE INTERFERENCIA DE LAS COMUNICACIONES AERONÁUTICAS."
+  },
+  {
+    "id": 531,
+    "category": "REGULACIONES",
+    "question": "ABREVIATURA DE LA FORMA DE NOTIFICACIÓN DE DATOS DE ACCIDENTES DE AVIACIÓN.",
+    "correct": "A",
+    "A": "ADREP.",
+    "B": "AVSEC.",
+    "C": "SAR.",
+    "D": "CRM"
+  },
+  {
+    "id": 532,
+    "category": "REGULACIONES",
+    "question": "LA EXPRESIÓN ANGLOSAJONA AVSEC , SU SIGNIFICADO, ES :",
+    "correct": "C",
+    "A": "ACCIDENTE CEREBRO VASCULAR.",
+    "B": "SEGURIDAD AERONÁUTICA.",
+    "C": "SEGURIDAD DE LA AVIACIÓN.",
+    "D": "AVIACIÓN SEGURA."
+  },
+  {
+    "id": 533,
+    "category": "METEOROLOGÍA",
+    "question": "LA DISTANCIA VERTICAL EXISTENTE ENTRE UN PUNTO DETERMINADO Y UN OBJETO EN EL AIRE, TOMANDO COMO REFERENCIA EL NIVEL MEDIO DEL MAR SE DENOMINA:",
+    "correct": "B",
+    "A": "ALTURA",
+    "B": "ALTITUD",
+    "C": "ELEVACIÓN",
+    "D": "NIVEL DE VUELO"
+  },
+  {
+    "id": 534,
+    "category": "METEOROLOGÍA",
+    "question": "LAS NUBES ALTO CÚMULOS Y ALTO ESTRATO, PERTENECEN DE ACUERDO CON SU ALTITUD A LA SIGUIENTE CLASIFICACIÓN:",
+    "correct": "B",
+    "A": "NUBES ALTAS",
+    "B": "NUBES MEDIAS",
+    "C": "NUBES BAJAS",
+    "D": "NUBES DE GRAN DESARROLLO VERTICAL"
+  },
+  {
+    "id": 535,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "¿QUÉ SÍNTOMAS PRESENTA UN LESIONADO CON FUERTE TRAUMATISMO CRANEAL?",
+    "correct": "E",
+    "A": "VÓMITOS",
+    "B": "PÉRDIDA DE CONOCIMIENTO",
+    "C": "CONVULSIONES",
+    "D": "DESORIENTACIÓN",
+    "E": "TODAS LAS ANTERIORES"
+  },
+  {
+    "id": 536,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "ES CARACTERÍSTICA DE LAS CONVULSIONES:",
+    "correct": "E",
+    "A": "CUERPO RÍGIDO.",
+    "B": "PÉRDIDA DEL CONOCIMIENTO.",
+    "C": "FALTA DE CONTROL DE ESFÍNTERES",
+    "D": "BOTAR ESPUMA POR LA BOCA.",
+    "E": "TODAS LAS RESPUESTAS SON CORRECTAS."
+  },
+  {
+    "id": 537,
+    "category": "PRIMEROS AUXILIOS",
+    "question": "PUEDE SER CAUSA DE CONVULSIONES:",
+    "correct": "E",
+    "A": "LESIONES CRANEALES.",
+    "B": "ALCOHOLISMO.",
+    "C": "SATURNISMO.",
+    "D": "EPILEPSIA, TÉTANOS, RABIA",
+    "E": "TODAS LAS RESPUESTAS SON CORRECTAS."
+  }
+]
