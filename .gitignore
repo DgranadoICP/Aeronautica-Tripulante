@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+.claude/
+all_questions_review.txt
