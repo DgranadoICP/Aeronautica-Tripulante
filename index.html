@@ -109,6 +109,48 @@ body {
   border-color: var(--green);
 }
 
+.round-card.in-progress {
+  border-color: var(--orange);
+}
+
+.round-card .round-progress {
+  margin-top: 12px;
+  font-size: 0.95em;
+  font-weight: 600;
+  color: var(--orange);
+}
+
+.round-card .progress-mini {
+  height: 4px;
+  background: #e5e5ea;
+  border-radius: 2px;
+  margin-top: 8px;
+  overflow: hidden;
+}
+
+.round-card .progress-mini-fill {
+  height: 100%;
+  background: var(--orange);
+  border-radius: 2px;
+}
+
+.restart-round-link {
+  display: block;
+  width: 100%;
+  text-align: center;
+  background: none;
+  border: none;
+  color: var(--text2);
+  font-size: 0.85em;
+  font-weight: 500;
+  cursor: pointer;
+  padding: 8px;
+  margin-bottom: 12px;
+  text-decoration: underline;
+}
+
+.restart-round-link:hover { color: var(--red); }
+
 .round-card .round-number {
   font-size: 0.85em;
   color: var(--text2);
@@ -152,6 +194,10 @@ body {
 }
 
 .round-card.completed .round-badge { display: flex; }
+.round-card.in-progress .round-badge {
+  display: flex;
+  background: var(--orange);
+}
 
 .shuffle-btn {
   display: block;
@@ -687,6 +733,7 @@ body {
     <div class="progress-bar-container">
       <div class="progress-bar" id="progress-bar"></div>
     </div>
+    <button class="restart-round-link" onclick="restartRound()">↻ Reiniciar esta ronda</button>
     <div id="question-area"></div>
   </div>
 
@@ -945,23 +992,44 @@ function renderHome() {
 
   for (let i = 0; i < 6; i++) {
     const card = document.createElement('div');
-    card.className = 'round-card' + (state.scores[i] !== null ? ' completed' : '');
+    const isCompleted = state.scores[i] !== null;
+    const answerCount = (state.answers[i] || []).length;
+    const inProgress = !isCompleted && answerCount > 0;
+
+    card.className = 'round-card' + (isCompleted ? ' completed' : (inProgress ? ' in-progress' : ''));
 
     const hasQuestions = state.rounds.length > 0 && state.rounds[i] && state.rounds[i].length > 0;
     const qCount = hasQuestions ? state.rounds[i].length : 100;
 
+    let statusText, extraHtml = '';
+    if (isCompleted) {
+      statusText = 'Ronda completada';
+      extraHtml = `<div class="round-score">${state.scores[i]}/${qCount}</div>`;
+    } else if (inProgress) {
+      const pct = Math.round((answerCount / qCount) * 100);
+      statusText = `Continuar donde lo dejaste`;
+      extraHtml = `
+        <div class="round-progress">${answerCount} / ${qCount} respondidas</div>
+        <div class="progress-mini"><div class="progress-mini-fill" style="width:${pct}%"></div></div>
+      `;
+    } else {
+      statusText = hasQuestions ? 'Lista para iniciar' : 'Mezcla las preguntas primero';
+    }
+
+    const badgeIcon = inProgress ? '⏵' : '✓';
+
     card.innerHTML = `
-      <div class="round-badge">✓</div>
+      <div class="round-badge">${badgeIcon}</div>
       <div class="round-number">Ronda ${i + 1}</div>
       <div class="round-title">${qCount} preguntas</div>
-      <div class="round-info">${hasQuestions ? 'Lista para iniciar' : 'Mezcla las preguntas primero'}</div>
-      ${state.scores[i] !== null ? `<div class="round-score">${state.scores[i]}/${qCount}</div>` : ''}
+      <div class="round-info">${statusText}</div>
+      ${extraHtml}
     `;
 
-    if (hasQuestions && state.scores[i] === null) {
-      card.onclick = () => startRound(i);
-    } else if (state.scores[i] !== null) {
+    if (isCompleted) {
       card.onclick = () => showResults(i);
+    } else if (hasQuestions) {
+      card.onclick = () => startRound(i);
     }
 
     grid.appendChild(card);
@@ -970,16 +1038,41 @@ function renderHome() {
 
 function startRound(roundIndex) {
   state.currentRound = roundIndex;
-  state.currentQ = 0;
-  state.score = 0;
+
+  // Detect resume vs fresh start
+  const existing = state.answers[roundIndex] || [];
+  const hasProgress = existing.length > 0 && state.scores[roundIndex] === null;
+
+  if (hasProgress) {
+    // Resume: continue from next unanswered question
+    state.currentQ = existing.length;
+    state.score = existing.filter(a => a.isCorrect).length;
+  } else {
+    // Fresh start
+    state.currentQ = 0;
+    state.score = 0;
+    state.answers[roundIndex] = [];
+  }
   state.answered = false;
-  state.answers[roundIndex] = [];
   saveState();
 
   document.getElementById('home-screen').classList.add('hidden');
   document.getElementById('quiz-screen').classList.remove('hidden');
   document.getElementById('results-screen').classList.add('hidden');
 
+  renderQuestion();
+}
+
+function restartRound() {
+  if (state.currentRound < 0) return;
+  if (!confirm('¿Seguro que quieres reiniciar esta ronda? Se borrará el progreso de esta ronda solamente.')) return;
+  const r = state.currentRound;
+  state.answers[r] = [];
+  state.scores[r] = null;
+  state.currentQ = 0;
+  state.score = 0;
+  state.answered = false;
+  saveState();
   renderQuestion();
 }
 
