@@ -2,3 +2,6 @@ __pycache__/
 *.pyc
 .claude/
 all_questions_review.txt
+all_text.txt
+test_encoding.txt
+questions_raw.json
